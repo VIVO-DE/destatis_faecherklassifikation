@@ -13,3 +13,5 @@ This ontology is based on "Education and culture: personnel at universities - su
 Converted to SKOS by Tatiana Walther in collaboration with Christian Hauschke and Anna Kasprzik (Technische Informationsbibliothek (TIB) Hannover). The names and contents of the subject classification system remain unchanged.
 
 © Statistisches Bundesamt (Destatis), 2017
+
+The latest version of the Destatis subject classification "Education and culture: personnel at universities - subject classification - 2017; published on 5.12.2018; status: reporting year 2017; Federal Statistical Office (Destatis), 2018" in RDF - s. https://github.com/VIVO-DE/destatis_faecherklassifikation/releases/tag/v2.0
