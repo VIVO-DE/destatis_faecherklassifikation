@@ -5,6 +5,8 @@ In SKOS konvertiert von Tatiana Walther unter Mitwirkung von Christian Hauschke 
 
 © Statistisches Bundesamt (Destatis), 2017
 
+Die aktuelle Version der Fächersystematik "Bildung und Kultur: Personal an Hochschulen - Fächersystematik - 2017; Erschienen am 5.12.2018; Stand: Berichtsjahr 2017; Statistisches Bundesamt (Destatis), 2018" in RDF-Format - s. https://github.com/VIVO-DE/destatis_faecherklassifikation/releases/tag/v2.0 
+
 # Destatis subject classification "Personnel at universities - subject classification"
 
 This ontology is based on "Education and culture: personnel at universities - subject classification - 2015; status: reporting year 2015; Federal Statistical Office (Destatis), 2015".
