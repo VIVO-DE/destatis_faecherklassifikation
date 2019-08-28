@@ -601,7 +601,7 @@
     <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/7350"/>
     <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/675"/>
     <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/6710"/>
-    <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/3670"/>
+    <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/3570"/>
     <skos:narrower rdf:resource="https://onto.tib.eu/destf/cs/760"/>
     <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/6790"/>
     <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/730"/>
@@ -1018,7 +1018,7 @@
     <skos:prefLabel xml:lang="de">Medienwirtschaft/Medienmanagement</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="https://onto.tib.eu/destf/cs/">
-    <rdfs:comment xml:lang="de">Diese Ontologie basiert auf "Bildung und Kultur: Personal an Hochschulen - Fächersystematik - 2015; Stand: Berichtsjahr 2015; Statistisches Bundesamt (Destatis), 2015"; in SKOS konvertiert von Tatiana Walther unter Mitwirkung von Christian Hauschke und Anna Kasprzik (Technische Informationsbibliothek (TIB) Hannover). Die Bezeichnungen und Inhalte der Fächersystematik blieben unverändert.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Diese Ontologie basiert auf "Bildung und Kultur: Personal an Hochschulen - Fächersystematik - 2017; Erschienen am 5.12.2018; Stand: Berichtsjahr 2017; Statistisches Bundesamt (Destatis), 2018"; in SKOS konvertiert von Tatiana Walther unter Mitwirkung von Christian Hauschke (Technische Informationsbibliothek (TIB) Hannover). Die Bezeichnungen und Inhalte der Fächersystematik blieben unverändert.</rdfs:comment>
     <skos:hasTopConcept rdf:resource="https://onto.tib.eu/destf/cs/20"/>
     <skos:hasTopConcept rdf:resource="https://onto.tib.eu/destf/cs/09"/>
     <skos:hasTopConcept rdf:resource="https://onto.tib.eu/destf/cs/04"/>
@@ -1027,12 +1027,12 @@
     <skos:prefLabel xml:lang="de">Personal an Hochschulen - Fächersystematik</skos:prefLabel>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <skos:hasTopConcept rdf:resource="https://onto.tib.eu/destf/cs/08"/>
-    <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2017-05-15</owl:versionInfo>
+    <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2019-07-01</owl:versionInfo>
     <skos:hasTopConcept rdf:resource="https://onto.tib.eu/destf/cs/03"/>
     <skos:hasTopConcept rdf:resource="https://onto.tib.eu/destf/cs/05"/>
     <skos:hasTopConcept rdf:resource="https://onto.tib.eu/destf/cs/07"/>
     <skos:hasTopConcept rdf:resource="https://onto.tib.eu/destf/cs/15"/>
-    <rdfs:comment xml:lang="de">© Statistisches Bundesamt (Destatis), 2017</rdfs:comment>
+    <rdfs:comment xml:lang="de">© Statistisches Bundesamt (Destatis), 2018</rdfs:comment>
   </rdf:Description>
   <rdf:Description rdf:about="https://onto.tib.eu/destf/cs/5120">
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5120</skos:notation>
@@ -2326,7 +2326,7 @@
     <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/3520"/>
     <skos:narrower rdf:resource="https://onto.tib.eu/destf/cs/3510"/>
     <skos:narrower rdf:resource="https://onto.tib.eu/destf/cs/3530"/>
-    <skos:narrower rdf:resource="https://onto.tib.eu/destf/cs/3670"/>
+    <skos:narrower rdf:resource="https://onto.tib.eu/destf/cs/3570"/>
     <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/3560"/>
     <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/3530"/>
     <skos:inScheme rdf:resource="https://onto.tib.eu/destf/cs/"/>
@@ -2339,7 +2339,7 @@
     <skos:narrower rdf:resource="https://onto.tib.eu/destf/cs/2990"/>
     <skos:narrower rdf:resource="https://onto.tib.eu/destf/cs/3560"/>
     <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/3510"/>
-    <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/3670"/>
+    <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/3570"/>
     <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/3550"/>
     <skos:narrowerTransitive rdf:resource="https://onto.tib.eu/destf/cs/3500"/>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">765</skos:notation>
@@ -5248,7 +5248,7 @@
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <skos:broader rdf:resource="https://onto.tib.eu/destf/cs/140"/>
     <skos:broaderTransitive rdf:resource="https://onto.tib.eu/destf/cs/01"/>
-    <skos:prefLabel xml:lang="de">Sonstige/Außereuropäische Sprach- und Kulturwissenschaften</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Sonstige/Außereuropäische Sprach- und Kulturwissenschaften allgemein</skos:prefLabel>
   </rdf:Description>
   <rdf:Description rdf:about="https://onto.tib.eu/destf/cs/3638">
     <skos:inScheme rdf:resource="https://onto.tib.eu/destf/cs/"/>
@@ -5973,7 +5973,7 @@
     <skos:broader rdf:resource="https://onto.tib.eu/destf/cs/710"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://onto.tib.eu/destf/cs/3110">
-    <skos:prefLabel xml:lang="de">Facility Management Schwerpunkt</skos:prefLabel>
+    <skos:prefLabel xml:lang="de">Facility Management</skos:prefLabel>
     <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3110</skos:notation>
     <skos:broaderTransitive rdf:resource="https://onto.tib.eu/destf/cs/03"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
@@ -6801,8 +6801,8 @@
     <skos:broader rdf:resource="https://onto.tib.eu/destf/cs/400"/>
     <skos:broaderTransitive rdf:resource="https://onto.tib.eu/destf/cs/400"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://onto.tib.eu/destf/cs/3670">
-    <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3670</skos:notation>
+  <rdf:Description rdf:about="https://onto.tib.eu/destf/cs/3570">
+    <skos:notation rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3570</skos:notation>
     <skos:inScheme rdf:resource="https://onto.tib.eu/destf/cs/"/>
     <skos:broader rdf:resource="https://onto.tib.eu/destf/cs/765"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
