@@ -1,17 +1,11 @@
-# Destatis-Fächerklassifikation "Personal an Hochschulen - Fächersystematik"
+# Übersetzungsdienst SKOS/ RDF und englische Übersetzung der Destatis-Fachklassifikation "Personal an Hochschulen - Fachklassifikation"
 
-Diese Ontologie basiert auf "Bildung und Kultur: Personal an Hochschulen - Fächersystematik - 2017; Erschienen am 5.12.2018; Stand: Berichtsjahr 2017; Statistisches Bundesamt (Destatis), 2018".
-In SKOS konvertiert von Tatiana Walther unter Mitwirkung von Christian Hauschke (Technische Informationsbibliothek (TIB) Hannover). Die Bezeichnungen und Inhalte der Fächersystematik sind unverändert.
+Dieses Projekt bietet einen automatischen Übersetzungsdienst für RDF-Dateien. Es führt eine automatische Übersetzung von skos:prefLabel- und skos:note-Literalen durch und fügt übersetzte rdfs:label-Literale zur Ontologie hinzu.
 
-© Statistisches Bundesamt (Destatis), 2018
+Der Dienst verwendet eine automatisierte Übersetzung, wobei die Google Translate API als Ausgangspunkt für die Übersetzung der Literale verwendet wird. Die Literale werden dann manuell weiter bearbeitet und aktualisiert, um eine englische Übersetzung der Destatis-Fachsystematik "Personal an Hochschulen - Fachsystematik" bereitzustellen. Die Destatis-Fachsystematik „Personal an Hochschulen – Fachsystematik“ wurde ursprünglich von Tatiana Walther unter Beteiligung von Christian Hauschke (Technische Informationsbibliothek (TIB) Hannover) in SKOS überführt. Die Bezeichnungen und Inhalte des Fachsystems bleiben unverändert
 
-Die aktuelle Version der Fächersystematik "Bildung und Kultur: Personal an Hochschulen - Fächersystematik - 2017; Erschienen am 5.12.2018; Stand: Berichtsjahr 2017; Statistisches Bundesamt (Destatis), 2018" in RDF-Format - s. https://github.com/VIVO-DE/destatis_faecherklassifikation/releases/tag/v2.0 
+# SKOS/ RDF translation service and English translation of Destatis subject classification "Personnel at universities - subject classification"
 
-# Destatis subject classification "Personnel at universities - subject classification"
+This project provides an automatic translation service for RDF files. It performs automatic translation of skos:prefLabel and skos:note literals and adds translated rdfs:label literals to the ontology.
 
-This ontology is based on "Education and culture: personnel at universities - subject classification - 2017; published on 5.12.2018; status: reporting year 2017; Federal Statistical Office (Destatis), 2018".
-Converted to SKOS by Tatiana Walther in collaboration with Christian Hauschke (Technische Informationsbibliothek (TIB) Hannover). The names and contents of the subject classification system remain unchanged.
-
-© Statistisches Bundesamt (Destatis), 2018
-
-The latest version of the Destatis subject classification "Education and culture: personnel at universities - subject classification - 2017; published on 5.12.2018; status: reporting year 2017; Federal Statistical Office (Destatis), 2018" in RDF - s. https://github.com/VIVO-DE/destatis_faecherklassifikation/releases/tag/v2.0
+The service uses automated translation, using the Google Translate API as a starting point for translating the literals. The literals are then further manually edited and updated to provide an English translation of the Destatis subject classification "Personnel at Universities - Subject Classification". The Destatis subject classification "Personal at universities - subject classification" was originally converted into SKOS by Tatiana Walther with the participation of Christian Hauschke (Technical Information Library (TIB) Hanover). The designations and contents of the subject system are unchanged
