@@ -75,7 +75,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                 rdfs:comment "Diese Ontologie basiert auf \"Bildung und Kultur: Personal an Hochschulen - Fächersystematik - 2017; Erschienen am 5.12.2018; Stand: Berichtsjahr 2017; Statistisches Bundesamt (Destatis), 2018\"; in SKOS konvertiert von Tatiana Walther unter Mitwirkung von Christian Hauschke (Technische Informationsbibliothek (TIB) Hannover). Die Bezeichnungen und Inhalte der Fächersystematik blieben unverändert."@de ,
                                              "© Statistisches Bundesamt (Destatis), 2018"@de ;
                                 rdfs:label "Personal an Hochschulen - Fächersystematik"@de ,
-                                           "Staff at universities - subject system"@en ;
+                                           "Personnel at universities - subject classification"@en ;
                                 owl:versionInfo "2019-07-01"^^xsd:string ;
                                 skos:hasTopConcept <https://onto.tib.eu/destf/cs/01> ,
                                                    <https://onto.tib.eu/destf/cs/02> ,
@@ -88,7 +88,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                                    <https://onto.tib.eu/destf/cs/15> ,
                                                    <https://onto.tib.eu/destf/cs/20> ;
                                 skos:prefLabel "Personal an Hochschulen - Fächersystematik"@de ,
-                                               "Staff at universities - subject system"@en .
+                                               "Personnel at universities - subject classification"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/01
@@ -286,7 +286,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/0120
 <https://onto.tib.eu/destf/cs/0120> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Interdisciplinary studies (focus on linguistics and cultural studies)"@en ,
+                                    rdfs:label "Interdisciplinary studies (focus on Linguistics and Cultural Studies)"@en ,
                                                "Interdisziplinäre Studien (Schwerpunkt Sprach- und Kulturwissenschaften)"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/010> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
@@ -295,7 +295,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "0120"^^xsd:string ;
                                     skos:note "Interdisciplinary teaching and research areas that affect several teaching and research areas of a subject group and cannot be assigned as a priority must be proven here."@en ,
                                               "Interdisziplinäre Lehr- und Forschungsgebiete, die mehrere Lehr- und Forschungsbereiche einer Fächergruppe betreffen und nicht schwerpunktmäßig zugeordnet werden können, sind hier nachzuweisen."@de ;
-                                    skos:prefLabel "Interdisciplinary studies (focus on linguistics and cultural studies)"@en ,
+                                    skos:prefLabel "Interdisciplinary studies (focus on Linguistics and Cultural Studies)"@en ,
                                                    "Interdisziplinäre Studien (Schwerpunkt Sprach- und Kulturwissenschaften)"@de .
 
 
@@ -380,14 +380,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/0210> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Altes Testament (evang. Th.)"@de ,
-                                               "Old testament (evang. th.)"@en ;
+                                               "Old Testament (Protestant Theology)"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/020> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/020> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "0210"^^xsd:string ;
                                     skos:prefLabel "Altes Testament (evang. Th.)"@de ,
-                                                   "Old testament (evang. th.)"@en .
+                                                   "Old Testament (Protestant Theology)"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/0215
@@ -408,14 +408,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/0220> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Neues Testament (evang. Th.)"@de ,
-                                               "New testament (evang. th.)"@en ;
+                                               "New Testament (Protestant Theology)"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/020> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/020> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "0220"^^xsd:string ;
                                     skos:prefLabel "Neues Testament (evang. Th.)"@de ,
-                                                   "New testament (evang. th.)"@en .
+                                                   "New Testament (Protestant Theology)"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/0230
@@ -435,28 +435,28 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/0240
 <https://onto.tib.eu/destf/cs/0240> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Systematic theology (protestant th.)"@en ,
+                                    rdfs:label "Systematic Theology (Protestant Theology)"@en ,
                                                "Systematische Theologie (evang. Th.)"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/020> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/020> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "0240"^^xsd:string ;
-                                    skos:prefLabel "Systematic theology (protestant th.)"@en ,
+                                    skos:prefLabel "Systematic Theology (Protestant Theology)"@en ,
                                                    "Systematische Theologie (evang. Th.)"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/0250
 <https://onto.tib.eu/destf/cs/0250> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Practical theology and religious education (evang. th.)"@en ,
+                                    rdfs:label "Practical Theology and Religious Education (Protestant Theology)"@en ,
                                                "Praktische Theologie und Religionspädagogik (evang. Th.)"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/020> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/020> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "0250"^^xsd:string ;
-                                    skos:prefLabel "Practical theology and religious education (evang. th.)"@en ,
+                                    skos:prefLabel "Practical Theology and Religious Education (Protestant Theology)"@en ,
                                                    "Praktische Theologie und Religionspädagogik (evang. Th.)"@de .
 
 
@@ -701,28 +701,28 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/0330
 <https://onto.tib.eu/destf/cs/0330> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Systematic theology (catholic th.)"@en ,
+                                    rdfs:label "Systematic Theology (Catholic Theology)"@en ,
                                                "Systematische Theologie (kath. Th.)"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/030> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/030> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "0330"^^xsd:string ;
-                                    skos:prefLabel "Systematic theology (catholic th.)"@en ,
+                                    skos:prefLabel "Systematic Theology (Catholic Theology)"@en ,
                                                    "Systematische Theologie (kath. Th.)"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/0340
 <https://onto.tib.eu/destf/cs/0340> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Practical theology and religious education (catholic th.)"@en ,
+                                    rdfs:label "Practical Theology and Religious Education (Catholic Theology)"@en ,
                                                "Praktische Theologie und Religionspädagogik (kath. Th.)"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/030> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/030> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "0340"^^xsd:string ;
-                                    skos:prefLabel "Practical theology and religious education (catholic th.)"@en ,
+                                    skos:prefLabel "Practical Theology and Religious Education (Catholic Theology)"@en ,
                                                    "Praktische Theologie und Religionspädagogik (kath. Th.)"@de .
 
 
@@ -1072,7 +1072,7 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/050> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
                                    rdfs:label "Geschichte"@de ,
-                                              "Story"@en ;
+                                              "History"@en ;
                                    skos:broader <https://onto.tib.eu/destf/cs/01> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ;
                                    skos:inScheme <https://onto.tib.eu/destf/cs/> ;
@@ -1100,7 +1100,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                                            <https://onto.tib.eu/destf/cs/0590> ;
                                    skos:notation "050"^^xsd:string ;
                                    skos:prefLabel "Geschichte"@de ,
-                                                  "Story"@en .
+                                                  "History"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/0500
@@ -1137,14 +1137,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/0520> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Alte Geschichte"@de ,
-                                               "Old story"@en ;
+                                               "Ancient History"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/050> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/050> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "0520"^^xsd:string ;
-                                    skos:prefLabel "Alte Geschichte"@de ,
-                                                   "Old story"@en .
+                                    skos:note "Ancient History"@en ;
+                                    skos:prefLabel "Alte Geschichte"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/0530
@@ -1369,7 +1369,7 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/0700> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Bibliothekswissenschaft, Dokumentation allgemein"@de ,
-                                               "Library Science, Documentation In General"@en ;
+                                               "Library Science, Documentation (General)"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/070> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/070> ;
@@ -1378,21 +1378,21 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de ,
                                               "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
                                     skos:prefLabel "Bibliothekswissenschaft, Dokumentation allgemein"@de ,
-                                                   "Library Science, Documentation In General"@en .
+                                                   "Library Science, Documentation (General)"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/0710
 <https://onto.tib.eu/destf/cs/0710> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Bibliothekswissenschaft/-wesen (nicht für Verwaltungs-FH)"@de ,
-                                               "Librarianship/librarianship (not for administrative colleges)"@en ;
+                                               "Library Science and Administration (not for College of Administration)"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/070> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/070> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "0710"^^xsd:string ;
                                     skos:prefLabel "Bibliothekswissenschaft/-wesen (nicht für Verwaltungs-FH)"@de ,
-                                                   "Librarianship/librarianship (not for administrative colleges)"@en .
+                                                   "Library Science and Administration (not for College of Administration)"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/0720
@@ -1660,14 +1660,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/0845
 <https://onto.tib.eu/destf/cs/0845> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Indo-european studies"@en ,
+                                    rdfs:label "Indo-European Linguistics/Studies"@en ,
                                                "Indogermanistik"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/080> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/080> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "0845"^^xsd:string ;
-                                    skos:prefLabel "Indo-european studies"@en ,
+                                    skos:prefLabel "Indo-European Linguistics/Studies"@en ,
                                                    "Indogermanistik"@de .
 
 
@@ -1967,14 +1967,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/1070
 <https://onto.tib.eu/destf/cs/1070> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Other germanic languages ​​(without english)"@en ,
+                                    rdfs:label "Other Germanic Languages ​​(except English Studies)"@en ,
                                                "Sonstige germanische Sprachen (ohne Anglistik)"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/100> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/100> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "1070"^^xsd:string ;
-                                    skos:prefLabel "Other germanic languages ​​(without english)"@en ,
+                                    skos:prefLabel "Other Germanic Languages ​​(except English Studies)"@en ,
                                                    "Sonstige germanische Sprachen (ohne Anglistik)"@de .
 
 
@@ -2266,7 +2266,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/1300
 <https://onto.tib.eu/destf/cs/1300> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Slavic Studies, Baltic Studies, Finno-Ugric Studies In General"@en ,
+                                    rdfs:label "Slavic Studies, Baltic Studies, Finno-Ugric Studies (General)"@en ,
                                                "Slawistik, Baltistik, Finno-Ugristik allgemein"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/130> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
@@ -2275,7 +2275,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "1300"^^xsd:string ;
                                     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de ,
                                               "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
-                                    skos:prefLabel "Slavic Studies, Baltic Studies, Finno-Ugric Studies In General"@en ,
+                                    skos:prefLabel "Slavic Studies, Baltic Studies, Finno-Ugric Studies (General)"@en ,
                                                    "Slawistik, Baltistik, Finno-Ugristik allgemein"@de .
 
 
@@ -2497,14 +2497,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/1400
 <https://onto.tib.eu/destf/cs/1400> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Other/non-european linguistics and cultural studies (general)"@en ,
+                                    rdfs:label "Other/Non-European Linguistics and Cultural Studies (General)"@en ,
                                                "Sonstige/Außereuropäische Sprach- und Kulturwissenschaften allgemein"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/140> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/140> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "1400"^^xsd:string ;
-                                    skos:prefLabel "Other/non-european linguistics and cultural studies (general)"@en ,
+                                    skos:prefLabel "Other/Non-European Linguistics and Cultural Studies (General)"@en ,
                                                    "Sonstige/Außereuropäische Sprach- und Kulturwissenschaften allgemein"@de .
 
 
@@ -2863,14 +2863,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/1575> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Außereuropäische Sprachen und Kulturen Australiens"@de ,
-                                               "Non-european languages ​​and cultures of australia"@en ;
+                                               "Non-European Languages and Cultures of Australia"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/140> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/140> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "1575"^^xsd:string ;
                                     skos:prefLabel "Außereuropäische Sprachen und Kulturen Australiens"@de ,
-                                                   "Non-european languages ​​and cultures of australia"@en .
+                                                   "Non-European Languages and Cultures of Australia"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/1576
@@ -3373,7 +3373,7 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/200> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
                                    rdfs:label "Sport"@de ,
-                                              "Sports"@en ;
+                                              "Sports (General)"@en ;
                                    skos:broader <https://onto.tib.eu/destf/cs/02> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/02> ;
                                    skos:inScheme <https://onto.tib.eu/destf/cs/> ;
@@ -3387,7 +3387,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                                            <https://onto.tib.eu/destf/cs/2020> ;
                                    skos:notation "200"^^xsd:string ;
                                    skos:prefLabel "Sport"@de ,
-                                                  "Sports"@en .
+                                                  "Sports (General)"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/2000
@@ -3451,7 +3451,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/220
 <https://onto.tib.eu/destf/cs/220> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
-                                   rdfs:label "Law, Economics And Social Sciences In General"@en ,
+                                   rdfs:label "Law, Economics And Social Sciences (General)"@en ,
                                               "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein"@de ;
                                    skos:broader <https://onto.tib.eu/destf/cs/03> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ;
@@ -3469,14 +3469,14 @@ skos:ConceptScheme rdf:type owl:Class .
                                    skos:notation "220"^^xsd:string ;
                                    skos:note "Lehr- und Forschungsgebiete, die lediglich einer Fächergruppe, aber keinem Lehr- und Forschungsbereich zugeordnet werden können, sind hier nachzuweisen."@de ,
                                              "Teaching and research areas that can only be assigned to a subject group but not to a teaching or research area must be documented here."@en ;
-                                   skos:prefLabel "Law, Economics And Social Sciences In General"@en ,
+                                   skos:prefLabel "Law, Economics And Social Sciences (General)"@en ,
                                                   "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/2200
 <https://onto.tib.eu/destf/cs/2200> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Law, Economics And Social Sciences In General"@en ,
+                                    rdfs:label "Law, Economics And Social Sciences (General)"@en ,
                                                "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/220> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
@@ -3485,7 +3485,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "2200"^^xsd:string ;
                                     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de ,
                                               "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
-                                    skos:prefLabel "Law, Economics And Social Sciences In General"@en ,
+                                    skos:prefLabel "Law, Economics And Social Sciences (General)"@en ,
                                                    "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein"@de .
 
 
@@ -3552,7 +3552,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/225
 <https://onto.tib.eu/destf/cs/225> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
-                                   rdfs:label "Regional studies (unless assigned to individual teaching and research areas or other subject groups)"@en ,
+                                   rdfs:label "Regional Sciences (unless assigned to individual teaching and research areas or other subject groups)"@en ,
                                               "Regionalwissenschaften (soweit nicht einzelnen Lehr- und Forschungsbereichen oder anderen Fächergruppen zuzuordnen)"@de ;
                                    skos:broader <https://onto.tib.eu/destf/cs/03> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ;
@@ -3576,7 +3576,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                                            <https://onto.tib.eu/destf/cs/2285> ,
                                                            <https://onto.tib.eu/destf/cs/2290> ;
                                    skos:notation "225"^^xsd:string ;
-                                   skos:prefLabel "Regional studies (unless assigned to individual teaching and research areas or other subject groups)"@en ,
+                                   skos:prefLabel "Regional Sciences (unless assigned to individual teaching and research areas or other subject groups)"@en ,
                                                   "Regionalwissenschaften (soweit nicht einzelnen Lehr- und Forschungsbereichen oder anderen Fächergruppen zuzuordnen)"@de .
 
 
@@ -3870,7 +3870,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/2400
 <https://onto.tib.eu/destf/cs/2400> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Social affairs (general)"@en ,
+                                    rdfs:label "Social Services (General)"@en ,
                                                "Sozialwesen allgemein"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/240> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
@@ -3879,7 +3879,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "2400"^^xsd:string ;
                                     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de ,
                                               "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
-                                    skos:prefLabel "Social affairs (general)"@en ,
+                                    skos:prefLabel "Social Services (General)"@en ,
                                                    "Sozialwesen allgemein"@de .
 
 
@@ -3914,7 +3914,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/250
 <https://onto.tib.eu/destf/cs/250> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
-                                   rdfs:label "Law sciences"@en ,
+                                   rdfs:label "Law (General)"@en ,
                                               "Rechtswissenschaften"@de ;
                                    skos:broader <https://onto.tib.eu/destf/cs/03> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ;
@@ -3960,14 +3960,14 @@ skos:ConceptScheme rdf:type owl:Class .
                                                            <https://onto.tib.eu/destf/cs/2680> ,
                                                            <https://onto.tib.eu/destf/cs/2690> ;
                                    skos:notation "250"^^xsd:string ;
-                                   skos:prefLabel "Law sciences"@en ,
+                                   skos:prefLabel "Law (General)"@en ,
                                                   "Rechtswissenschaften"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/2500
 <https://onto.tib.eu/destf/cs/2500> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Jurisprudence (general)"@en ,
+                                    rdfs:label "Jurisprudence (General)"@en ,
                                                "Rechtswissenschaften allgemein"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/250> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
@@ -3976,21 +3976,21 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "2500"^^xsd:string ;
                                     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de ,
                                               "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
-                                    skos:prefLabel "Jurisprudence (general)"@en ,
+                                    skos:prefLabel "Jurisprudence (General)"@en ,
                                                    "Rechtswissenschaften allgemein"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/2510
 <https://onto.tib.eu/destf/cs/2510> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Legal history"@en ,
+                                    rdfs:label "History of Law"@en ,
                                                "Rechtsgeschichte"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/250> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
                                                            <https://onto.tib.eu/destf/cs/250> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "2510"^^xsd:string ;
-                                    skos:prefLabel "Legal history"@en ,
+                                    skos:prefLabel "History of Law"@en ,
                                                    "Rechtsgeschichte"@de .
 
 
@@ -4011,14 +4011,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/2520
 <https://onto.tib.eu/destf/cs/2520> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Legal and political philosophy"@en ,
+                                    rdfs:label "Philosophy of Law and Government"@en ,
                                                "Rechts- und Staatsphilosophie"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/250> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
                                                            <https://onto.tib.eu/destf/cs/250> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "2520"^^xsd:string ;
-                                    skos:prefLabel "Legal and political philosophy"@en ,
+                                    skos:prefLabel "Philosophy of Law and Government"@en ,
                                                    "Rechts- und Staatsphilosophie"@de .
 
 
@@ -4067,14 +4067,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/2550
 <https://onto.tib.eu/destf/cs/2550> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Private law (without labor law)"@en ,
+                                    rdfs:label "Civil Law (excl. Labour Law)"@en ,
                                                "Privatrecht (ohne Arbeitsrecht)"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/250> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
                                                            <https://onto.tib.eu/destf/cs/250> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "2550"^^xsd:string ;
-                                    skos:prefLabel "Private law (without labor law)"@en ,
+                                    skos:prefLabel "Civil Law (excl. Labour Law)"@en ,
                                                    "Privatrecht (ohne Arbeitsrecht)"@de .
 
 
@@ -4235,14 +4235,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/2680
 <https://onto.tib.eu/destf/cs/2680> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Social law"@en ,
+                                    rdfs:label "Social Welfare Law"@en ,
                                                "Sozialrecht"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/250> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
                                                            <https://onto.tib.eu/destf/cs/250> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "2680"^^xsd:string ;
-                                    skos:prefLabel "Social law"@en ,
+                                    skos:prefLabel "Social Welfare Law"@en ,
                                                    "Sozialrecht"@de .
 
 
@@ -4310,7 +4310,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/2700
 <https://onto.tib.eu/destf/cs/2700> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Management science (general)"@en ,
+                                    rdfs:label "Public Administration (General)"@en ,
                                                "Verwaltungswissenschaft allgemein"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/270> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
@@ -4319,7 +4319,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "2700"^^xsd:string ;
                                     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de ,
                                               "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
-                                    skos:prefLabel "Management science (general)"@en ,
+                                    skos:prefLabel "Public Administration (General)"@en ,
                                                    "Verwaltungswissenschaft allgemein"@de .
 
 
@@ -4867,7 +4867,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/310
 <https://onto.tib.eu/destf/cs/310> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
-                                   rdfs:label "Industrial engineering with a focus on economics"@en ,
+                                   rdfs:label "Industrial Engineering (Economics Focus)"@en ,
                                               "Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt"@de ;
                                    skos:broader <https://onto.tib.eu/destf/cs/03> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ;
@@ -4877,21 +4877,21 @@ skos:ConceptScheme rdf:type owl:Class .
                                    skos:narrowerTransitive <https://onto.tib.eu/destf/cs/3100> ,
                                                            <https://onto.tib.eu/destf/cs/3110> ;
                                    skos:notation "310"^^xsd:string ;
-                                   skos:prefLabel "Industrial engineering with a focus on economics"@en ,
+                                   skos:prefLabel "Industrial Engineering (Economics Focus)"@en ,
                                                   "Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/3100
 <https://onto.tib.eu/destf/cs/3100> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Industrial engineering with a focus on economics"@en ,
+                                    rdfs:label "Industrial Engineering (Economics Focus)"@en ,
                                                "Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/310> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
                                                            <https://onto.tib.eu/destf/cs/310> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "3100"^^xsd:string ;
-                                    skos:prefLabel "Industrial engineering with a focus on economics"@en ,
+                                    skos:prefLabel "Industrial Engineering (Economics Focus)"@en ,
                                                    "Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt"@de .
 
 
@@ -4982,7 +4982,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/330
 <https://onto.tib.eu/destf/cs/330> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
-                                   rdfs:label "Mathematics, Natural Sciences In General"@en ,
+                                   rdfs:label "Mathematics, Natural Sciences (General)"@en ,
                                               "Mathematik, Naturwissenschaften allgemein"@de ;
                                    skos:broader <https://onto.tib.eu/destf/cs/04> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/04> ;
@@ -4998,14 +4998,14 @@ skos:ConceptScheme rdf:type owl:Class .
                                    skos:notation "330"^^xsd:string ;
                                    skos:note "Lehr- und Forschungsgebiete, die lediglich einer Fächergruppe, aber keinem Lehr- und Forschungsbereich zugeordnet werden können, sind hier nachzuweisen."@de ,
                                              "Teaching and research areas that can only be assigned to a subject group but not to a teaching or research area must be documented here."@en ;
-                                   skos:prefLabel "Mathematics, Natural Sciences In General"@en ,
+                                   skos:prefLabel "Mathematics, Natural Sciences (General)"@en ,
                                                   "Mathematik, Naturwissenschaften allgemein"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/3300
 <https://onto.tib.eu/destf/cs/3300> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Mathematics, Natural Sciences In General"@en ,
+                                    rdfs:label "Mathematics, Natural Sciences (General)"@en ,
                                                "Mathematik, Naturwissenschaften allgemein"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/330> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/04> ,
@@ -5014,7 +5014,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "3300"^^xsd:string ;
                                     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de ,
                                               "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
-                                    skos:prefLabel "Mathematics, Natural Sciences In General"@en ,
+                                    skos:prefLabel "Mathematics, Natural Sciences (General)"@en ,
                                                    "Mathematik, Naturwissenschaften allgemein"@de .
 
 
@@ -5036,20 +5036,20 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/3315> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Naturwissenschaftliche Fachdidaktiken, soweit nicht aufteilbar"@de ,
-                                               "Scientific Didactics, As Far As Not Divisible"@en ;
+                                               "Specialised Didactics of Natural Sciences"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/330> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/04> ,
                                                            <https://onto.tib.eu/destf/cs/330> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "3315"^^xsd:string ;
                                     skos:prefLabel "Naturwissenschaftliche Fachdidaktiken, soweit nicht aufteilbar"@de ,
-                                                   "Scientific Didactics, As Far As Not Divisible"@en .
+                                                   "Specialised Didactics of Natural Sciences"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/3320
 <https://onto.tib.eu/destf/cs/3320> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Interdisciplinary studies (focus on natural sciences)"@en ,
+                                    rdfs:label "Interdisciplinary studies (focus on Natural Sciences)"@en ,
                                                "Interdisziplinäre Studien (Schwerpunkt Naturwissenschaft)"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/330> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/04> ,
@@ -5058,7 +5058,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "3320"^^xsd:string ;
                                     skos:note "Interdisciplinary teaching and research areas that affect several teaching and research areas of a subject group and cannot be assigned as a priority must be proven here."@en ,
                                               "Interdisziplinäre Lehr- und Forschungsgebiete, die mehrere Lehr- und Forschungsbereiche einer Fächergruppe betreffen und nicht schwerpunktmäßig zugeordnet werden können, sind hier nachzuweisen."@de ;
-                                    skos:prefLabel "Interdisciplinary studies (focus on natural sciences)"@en ,
+                                    skos:prefLabel "Interdisciplinary studies (focus on Natural Sciences)"@en ,
                                                    "Interdisziplinäre Studien (Schwerpunkt Naturwissenschaft)"@de .
 
 
@@ -5309,7 +5309,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/3600
 <https://onto.tib.eu/destf/cs/3600> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Physics, Astronomy In General"@en ,
+                                    rdfs:label "Physics, Astronomy (General)"@en ,
                                                "Physik, Astronomie allgemein"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/360> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/04> ,
@@ -5318,7 +5318,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "3600"^^xsd:string ;
                                     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de ,
                                               "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
-                                    skos:prefLabel "Physics, Astronomy In General"@en ,
+                                    skos:prefLabel "Physics, Astronomy (General)"@en ,
                                                    "Physik, Astronomie allgemein"@de .
 
 
@@ -6493,14 +6493,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/4455> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Nichtärztliche Heilberufe/Therapien"@de ,
-                                               "Non-medical health professions/therapies"@en ;
+                                               "Non-medical Health Care Professions / Therapies"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/445> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/05> ,
                                                            <https://onto.tib.eu/destf/cs/445> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "4455"^^xsd:string ;
                                     skos:prefLabel "Nichtärztliche Heilberufe/Therapien"@de ,
-                                                   "Non-medical health professions/therapies"@en .
+                                                   "Non-medical Health Care Professions / Therapies"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/4457
@@ -6534,7 +6534,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/450
 <https://onto.tib.eu/destf/cs/450> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
-                                   rdfs:label "Pre-clinical human medicine (including dentistry)"@en ,
+                                   rdfs:label "Pre-clinical human medicine (including Dentistry)"@en ,
                                               "Vorklinische Humanmedizin (einschl. Zahnmedizin)"@de ;
                                    skos:broader <https://onto.tib.eu/destf/cs/05> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/05> ;
@@ -6566,7 +6566,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                                            <https://onto.tib.eu/destf/cs/4595> ,
                                                            <https://onto.tib.eu/destf/cs/4610> ;
                                    skos:notation "450"^^xsd:string ;
-                                   skos:prefLabel "Pre-clinical human medicine (including dentistry)"@en ,
+                                   skos:prefLabel "Pre-clinical human medicine (including Dentistry)"@en ,
                                                   "Vorklinische Humanmedizin (einschl. Zahnmedizin)"@de .
 
 
@@ -6835,14 +6835,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/4705> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Arbeitsmedizin (klin.-theor.)"@de ,
-                                               "Occupational medicine (clinic.-theory.)"@en ;
+                                               "Industrial/Occupational Medicine (Clinical-Theoretical)"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/470> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/05> ,
                                                            <https://onto.tib.eu/destf/cs/470> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "4705"^^xsd:string ;
                                     skos:prefLabel "Arbeitsmedizin (klin.-theor.)"@de ,
-                                                   "Occupational medicine (clinic.-theory.)"@en .
+                                                   "Industrial/Occupational Medicine (Clinical-Theoretical)"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/4710
@@ -7086,14 +7086,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/4776
 <https://onto.tib.eu/destf/cs/4776> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Social medicine (clinical-theoretical)"@en ,
+                                    rdfs:label "Social Medicine (Clinical-Theoretical)"@en ,
                                                "Sozialmedizin (klinisch-theoretisch)"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/470> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/05> ,
                                                            <https://onto.tib.eu/destf/cs/470> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "4776"^^xsd:string ;
-                                    skos:prefLabel "Social medicine (clinical-theoretical)"@en ,
+                                    skos:prefLabel "Social Medicine (Clinical-Theoretical)"@en ,
                                                    "Sozialmedizin (klinisch-theoretisch)"@de .
 
 
@@ -7535,14 +7535,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/5110
 <https://onto.tib.eu/destf/cs/5110> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Social medicine (clinical-practical)"@en ,
+                                    rdfs:label "Social Medicine (Clinical-Practical)"@en ,
                                                "Sozialmedizin (klinisch-praktisch)"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/490> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/05> ,
                                                            <https://onto.tib.eu/destf/cs/490> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "5110"^^xsd:string ;
-                                    skos:prefLabel "Social medicine (clinical-practical)"@en ,
+                                    skos:prefLabel "Social Medicine (Clinical-Practical)"@en ,
                                                    "Sozialmedizin (klinisch-praktisch)"@de .
 
 
@@ -7949,14 +7949,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/5660
 <https://onto.tib.eu/destf/cs/5660> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Pharmacology, Toxicology And Prescription Medicine"@en ,
+                                    rdfs:label "Parmacology, Toxicology and Medical Prescription Theory"@en ,
                                                "Pharmakologie, Toxikologie und Arzneiverordnungslehre"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/560> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/07> ,
                                                            <https://onto.tib.eu/destf/cs/560> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "5660"^^xsd:string ;
-                                    skos:prefLabel "Pharmacology, Toxicology And Prescription Medicine"@en ,
+                                    skos:prefLabel "Parmacology, Toxicology and Medical Prescription Theory"@en ,
                                                    "Pharmakologie, Toxikologie und Arzneiverordnungslehre"@de .
 
 
@@ -7977,14 +7977,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/5680
 <https://onto.tib.eu/destf/cs/5680> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Laboratory animal science and fish science including diseases"@en ,
+                                    rdfs:label "Laboratory Animals and Ichthyology incl. Diseases"@en ,
                                                "Versuchstierkunde und Fischkunde einschl. Krankheiten"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/560> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/07> ,
                                                            <https://onto.tib.eu/destf/cs/560> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "5680"^^xsd:string ;
-                                    skos:prefLabel "Laboratory animal science and fish science including diseases"@en ,
+                                    skos:prefLabel "Laboratory Animals and Ichthyology incl. Diseases"@en ,
                                                    "Versuchstierkunde und Fischkunde einschl. Krankheiten"@de .
 
 
@@ -8581,14 +8581,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/6350
 <https://onto.tib.eu/destf/cs/6350> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Natural reserve"@en ,
+                                    rdfs:label "Nature Conservation"@en ,
                                                "Naturschutz"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/615> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/07> ,
                                                            <https://onto.tib.eu/destf/cs/615> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "6350"^^xsd:string ;
-                                    skos:prefLabel "Natural reserve"@en ,
+                                    skos:prefLabel "Nature Conservation"@en ,
                                                    "Naturschutz"@de .
 
 
@@ -8798,14 +8798,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/6710
 <https://onto.tib.eu/destf/cs/6710> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Polytechnic/work apprenticeship"@en ,
+                                    rdfs:label "Crafts Education / Ergonomics"@en ,
                                                "Polytechnik/Arbeitslehre"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/670> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/670> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "6710"^^xsd:string ;
-                                    skos:prefLabel "Polytechnic/work apprenticeship"@en ,
+                                    skos:prefLabel "Crafts Education / Ergonomics"@en ,
                                                    "Polytechnik/Arbeitslehre"@de .
 
 
@@ -8826,8 +8826,8 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/6740
 <https://onto.tib.eu/destf/cs/6740> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Interdisciplinary studies (focus on engineering - without mechatronics)"@en ,
-                                               "Interdisziplinäre Studien (Schwerpunkt Ingenieurwesen - ohne Mechatronik)"@de ;
+                                    rdfs:label "Interdisciplinary Studies (Engineering Focus, excl. Mechatronics)"@de ,
+                                               "Interdisciplinary Studies (Engineering Focus, excl. Mechatronics)"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/670> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/670> ;
@@ -8835,14 +8835,14 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "6740"^^xsd:string ;
                                     skos:note "Interdisciplinary teaching and research areas that affect several teaching and research areas of a subject group and cannot be assigned as a priority must be proven here."@en ,
                                               "Interdisziplinäre Lehr- und Forschungsgebiete, die mehrere Lehr- und Forschungsbereiche einer Fächergruppe betreffen und nicht schwerpunktmäßig zugeordnet werden können, sind hier nachzuweisen."@de ;
-                                    skos:prefLabel "Interdisciplinary studies (focus on engineering - without mechatronics)"@en ,
-                                                   "Interdisziplinäre Studien (Schwerpunkt Ingenieurwesen - ohne Mechatronik)"@de .
+                                    skos:prefLabel "Interdisciplinary Studies (Engineering Focus, excl. Mechatronics)"@de ,
+                                                   "Interdisciplinary Studies (Engineering Focus, excl. Mechatronics)"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/675
 <https://onto.tib.eu/destf/cs/675> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
-                                   rdfs:label "Industrial engineering with an engineering focus"@en ,
+                                   rdfs:label "Industrial Engineering (Engineering Focus)"@en ,
                                               "Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt"@de ;
                                    skos:broader <https://onto.tib.eu/destf/cs/08> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ;
@@ -8850,7 +8850,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                    skos:narrower <https://onto.tib.eu/destf/cs/6755> ;
                                    skos:narrowerTransitive <https://onto.tib.eu/destf/cs/6755> ;
                                    skos:notation "675"^^xsd:string ;
-                                   skos:prefLabel "Industrial engineering with an engineering focus"@en ,
+                                   skos:prefLabel "Industrial Engineering (Engineering Focus)"@en ,
                                                   "Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt"@de .
 
 
@@ -8871,14 +8871,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/6755
 <https://onto.tib.eu/destf/cs/6755> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Industrial engineering with an engineering focus"@en ,
+                                    rdfs:label "Industrial Engineering (Engineering Focus)"@en ,
                                                "Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/675> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/675> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "6755"^^xsd:string ;
-                                    skos:prefLabel "Industrial engineering with an engineering focus"@en ,
+                                    skos:prefLabel "Industrial Engineering (Engineering Focus)"@en ,
                                                    "Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt"@de .
 
 
@@ -8961,7 +8961,7 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/6800> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Bergbau, Hüttenwesen allgemein"@de ,
-                                               "Mining, Metallurgy In General"@en ;
+                                               "Mining, Metallurgy (General)"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/680> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/680> ;
@@ -8970,21 +8970,21 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de ,
                                               "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
                                     skos:prefLabel "Bergbau, Hüttenwesen allgemein"@de ,
-                                                   "Mining, Metallurgy In General"@en .
+                                                   "Mining, Metallurgy (General)"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/6810
 <https://onto.tib.eu/destf/cs/6810> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Bergbau und mineralische Rohstoffwirtschaft"@de ,
-                                               "Mining and mineral resource management"@en ;
+                                               "Mining and Mineral Raw Material Management"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/680> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/680> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "6810"^^xsd:string ;
                                     skos:prefLabel "Bergbau und mineralische Rohstoffwirtschaft"@de ,
-                                                   "Mining and mineral resource management"@en .
+                                                   "Mining and Mineral Raw Material Management"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/6820
@@ -9033,14 +9033,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/6845> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Hütten- und Gießereiwesen"@de ,
-                                               "Metallurgy and foundry industry"@en ;
+                                               "Metallurgy and Foundry Studies"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/680> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/680> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "6845"^^xsd:string ;
                                     skos:prefLabel "Hütten- und Gießereiwesen"@de ,
-                                                   "Metallurgy and foundry industry"@en .
+                                                   "Metallurgy and Foundry Studies"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/6850
@@ -9103,7 +9103,7 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/690> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
                                    rdfs:label "Maschinenbau/Verfahrenstechnik"@de ,
-                                              "Mechanical engineering/process engineering"@en ;
+                                              "Mechanical engineering / Process engineering"@en ;
                                    skos:broader <https://onto.tib.eu/destf/cs/08> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ;
                                    skos:inScheme <https://onto.tib.eu/destf/cs/> ;
@@ -9159,7 +9159,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                                            <https://onto.tib.eu/destf/cs/7190> ;
                                    skos:notation "690"^^xsd:string ;
                                    skos:prefLabel "Maschinenbau/Verfahrenstechnik"@de ,
-                                                  "Mechanical engineering/process engineering"@en .
+                                                  "Mechanical engineering / Process engineering"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/6900
@@ -9279,14 +9279,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/6940
 <https://onto.tib.eu/destf/cs/6940> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Production and manufacturing technology"@en ,
+                                    rdfs:label "Production and Manufacturing Engineering"@en ,
                                                "Produktions- und Fertigungstechnologie"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/690> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/690> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "6940"^^xsd:string ;
-                                    skos:prefLabel "Production and manufacturing technology"@en ,
+                                    skos:prefLabel "Production and Manufacturing Engineering"@en ,
                                                    "Produktions- und Fertigungstechnologie"@de .
 
 
@@ -9321,14 +9321,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/6960
 <https://onto.tib.eu/destf/cs/6960> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Process technology"@en ,
+                                    rdfs:label "Process Engineering"@en ,
                                                "Verfahrenstechnik"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/690> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/690> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "6960"^^xsd:string ;
-                                    skos:prefLabel "Process technology"@en ,
+                                    skos:prefLabel "Process Engineering"@en ,
                                                    "Verfahrenstechnik"@de .
 
 
@@ -9392,14 +9392,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/6980> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Sondergebiete des Maschinenwesens"@de ,
-                                               "Special areas of mechanical engineering"@en ;
+                                               "Special Areas of Mechanical Engineering"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/690> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/690> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "6980"^^xsd:string ;
                                     skos:prefLabel "Sondergebiete des Maschinenwesens"@de ,
-                                                   "Special areas of mechanical engineering"@en .
+                                                   "Special Areas of Mechanical Engineering"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/6985
@@ -9462,14 +9462,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/7030> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Kunststofftechnik"@de ,
-                                               "Plastics technology"@en ;
+                                               "Plastics Engineering"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/690> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/690> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7030"^^xsd:string ;
-                                    skos:prefLabel "Kunststofftechnik"@de ,
-                                                   "Plastics technology"@en .
+                                    skos:note "Plastics Engineering"@en ;
+                                    skos:prefLabel "Kunststofftechnik"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/7040
@@ -9490,14 +9490,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/7045> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Kerntechnik, Kernverfahrenstechnik"@de ,
-                                               "Nuclear Technology, Nuclear Process Engineering"@en ;
+                                               "Nuclear Engineering, Nuclear Process Engineering"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/690> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/690> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7045"^^xsd:string ;
                                     skos:prefLabel "Kerntechnik, Kernverfahrenstechnik"@de ,
-                                                   "Nuclear Technology, Nuclear Process Engineering"@en .
+                                                   "Nuclear Engineering, Nuclear Process Engineering"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/710
@@ -9779,14 +9779,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/7230
 <https://onto.tib.eu/destf/cs/7230> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Nautical, Seafaring"@en ,
+                                    rdfs:label "Nautical Science, Maritime Navigation"@en ,
                                                "Nautik, Seefahrt"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/720> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/720> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7230"^^xsd:string ;
-                                    skos:prefLabel "Nautical, Seafaring"@en ,
+                                    skos:prefLabel "Nautical Science, Maritime Navigation"@en ,
                                                    "Nautik, Seefahrt"@de .
 
 
@@ -9925,14 +9925,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/7335> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Denkmalpflege (Architekt.)"@de ,
-                                               "Preservation of monuments (architect.)"@en ;
+                                               "Monument Conservation (Architecture)"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/730> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/730> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7335"^^xsd:string ;
                                     skos:prefLabel "Denkmalpflege (Architekt.)"@de ,
-                                                   "Preservation of monuments (architect.)"@en .
+                                                   "Monument Conservation (Architecture)"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/7340
@@ -9995,7 +9995,7 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/740> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
                                    rdfs:label "Raumplanung"@de ,
-                                              "Space planning"@en ;
+                                              "Spatial Planning"@en ;
                                    skos:broader <https://onto.tib.eu/destf/cs/08> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ;
                                    skos:inScheme <https://onto.tib.eu/destf/cs/> ;
@@ -10015,7 +10015,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                                            <https://onto.tib.eu/destf/cs/7460> ;
                                    skos:notation "740"^^xsd:string ;
                                    skos:prefLabel "Raumplanung"@de ,
-                                                  "Space planning"@en .
+                                                  "Spatial Planning"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/7400
@@ -10065,14 +10065,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/7430
 <https://onto.tib.eu/destf/cs/7430> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Regional and state planning"@en ,
+                                    rdfs:label "Regional and National Planning"@en ,
                                                "Regional- und Landesplanung"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/740> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/740> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7430"^^xsd:string ;
-                                    skos:prefLabel "Regional and state planning"@en ,
+                                    skos:prefLabel "Regional and National Planning"@en ,
                                                    "Regional- und Landesplanung"@de .
 
 
@@ -10080,14 +10080,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/7440> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Raumordnung"@de ,
-                                               "Spatial planning"@en ;
+                                               "Spatial Planning (General)"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/740> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/740> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7440"^^xsd:string ;
                                     skos:prefLabel "Raumordnung"@de ,
-                                                   "Spatial planning"@en .
+                                                   "Spatial Planning (General)"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/7450
@@ -10222,14 +10222,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/7550
 <https://onto.tib.eu/destf/cs/7550> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Other areas of civil engineering"@en ,
+                                    rdfs:label "Other Areas of Civil Engineering"@en ,
                                                "Sonstige Bereiche des Bauingenieurwesens"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/750> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/750> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7550"^^xsd:string ;
-                                    skos:prefLabel "Other areas of civil engineering"@en ,
+                                    skos:prefLabel "Other Areas of Civil Engineering"@en ,
                                                    "Sonstige Bereiche des Bauingenieurwesens"@de .
 
 
@@ -10459,14 +10459,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/7830> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Restaurierungskunde"@de ,
-                                               "Restoration customer"@en ;
+                                               "Restoration"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/780> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/09> ,
                                                            <https://onto.tib.eu/destf/cs/780> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7830"^^xsd:string ;
                                     skos:prefLabel "Restaurierungskunde"@de ,
-                                                   "Restoration customer"@en .
+                                                   "Restoration"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/7840
@@ -10541,15 +10541,15 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/7930
 <https://onto.tib.eu/destf/cs/7930> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Plastic, Sculpture"@en ,
-                                               "Plastik, Bildhauerei"@de ;
+                                    rdfs:label "Plastik, Bildhauerei"@de ,
+                                               "Sculpture"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/790> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/09> ,
                                                            <https://onto.tib.eu/destf/cs/790> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7930"^^xsd:string ;
-                                    skos:prefLabel "Plastic, Sculpture"@en ,
-                                                   "Plastik, Bildhauerei"@de .
+                                    skos:prefLabel "Plastik, Bildhauerei"@de ,
+                                                   "Sculpture"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/7940
@@ -10597,8 +10597,8 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/800
 <https://onto.tib.eu/destf/cs/800> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
-                                   rdfs:label "Gestaltung"@de ,
-                                              "Layout"@en ;
+                                   rdfs:label "Design (General)"@en ,
+                                              "Gestaltung"@de ;
                                    skos:broader <https://onto.tib.eu/destf/cs/09> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/09> ;
                                    skos:inScheme <https://onto.tib.eu/destf/cs/> ;
@@ -10625,8 +10625,8 @@ skos:ConceptScheme rdf:type owl:Class .
                                                            <https://onto.tib.eu/destf/cs/8075> ,
                                                            <https://onto.tib.eu/destf/cs/8076> ;
                                    skos:notation "800"^^xsd:string ;
-                                   skos:prefLabel "Gestaltung"@de ,
-                                                  "Layout"@en .
+                                   skos:prefLabel "Design (General)"@en ,
+                                                  "Gestaltung"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/8000
@@ -10733,14 +10733,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/8060> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Bühnenbild, Kostüm"@de ,
-                                               "Stage Design, Costume"@en ;
+                                               "Stage Design, Costumes"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/800> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/09> ,
                                                            <https://onto.tib.eu/destf/cs/800> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "8060"^^xsd:string ;
                                     skos:prefLabel "Bühnenbild, Kostüm"@de ,
-                                                   "Stage Design, Costume"@en .
+                                                   "Stage Design, Costumes"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/8070
@@ -10849,14 +10849,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/8220
 <https://onto.tib.eu/destf/cs/8220> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Play"@en ,
+                                    rdfs:label "Acting"@en ,
                                                "Schauspiel"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/820> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/09> ,
                                                            <https://onto.tib.eu/destf/cs/820> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "8220"^^xsd:string ;
-                                    skos:prefLabel "Play"@en ,
+                                    skos:prefLabel "Acting"@en ,
                                                    "Schauspiel"@de .
 
 
@@ -10984,7 +10984,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/8300
 <https://onto.tib.eu/destf/cs/8300> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Music, Musicology In General"@en ,
+                                    rdfs:label "Music, Musicology (General)"@en ,
                                                "Musik, Musikwissenschaft allgemein"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/830> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/09> ,
@@ -10993,7 +10993,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "8300"^^xsd:string ;
                                     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de ,
                                               "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
-                                    skos:prefLabel "Music, Musicology In General"@en ,
+                                    skos:prefLabel "Music, Musicology (General)"@en ,
                                                    "Musik, Musikwissenschaft allgemein"@de .
 
 
@@ -11084,14 +11084,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/8350
 <https://onto.tib.eu/destf/cs/8350> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Musicology, History"@en ,
+                                    rdfs:label "Musicology, History of Music"@en ,
                                                "Musikwissenschaft, -geschichte"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/830> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/09> ,
                                                            <https://onto.tib.eu/destf/cs/830> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "8350"^^xsd:string ;
-                                    skos:prefLabel "Musicology, History"@en ,
+                                    skos:prefLabel "Musicology, History of Music"@en ,
                                                    "Musikwissenschaft, -geschichte"@de .
 
 
@@ -11112,15 +11112,15 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/8363
 <https://onto.tib.eu/destf/cs/8363> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Orchestermusik"@de ,
-                                               "Orchestra music"@en ;
+                                    rdfs:label "Orchestermusik"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/830> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/09> ,
-                                                           <https://onto.tib.eu/destf/cs/830> ;
+                                                           <https://onto.tib.eu/destf/cs/830> ,
+                                                           "Orchestral Music"@en ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "8363"^^xsd:string ;
                                     skos:prefLabel "Orchestermusik"@de ,
-                                                   "Orchestra music"@en .
+                                                   "Orchestral Music"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/8364
@@ -11328,28 +11328,28 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/8820
 <https://onto.tib.eu/destf/cs/8820> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Student self-government"@en ,
+                                    rdfs:label "Student Self Government"@en ,
                                                "Studentische Selbstverwaltung"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/880> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/15> ,
                                                            <https://onto.tib.eu/destf/cs/880> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "8820"^^xsd:string ;
-                                    skos:prefLabel "Student self-government"@en ,
+                                    skos:prefLabel "Student Self Government"@en ,
                                                    "Studentische Selbstverwaltung"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/8830
 <https://onto.tib.eu/destf/cs/8830> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Student advice"@en ,
+                                    rdfs:label "Central Student Advisory Service"@en ,
                                                "Zentrale Studienberatung"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/880> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/15> ,
                                                            <https://onto.tib.eu/destf/cs/880> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "8830"^^xsd:string ;
-                                    skos:prefLabel "Student advice"@en ,
+                                    skos:prefLabel "Central Student Advisory Service"@en ,
                                                    "Zentrale Studienberatung"@de .
 
 
@@ -11415,14 +11415,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/8915
 <https://onto.tib.eu/destf/cs/8915> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Nursing Service, Unless Technically Assigned"@en ,
+                                    rdfs:label "Nursing Service, Unless Professionally Assigned"@en ,
                                                "Pflegedienst, soweit nicht fachlich zuzuordnen"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/970> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/20> ,
                                                            <https://onto.tib.eu/destf/cs/970> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "8915"^^xsd:string ;
-                                    skos:prefLabel "Nursing Service, Unless Technically Assigned"@en ,
+                                    skos:prefLabel "Nursing Service, Unless Professionally Assigned"@en ,
                                                    "Pflegedienst, soweit nicht fachlich zuzuordnen"@de .
 
 
@@ -11792,14 +11792,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/9320> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Foto-, Reprostelle"@de ,
-                                               "Photo, Repro Site"@en ;
+                                               "Photo and Repro Workshop"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/930> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/15> ,
                                                            <https://onto.tib.eu/destf/cs/930> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "9320"^^xsd:string ;
                                     skos:prefLabel "Foto-, Reprostelle"@de ,
-                                                   "Photo, Repro Site"@en .
+                                                   "Photo and Repro Workshop"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/9330
@@ -11833,8 +11833,8 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/9350
 <https://onto.tib.eu/destf/cs/9350> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Fahrbereitschaft"@de ,
-                                               "Readiness to drive"@en ;
+                                    rdfs:label "Chauffeur-driven Carpool"@en ,
+                                               "Fahrbereitschaft"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/930> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/15> ,
                                                            <https://onto.tib.eu/destf/cs/930> ;
@@ -11938,7 +11938,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/950
 <https://onto.tib.eu/destf/cs/950> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
-                                   rdfs:label "Other training institutions"@en ,
+                                   rdfs:label "Other Training Facilities"@en ,
                                               "Übrige Ausbildungseinrichtungen"@de ;
                                    skos:broader <https://onto.tib.eu/destf/cs/15> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/15> ;
@@ -11954,14 +11954,14 @@ skos:ConceptScheme rdf:type owl:Class .
                                                            <https://onto.tib.eu/destf/cs/9530> ,
                                                            <https://onto.tib.eu/destf/cs/9540> ;
                                    skos:notation "950"^^xsd:string ;
-                                   skos:prefLabel "Other training institutions"@en ,
+                                   skos:prefLabel "Other Training Facilities"@en ,
                                                   "Übrige Ausbildungseinrichtungen"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/9500
 <https://onto.tib.eu/destf/cs/9500> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Other training institutions (general)"@en ,
+                                    rdfs:label "Other Training Facilities (General)"@en ,
                                                "Übrige Ausbildungseinrichtungen allgemein"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/950> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/15> ,
@@ -11970,7 +11970,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "9500"^^xsd:string ;
                                     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de ,
                                               "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
-                                    skos:prefLabel "Other training institutions (general)"@en ,
+                                    skos:prefLabel "Other Training Facilities (General)"@en ,
                                                    "Übrige Ausbildungseinrichtungen allgemein"@de .
 
 
@@ -11991,14 +11991,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/9520
 <https://onto.tib.eu/destf/cs/9520> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Schools for non-academic courses"@en ,
+                                    rdfs:label "Schools for non-academic training programmes"@en ,
                                                "Schulen für nichtakademische Ausbildungsgänge"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/950> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/15> ,
                                                            <https://onto.tib.eu/destf/cs/950> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "9520"^^xsd:string ;
-                                    skos:prefLabel "Schools for non-academic courses"@en ,
+                                    skos:prefLabel "Schools for non-academic training programmes"@en ,
                                                    "Schulen für nichtakademische Ausbildungsgänge"@de .
 
 
@@ -12112,14 +12112,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/9630
 <https://onto.tib.eu/destf/cs/9630> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Max planck institutes"@en ,
+                                    rdfs:label "Max Planck Institutes"@en ,
                                                "Max-Planck-Institute"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/960> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/15> ,
                                                            <https://onto.tib.eu/destf/cs/960> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "9630"^^xsd:string ;
-                                    skos:prefLabel "Max planck institutes"@en ,
+                                    skos:prefLabel "Max Planck Institutes"@en ,
                                                    "Max-Planck-Institute"@de .
 
 
@@ -12141,14 +12141,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/9650> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Einrichtungen des öffentlichen Gesundheitswesens"@de ,
-                                               "Public health facilities"@en ;
+                                               "Public health care facilities"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/960> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/15> ,
                                                            <https://onto.tib.eu/destf/cs/960> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "9650"^^xsd:string ;
                                     skos:prefLabel "Einrichtungen des öffentlichen Gesundheitswesens"@de ,
-                                                   "Public health facilities"@en .
+                                                   "Public health care facilities"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/9660
@@ -12444,7 +12444,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/986
 <https://onto.tib.eu/destf/cs/986> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
-                                   rdfs:label "Other training facilities of the clinics"@en ,
+                                   rdfs:label "Other Training Facilities of the Clinics"@en ,
                                               "Übrige Ausbildungseinrichtungen der Kliniken"@de ;
                                    skos:broader <https://onto.tib.eu/destf/cs/20> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/20> ;
@@ -12452,7 +12452,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                    skos:narrower <https://onto.tib.eu/destf/cs/9860> ;
                                    skos:narrowerTransitive <https://onto.tib.eu/destf/cs/9860> ;
                                    skos:notation "986"^^xsd:string ;
-                                   skos:prefLabel "Other training facilities of the clinics"@en ,
+                                   skos:prefLabel "Other Training Facilities of the Clinics"@en ,
                                                   "Übrige Ausbildungseinrichtungen der Kliniken"@de .
 
 
@@ -12510,14 +12510,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/9910
 <https://onto.tib.eu/destf/cs/9910> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Public Health System (E.G. Blood Alcohol Testing Center, Medical Testing Office)"@en ,
+                                    rdfs:label "Public Health System (e.g. Blood Alcohol Testing Centre, Medical Examination Office)"@en ,
                                                "Öffentliches Gesundheitswesen (z.B. Blutalkoholuntersuchungsstelle, Medizinaluntersuchungsamt)"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/990> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/20> ,
                                                            <https://onto.tib.eu/destf/cs/990> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "9910"^^xsd:string ;
-                                    skos:prefLabel "Public Health System (E.G. Blood Alcohol Testing Center, Medical Testing Office)"@en ,
+                                    skos:prefLabel "Public Health System (e.g. Blood Alcohol Testing Centre, Medical Examination Office)"@en ,
                                                    "Öffentliches Gesundheitswesen (z.B. Blutalkoholuntersuchungsstelle, Medizinaluntersuchungsamt)"@de .
 
 
