@@ -2764,15 +2764,15 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/1510
 <https://onto.tib.eu/destf/cs/1510> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Turkologie"@de ,
-                                               "Turkology"@en ;
+                                    rdfs:label "Turkish Studies"@en ,
+                                               "Turkologie"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/140> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01> ,
                                                            <https://onto.tib.eu/destf/cs/140> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "1510"^^xsd:string ;
-                                    skos:prefLabel "Turkologie"@de ,
-                                                   "Turkology"@en .
+                                    skos:prefLabel "Turkish Studies"@en ,
+                                                   "Turkologie"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/1520
@@ -3184,14 +3184,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/1805> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Berufs- und Wirtschaftspädagogik"@de ,
-                                               "Vocational and business education"@en ;
+                                               "Vocational and Business Education"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/320> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
                                                            <https://onto.tib.eu/destf/cs/320> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "1805"^^xsd:string ;
                                     skos:prefLabel "Berufs- und Wirtschaftspädagogik"@de ,
-                                                   "Vocational and business education"@en .
+                                                   "Vocational and Business Education"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/1806
@@ -4494,14 +4494,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/2815
 <https://onto.tib.eu/destf/cs/2815> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Tourism economy"@en ,
+                                    rdfs:label "Tourism"@en ,
                                                "Tourismuswirtschaft"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/290> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
                                                            <https://onto.tib.eu/destf/cs/290> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "2815"^^xsd:string ;
-                                    skos:prefLabel "Tourism economy"@en ,
+                                    skos:prefLabel "Tourism"@en ,
                                                    "Tourismuswirtschaft"@de .
 
 
@@ -4522,14 +4522,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/2830
 <https://onto.tib.eu/destf/cs/2830> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Transportation"@en ,
+                                    rdfs:label "Transport"@en ,
                                                "Verkehrswesen"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/270> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
                                                            <https://onto.tib.eu/destf/cs/270> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "2830"^^xsd:string ;
-                                    skos:prefLabel "Transportation"@en ,
+                                    skos:prefLabel "Transport"@en ,
                                                    "Verkehrswesen"@de .
 
 
@@ -4797,14 +4797,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/2971
 <https://onto.tib.eu/destf/cs/2971> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Transport economy"@en ,
+                                    rdfs:label "Transport Economics"@en ,
                                                "Verkehrswirtschaft"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/290> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
                                                            <https://onto.tib.eu/destf/cs/290> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "2971"^^xsd:string ;
-                                    skos:prefLabel "Transport economy"@en ,
+                                    skos:prefLabel "Transport Economics"@en ,
                                                    "Verkehrswirtschaft"@de .
 
 
@@ -4854,14 +4854,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/3010> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Arbeitslehre/-wissenschaft"@de ,
-                                               "Work theory/science"@en ;
+                                               "Ergonomics / Occupational Science"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/290> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/03> ,
                                                            <https://onto.tib.eu/destf/cs/290> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "3010"^^xsd:string ;
                                     skos:prefLabel "Arbeitslehre/-wissenschaft"@de ,
-                                                   "Work theory/science"@en .
+                                                   "Ergonomics / Occupational Science"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/310
@@ -8425,14 +8425,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/6235
 <https://onto.tib.eu/destf/cs/6235> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Viticulture and winemaking"@en ,
+                                    rdfs:label "Enology and Cellar Management"@en ,
                                                "Weinbau- und Kellerwirtschaft"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/620> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/07> ,
                                                            <https://onto.tib.eu/destf/cs/620> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "6235"^^xsd:string ;
-                                    skos:prefLabel "Viticulture and winemaking"@en ,
+                                    skos:prefLabel "Enology and Cellar Management"@en ,
                                                    "Weinbau- und Kellerwirtschaft"@de .
 
 
@@ -8812,14 +8812,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/6720
 <https://onto.tib.eu/destf/cs/6720> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Tech. healthcare"@en ,
+                                    rdfs:label "Public Health Engineering"@en ,
                                                "Techn. Gesundheitswesen"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/670> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/670> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "6720"^^xsd:string ;
-                                    skos:prefLabel "Tech. healthcare"@en ,
+                                    skos:prefLabel "Public Health Engineering"@en ,
                                                    "Techn. Gesundheitswesen"@de .
 
 
@@ -9307,14 +9307,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/6950
 <https://onto.tib.eu/destf/cs/6950> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Transport and distribution technology"@en ,
+                                    rdfs:label "Transport and Distribution Engineering"@en ,
                                                "Transport- und Verteiltechnik"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/690> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/690> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "6950"^^xsd:string ;
-                                    skos:prefLabel "Transport and distribution technology"@en ,
+                                    skos:prefLabel "Transport and Distribution Engineering"@en ,
                                                    "Transport- und Verteiltechnik"@de .
 
 
@@ -9692,7 +9692,7 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/720
 <https://onto.tib.eu/destf/cs/720> rdf:type owl:NamedIndividual ,
                                             skos:Concept ;
-                                   rdfs:label "Traffic Engineering, Nautics"@en ,
+                                   rdfs:label "Transport Engineering, Nautical Science"@en ,
                                               "Verkehrstechnik, Nautik"@de ;
                                    skos:broader <https://onto.tib.eu/destf/cs/08> ;
                                    skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ;
@@ -9714,14 +9714,14 @@ skos:ConceptScheme rdf:type owl:Class .
                                                            <https://onto.tib.eu/destf/cs/7245> ,
                                                            <https://onto.tib.eu/destf/cs/7246> ;
                                    skos:notation "720"^^xsd:string ;
-                                   skos:prefLabel "Traffic Engineering, Nautics"@en ,
+                                   skos:prefLabel "Transport Engineering, Nautical Science"@en ,
                                                   "Verkehrstechnik, Nautik"@de .
 
 
 ###  https://onto.tib.eu/destf/cs/7200
 <https://onto.tib.eu/destf/cs/7200> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Traffic Engineering, Nautical In General"@en ,
+                                    rdfs:label "Transport Engineering, Nautical Science (General)"@en ,
                                                "Verkehrstechnik, Nautik allgemein"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/720> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
@@ -9730,7 +9730,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                     skos:notation "7200"^^xsd:string ;
                                     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de ,
                                               "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
-                                    skos:prefLabel "Traffic Engineering, Nautical In General"@en ,
+                                    skos:prefLabel "Transport Engineering, Nautical Science (General)"@en ,
                                                    "Verkehrstechnik, Nautik allgemein"@de .
 
 
@@ -9751,14 +9751,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/7215
 <https://onto.tib.eu/destf/cs/7215> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Traffic engineering"@en ,
+                                    rdfs:label "Transport Engineering"@en ,
                                                "Verkehrsingenieurwesen"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/720> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/720> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7215"^^xsd:string ;
-                                    skos:prefLabel "Traffic engineering"@en ,
+                                    skos:prefLabel "Transport Engineering"@en ,
                                                    "Verkehrsingenieurwesen"@de .
 
 
@@ -9981,14 +9981,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/7395> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Städtebau und Siedlungswesen"@de ,
-                                               "Town planning and settlements"@en ;
+                                               "Urban Planning and Housing Development"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/730> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/730> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7395"^^xsd:string ;
                                     skos:prefLabel "Städtebau und Siedlungswesen"@de ,
-                                                   "Town planning and settlements"@en .
+                                                   "Urban Planning and Housing Development"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/740
@@ -10052,14 +10052,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/7420> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Stadtplanung (Ortsplanung)"@de ,
-                                               "Urban planning (local planning)"@en ;
+                                               "Urban Planning (Town Planning)"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/740> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/740> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7420"^^xsd:string ;
                                     skos:prefLabel "Stadtplanung (Ortsplanung)"@de ,
-                                                   "Urban planning (local planning)"@en .
+                                                   "Urban Planning (Town Planning)"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/7430
@@ -10194,14 +10194,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/7530
 <https://onto.tib.eu/destf/cs/7530> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Traffic Construction, -Being"@en ,
+                                    rdfs:label "Transport Engineering, Transport"@en ,
                                                "Verkehrsbau, -wesen"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/750> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/08> ,
                                                            <https://onto.tib.eu/destf/cs/750> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7530"^^xsd:string ;
-                                    skos:prefLabel "Traffic Construction, -Being"@en ,
+                                    skos:prefLabel "Transport Engineering, Transport"@en ,
                                                    "Verkehrsbau, -wesen"@de .
 
 
@@ -11704,14 +11704,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/9290
 <https://onto.tib.eu/destf/cs/9290> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Training center"@en ,
+                                    rdfs:label "Adult Education Centre"@en ,
                                                "Weiterbildungszentrum"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/920> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/15> ,
                                                            <https://onto.tib.eu/destf/cs/920> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "9290"^^xsd:string ;
-                                    skos:prefLabel "Training center"@en ,
+                                    skos:prefLabel "Adult Education Centre"@en ,
                                                    "Weiterbildungszentrum"@de .
 
 
@@ -11847,14 +11847,14 @@ skos:ConceptScheme rdf:type owl:Class .
 ###  https://onto.tib.eu/destf/cs/9360
 <https://onto.tib.eu/destf/cs/9360> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
-                                    rdfs:label "Utilities"@en ,
+                                    rdfs:label "Utility facilities"@en ,
                                                "Versorgungseinrichtungen"@de ;
                                     skos:broader <https://onto.tib.eu/destf/cs/930> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/15> ,
                                                            <https://onto.tib.eu/destf/cs/930> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "9360"^^xsd:string ;
-                                    skos:prefLabel "Utilities"@en ,
+                                    skos:prefLabel "Utility facilities"@en ,
                                                    "Versorgungseinrichtungen"@de .
 
 
@@ -12155,14 +12155,14 @@ skos:ConceptScheme rdf:type owl:Class .
 <https://onto.tib.eu/destf/cs/9660> rdf:type owl:NamedIndividual ,
                                              skos:Concept ;
                                     rdfs:label "Hochschulbauamt"@de ,
-                                               "University building authority"@en ;
+                                               "Office of Higher Education Construction"@en ;
                                     skos:broader <https://onto.tib.eu/destf/cs/960> ;
                                     skos:broaderTransitive <https://onto.tib.eu/destf/cs/15> ,
                                                            <https://onto.tib.eu/destf/cs/960> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "9660"^^xsd:string ;
                                     skos:prefLabel "Hochschulbauamt"@de ,
-                                                   "University building authority"@en .
+                                                   "Office of Higher Education Construction"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/9665
