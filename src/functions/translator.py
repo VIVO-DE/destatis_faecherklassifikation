@@ -39,13 +39,40 @@ class RDFTranslator:
 
         return self.g
 
+    def capitalizenames(self, language):
+        qres = self.g.query(
+            """SELECT ?label
+                WHERE {
+                    ?s ?p ?label
+                    FILTER langMatches( lang(?label), "en" )
+                }"""
+        )
+        for row in qres:
+            print(row.label)
+        # for s, p, o in self.g:
+        #     if not (s, p, o) in self.g:
+        #         raise Exception("Iterator / Container Protocols are Broken!!")
+        #     if p.__str__() == 'http://www.w3.org/2004/02/skos/core#prefLabel':
+        #         print("SUBJECT")
+        #         print(s)
+        #         print("PREDICATE")
+        #         print(p)
+        #         print("OBJECT")
+        #         print(o)
+
+
     def translatestring(self, inputstring):
         returnedstring = ""
         translations = self.translator.translate(inputstring, dest=self.destination, src=self.source)
+        returnedstring = self.capitalizestring(translations)
+        return returnedstring
 
-        if translations.text.find(",") > -1:
-            returnedstring = translations.text.title()
+    def capitalizestring(self, inputstring):
+        returnedstring = ""
+
+        if inputstring.text.find(",") > -1:
+            returnedstring = inputstring.text.title()
         else:
-            returnedstring = translations.text.capitalize()
+            returnedstring = inputstring.text.capitalize()
 
         return returnedstring
