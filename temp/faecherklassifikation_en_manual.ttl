@@ -1124,26 +1124,26 @@ skos:ConceptScheme a owl:Class .
 <https://onto.tib.eu/destf/cs/1440> a owl:NamedIndividual,
         skos:Concept ;
     rdfs:label "Sprachen und Kulturen des christlichen Orients"@de,
-        "Languages And Cultures Of The Christian Orient"@en ;
+        "Languages and Cultures Of The Christian Orient"@en ;
     skos:broader <https://onto.tib.eu/destf/cs/140> ;
     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01>,
         <https://onto.tib.eu/destf/cs/140> ;
     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
     skos:notation "1440"^^xsd:string ;
     skos:prefLabel "Sprachen und Kulturen des christlichen Orients"@de,
-        "Languages And Cultures Of The Christian Orient"@en .
+        "Languages and Cultures Of The Christian Orient"@en .
 
 <https://onto.tib.eu/destf/cs/1445> a owl:NamedIndividual,
         skos:Concept ;
     rdfs:label "Sprachen und Kulturen des Nahen und Mittleren Ostens"@de,
-        "Languages And Cultures Of The Near And Middle East"@en ;
+        "Languages and Cultures Of The Near And Middle East"@en ;
     skos:broader <https://onto.tib.eu/destf/cs/140> ;
     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01>,
         <https://onto.tib.eu/destf/cs/140> ;
     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
     skos:notation "1445"^^xsd:string ;
     skos:prefLabel "Sprachen und Kulturen des Nahen und Mittleren Ostens"@de,
-        "Languages And Cultures Of The Near And Middle East"@en .
+        "Languages and Cultures Of The Near And Middle East"@en .
 
 <https://onto.tib.eu/destf/cs/1450> a owl:NamedIndividual,
         skos:Concept ;
@@ -1220,7 +1220,7 @@ skos:ConceptScheme a owl:Class .
 <https://onto.tib.eu/destf/cs/1495> a owl:NamedIndividual,
         skos:Concept ;
     rdfs:label "Sprachen und Kulturen Ostasiens allgemein"@de,
-        "Languages And Cultures Of East Asia (general)"@en ;
+        "Languages and Cultures Of East Asia (general)"@en ;
     skos:broader <https://onto.tib.eu/destf/cs/140> ;
     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01>,
         <https://onto.tib.eu/destf/cs/140> ;
@@ -1229,7 +1229,7 @@ skos:ConceptScheme a owl:Class .
     skos:note "Lehr- und Forschungsgebiete, die lediglich einem Lehr- und Forschungsbereich, aber keinem Fachgebiet zugeordnet werden können, sind hier nachzuweisen."@de,
         "Teaching and research areas that can only be assigned to a teaching and research area but not to a subject area must be documented here."@en ;
     skos:prefLabel "Sprachen und Kulturen Ostasiens allgemein"@de,
-        "Languages And Cultures Of East Asia (general)"@en .
+        "Languages and Cultures Of East Asia (general)"@en .
 
 <https://onto.tib.eu/destf/cs/1510> a owl:NamedIndividual,
         skos:Concept ;
@@ -1246,14 +1246,14 @@ skos:ConceptScheme a owl:Class .
 <https://onto.tib.eu/destf/cs/1520> a owl:NamedIndividual,
         skos:Concept ;
     rdfs:label "Sprachen und Kulturen Zentralasiens"@de,
-        "Languages And Cultures Of Central Asia"@en ;
+        "Languages and Cultures Of Central Asia"@en ;
     skos:broader <https://onto.tib.eu/destf/cs/140> ;
     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01>,
         <https://onto.tib.eu/destf/cs/140> ;
     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
     skos:notation "1520"^^xsd:string ;
     skos:prefLabel "Sprachen und Kulturen Zentralasiens"@de,
-        "Languages And Cultures Of Central Asia"@en .
+        "Languages and Cultures Of Central Asia"@en .
 
 <https://onto.tib.eu/destf/cs/1530> a owl:NamedIndividual,
         skos:Concept ;
@@ -1294,26 +1294,26 @@ skos:ConceptScheme a owl:Class .
 <https://onto.tib.eu/destf/cs/1560> a owl:NamedIndividual,
         skos:Concept ;
     rdfs:label "Sprachen und Kulturen Südostasiens und Ozeaniens"@de,
-        "Languages And Cultures Of Southeast Asia And Oceania"@en ;
+        "Languages and Cultures Of Southeast Asia And Oceania"@en ;
     skos:broader <https://onto.tib.eu/destf/cs/140> ;
     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01>,
         <https://onto.tib.eu/destf/cs/140> ;
     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
     skos:notation "1560"^^xsd:string ;
     skos:prefLabel "Sprachen und Kulturen Südostasiens und Ozeaniens"@de,
-        "Languages And Cultures Of Southeast Asia And Oceania"@en .
+        "Languages and Cultures Of Southeast Asia And Oceania"@en .
 
 <https://onto.tib.eu/destf/cs/1570> a owl:NamedIndividual,
         skos:Concept ;
     rdfs:label "Außereuropäische Sprachen und Kulturen Amerikas"@de,
-        "Non-european Languages And Cultures Of The Americas"@en ;
+        "Non-european Languages and Cultures Of The Americas"@en ;
     skos:broader <https://onto.tib.eu/destf/cs/140> ;
     skos:broaderTransitive <https://onto.tib.eu/destf/cs/01>,
         <https://onto.tib.eu/destf/cs/140> ;
     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
     skos:notation "1570"^^xsd:string ;
     skos:prefLabel "Außereuropäische Sprachen und Kulturen Amerikas"@de,
-        "Non-european Languages And Cultures Of The Americas"@en .
+        "Non-european Languages and Cultures Of The Americas"@en .
 
 <https://onto.tib.eu/destf/cs/1575> a owl:NamedIndividual,
         skos:Concept ;
