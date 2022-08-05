@@ -1143,8 +1143,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                                            <https://onto.tib.eu/destf/cs/050> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "0520"^^xsd:string ;
-                                    skos:note "Ancient History"@en ;
-                                    skos:prefLabel "Alte Geschichte"@de .
+                                    skos:prefLabel "Alte Geschichte"@de, "Ancient History"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/0530
@@ -9468,8 +9467,7 @@ skos:ConceptScheme rdf:type owl:Class .
                                                            <https://onto.tib.eu/destf/cs/690> ;
                                     skos:inScheme <https://onto.tib.eu/destf/cs/> ;
                                     skos:notation "7030"^^xsd:string ;
-                                    skos:note "Plastics Engineering"@en ;
-                                    skos:prefLabel "Kunststofftechnik"@de .
+                                    skos:prefLabel "Kunststofftechnik"@de, "Plastics Engineering"@en .
 
 
 ###  https://onto.tib.eu/destf/cs/7040
