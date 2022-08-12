@@ -1,2 +1,0 @@
-googletrans==3.0.0
-rdflib==6.2.0
