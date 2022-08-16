@@ -1,0 +1,2949 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://onto.tib.eu/destf/cs/> rdfs:label "Personal an Hochschulen - Fächersystematik"@de-DE,
+        "Personnel At Universities - Subject Classification"@en-US ;
+    skos:prefLabel "Personnel At Universities - Subject Classification"@en-US .
+
+<https://onto.tib.eu/destf/cs/01> rdfs:label "Geisteswissenschaften"@de-DE,
+        "Humanities"@en-US ;
+    skos:prefLabel "Humanities"@en-US .
+
+<https://onto.tib.eu/destf/cs/010> rdfs:label "Geisteswissenschaften allgemein"@de-DE,
+        "Humanities (general)"@en-US ;
+    skos:prefLabel "Humanities (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0100> rdfs:label "Geisteswissenschaften allgemein"@de-DE,
+        "Humanities (general)"@en-US ;
+    skos:prefLabel "Humanities (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0120> rdfs:label "Interdisziplinäre Studien (Schwerpunkt Sprach- und Kulturwissenschaften)"@de-DE,
+        "Interdisciplinary Studies (focus On Linguistics And Cultural Studies)"@en-US ;
+    skos:prefLabel "Interdisciplinary Studies (focus On Linguistics And Cultural Studies)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0130> rdfs:label "Medienwissenschaften"@de-DE,
+        "Media Studies"@en-US ;
+    skos:prefLabel "Media Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/02> rdfs:label "Sport"@de-DE,
+        "Sports"@en-US ;
+    skos:prefLabel "Sports"@en-US .
+
+<https://onto.tib.eu/destf/cs/020> rdfs:label "Evang. Theologie"@de-DE,
+        "Systematic Theology (Protestant Theology)"@en-US ;
+    skos:prefLabel "Systematic Theology (Protestant Theology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0200> rdfs:label "Evang. Theologie allgemein"@de-DE,
+        "Protestant Theology (General)"@en-US ;
+    skos:prefLabel "Protestant Theology (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0210> rdfs:label "Altes Testament (evang. Th.)"@de-DE,
+        "Old Testament (Protestant Theology)"@en-US ;
+    skos:prefLabel "Old Testament (Protestant Theology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0215> rdfs:label "Diakoniewissenschaft"@de-DE,
+        "Diaconal Science"@en-US ;
+    skos:prefLabel "Diaconal Science"@en-US .
+
+<https://onto.tib.eu/destf/cs/0220> rdfs:label "Neues Testament (evang. Th.)"@de-DE,
+        "New Testament (Protestant Theology)"@en-US ;
+    skos:prefLabel "New Testament (Protestant Theology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0230> rdfs:label "Historische Theologie (evang. Th.)"@de-DE,
+        "Historical Theology (Protestant Theology)"@en-US ;
+    skos:prefLabel "Historical Theology (Protestant Theology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0240> rdfs:label "Systematische Theologie (evang. Th.)"@de-DE,
+        "Systematic Theology (Protestant Theology)"@en-US ;
+    skos:prefLabel "Systematic Theology (Protestant Theology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0250> rdfs:label "Praktische Theologie und Religionspädagogik (evang. Th.)"@de-DE,
+        "Practical Theology And Religious Education (Protestant Theology)"@en-US ;
+    skos:prefLabel "Practical Theology And Religious Education (Protestant Theology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0260> rdfs:label "Religionsgeschichte und Missionswissenschaft (evang. Th.)"@de-DE,
+        "History Of Religion And Missionary Studies (Protestant Theology)"@en-US ;
+    skos:prefLabel "History Of Religion And Missionary Studies (Protestant Theology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/03> rdfs:label "Rechts-, Wirtschafts- und Sozialwissenschaften"@de-DE,
+        "Law, Economics And Social Sciences"@en-US ;
+    skos:prefLabel "Law, Economics And Social Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/030> rdfs:label "Kath. Theologie"@de-DE,
+        "Catholic Theology"@en-US ;
+    skos:prefLabel "Catholic Theology"@en-US .
+
+<https://onto.tib.eu/destf/cs/0300> rdfs:label "Kath. Theologie allgemein"@de-DE,
+        "Catholic Theology (general)"@en-US ;
+    skos:prefLabel "Catholic Theology (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0310> rdfs:label "Biblische Theologie (kath. Th.)"@de-DE,
+        "Biblical Theology (Catholic Theology)"@en-US ;
+    skos:prefLabel "Biblical Theology (Catholic Theology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0315> rdfs:label "Caritaswissenschaft"@de-DE,
+        "Catholic Social Welfare Studies"@en-US ;
+    skos:prefLabel "Catholic Social Welfare Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/0320> rdfs:label "Historische Theologie (kath. Th.)"@de-DE,
+        "Historical Theology (Catholic Theology)"@en-US ;
+    skos:prefLabel "Historical Theology (Catholic Theology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0330> rdfs:label "Systematische Theologie (kath. Th.)"@de-DE,
+        "Systematic Theology (Catholic Theology)"@en-US ;
+    skos:prefLabel "Systematic Theology (Catholic Theology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0340> rdfs:label "Praktische Theologie und Religionspädagogik (kath. Th.)"@de-DE,
+        "Practical Theology And Religious Education (Catholic Theology)"@en-US ;
+    skos:prefLabel "Practical Theology And Religious Education (Catholic Theology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0350> rdfs:label "Kanonistik (kath. Th.)"@de-DE,
+        "Canon Law (Catholic Theology)"@en-US ;
+    skos:prefLabel "Canon Law (Catholic Theology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0390> rdfs:label "Altkatholische Theologie"@de-DE,
+        "Old Catholic Theology"@en-US ;
+    skos:prefLabel "Old Catholic Theology"@en-US .
+
+<https://onto.tib.eu/destf/cs/04> rdfs:label "Mathematik, Naturwissenschaften"@de-DE,
+        "Mathematics, Natural Sciences"@en-US ;
+    skos:prefLabel "Mathematics, Natural Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/040> rdfs:label "Philosophie"@de-DE,
+        "Philosophy"@en-US ;
+    skos:prefLabel "Philosophy"@en-US .
+
+<https://onto.tib.eu/destf/cs/0400> rdfs:label "Philosophie allgemein"@de-DE,
+        "Philosophy (general)"@en-US ;
+    skos:prefLabel "Philosophy (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0410> rdfs:label "Religionswissenschaft"@de-DE,
+        "Religious Studies"@en-US ;
+    skos:prefLabel "Religious Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/0420> rdfs:label "Didaktik der Philosophie/Ethik"@de-DE,
+        "Didactics Of Philosophy/Ethics"@en-US ;
+    skos:prefLabel "Didactics Of Philosophy/Ethics"@en-US .
+
+<https://onto.tib.eu/destf/cs/0425> rdfs:label "Geschichte der Philosophie"@de-DE,
+        "History Of Philosophy"@en-US ;
+    skos:prefLabel "History Of Philosophy"@en-US .
+
+<https://onto.tib.eu/destf/cs/0426> rdfs:label "Logik"@de-DE,
+        "Logic"@en-US ;
+    skos:prefLabel "Logic"@en-US .
+
+<https://onto.tib.eu/destf/cs/0430> rdfs:label "Wissenschaftsforschung/-lehre"@de-DE,
+        "Science Research/teaching"@en-US ;
+    skos:prefLabel "Science Research/teaching"@en-US .
+
+<https://onto.tib.eu/destf/cs/05> rdfs:label "Humanmedizin/Gesundheitswissenschaften"@de-DE,
+        "Human Medicine/health Sciences"@en-US ;
+    skos:prefLabel "Human Medicine/health Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/050> rdfs:label "Geschichte"@de-DE,
+        "History"@en-US ;
+    skos:prefLabel "History"@en-US .
+
+<https://onto.tib.eu/destf/cs/0510> rdfs:label "Ur- und Frühgeschichte"@de-DE,
+        "Prehistory And Early History"@en-US ;
+    skos:prefLabel "Prehistory And Early History"@en-US .
+
+<https://onto.tib.eu/destf/cs/0520> rdfs:label "Alte Geschichte"@de-DE,
+        "Ancient History"@en-US ;
+    skos:prefLabel "Ancient History"@en-US .
+
+<https://onto.tib.eu/destf/cs/0530> rdfs:label "Mittelalterliche Geschichte"@de-DE,
+        "Medieval History"@en-US ;
+    skos:prefLabel "Medieval History"@en-US .
+
+<https://onto.tib.eu/destf/cs/0540> rdfs:label "Neuere und neueste Geschichte"@de-DE,
+        "Recent And Recent History"@en-US ;
+    skos:prefLabel "Recent And Recent History"@en-US .
+
+<https://onto.tib.eu/destf/cs/0550> rdfs:label "Länder-, Landesgeschichte"@de-DE,
+        "Country, Regional History"@en-US ;
+    skos:prefLabel "Country, Regional History"@en-US .
+
+<https://onto.tib.eu/destf/cs/0560> rdfs:label "Wirtschafts- und Sozialgeschichte"@de-DE,
+        "Economic And Social History"@en-US ;
+    skos:prefLabel "Economic And Social History"@en-US .
+
+<https://onto.tib.eu/destf/cs/0570> rdfs:label "Archäologie"@de-DE,
+        "Archeology"@en-US ;
+    skos:prefLabel "Archeology"@en-US .
+
+<https://onto.tib.eu/destf/cs/0580> rdfs:label "Didaktik der Geschichte"@de-DE,
+        "Didactics Of History"@en-US ;
+    skos:prefLabel "Didactics Of History"@en-US .
+
+<https://onto.tib.eu/destf/cs/0585> rdfs:label "Kultur- und Geistesgeschichte"@de-DE,
+        "Cultural And Intellectual History"@en-US ;
+    skos:prefLabel "Cultural And Intellectual History"@en-US .
+
+<https://onto.tib.eu/destf/cs/0590> rdfs:label "Technikgeschichte"@de-DE,
+        "Technology History"@en-US ;
+    skos:prefLabel "Technology History"@en-US .
+
+<https://onto.tib.eu/destf/cs/07> rdfs:label "Agrar-, Forst- und Ernährungswissenschaften, Veterinärmedizin"@de-DE,
+        "Agricultural, Forestry And Nutritional Sciences, Veterinary Medicine"@en-US ;
+    skos:prefLabel "Agricultural, Forestry And Nutritional Sciences, Veterinary Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/070> rdfs:label "Bibliothekswissenschaft, Dokumentation"@de-DE,
+        "Library Science, Documentation"@en-US ;
+    skos:prefLabel "Library Science, Documentation"@en-US .
+
+<https://onto.tib.eu/destf/cs/0700> rdfs:label "Bibliothekswissenschaft, Dokumentation allgemein"@de-DE,
+        "Library Science, Documentation (General)"@en-US ;
+    skos:prefLabel "Library Science, Documentation (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0710> rdfs:label "Bibliothekswissenschaft/-wesen (nicht für Verwaltungs-FH)"@de-DE,
+        "Library Science And Administration (not For College Of Administration)"@en-US ;
+    skos:prefLabel "Library Science And Administration (not For College Of Administration)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0720> rdfs:label "Dokumentationswissenschaft"@de-DE,
+        "Documentation Science"@en-US ;
+    skos:prefLabel "Documentation Science"@en-US .
+
+<https://onto.tib.eu/destf/cs/08> rdfs:label "Ingenieurwissenschaften"@de-DE,
+        "Engineering"@en-US ;
+    skos:prefLabel "Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/080> rdfs:label "Allgemeine und vergleichende Literatur- und Sprachwissenschaft"@de-DE,
+        "General And Comparative Literature And Linguistics"@en-US ;
+    skos:prefLabel "General And Comparative Literature And Linguistics"@en-US .
+
+<https://onto.tib.eu/destf/cs/0800> rdfs:label "Allg. und vergleichende Literatur- und Sprachwissenschaft allgemein"@de-DE,
+        "General And Comparative Literature And Linguistics (general)"@en-US ;
+    skos:prefLabel "General And Comparative Literature And Linguistics (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0810> rdfs:label "Allg. und vergleichende Sprachwissenschaft"@de-DE,
+        "General And Comparative Linguistics"@en-US ;
+    skos:prefLabel "General And Comparative Linguistics"@en-US .
+
+<https://onto.tib.eu/destf/cs/0820> rdfs:label "Allg. und vergleichende Literaturwissenschaft"@de-DE,
+        "General And Comparative Literature"@en-US ;
+    skos:prefLabel "General And Comparative Literature"@en-US .
+
+<https://onto.tib.eu/destf/cs/0830> rdfs:label "Angewandte Sprachwissenschaft, berufsbezogene Fremdsprachenausbildung"@de-DE,
+        "Applied Linguistics, Career-Oriented Foreign Language Training"@de-DE,
+        "Applied Linguistics, Career-Oriented Foreign Language Training"@en-US,
+        "Applied Linguistics, Job-Related Foreign Language Training"@en-US ;
+    skos:prefLabel "Applied Linguistics, Career-Oriented Foreign Language Training"@en-US .
+
+<https://onto.tib.eu/destf/cs/0835> rdfs:label "Computerlinguistik"@de-DE,
+        "Computational Linguistics"@en-US ;
+    skos:prefLabel "Computational Linguistics"@en-US .
+
+<https://onto.tib.eu/destf/cs/0840> rdfs:label "Fremdsprachenausbildung (f. Hörer aller Fakultäten)"@de-DE,
+        "Foreign Language Training (for Students Of All Faculties)"@en-US ;
+    skos:prefLabel "Foreign Language Training (for Students Of All Faculties)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0845> rdfs:label "Indogermanistik"@de-DE,
+        "Indo-European Linguistics/Studies"@en-US ;
+    skos:prefLabel "Indo-European Linguistics/Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/09> rdfs:label "Kunst, Kunstwissenschaft"@de-DE,
+        "Art, Art Theory"@en-US ;
+    skos:prefLabel "Art, Art Theory"@en-US .
+
+<https://onto.tib.eu/destf/cs/090> rdfs:label "Altphilologie (klass. Philologie)"@de-DE,
+        "Classical Philology"@en-US ;
+    skos:prefLabel "Classical Philology"@en-US .
+
+<https://onto.tib.eu/destf/cs/0900> rdfs:label "Altphilologie allgemein"@de-DE,
+        "Classical Philology (general)"@en-US ;
+    skos:prefLabel "Classical Philology (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/0910> rdfs:label "Griechische Philologie"@de-DE,
+        "Greek Philology"@en-US ;
+    skos:prefLabel "Greek Philology"@en-US .
+
+<https://onto.tib.eu/destf/cs/0920> rdfs:label "Lateinische Philologie"@de-DE,
+        "Latin Philology"@en-US ;
+    skos:prefLabel "Latin Philology"@en-US .
+
+<https://onto.tib.eu/destf/cs/0930> rdfs:label "Byzantinistik"@de-DE,
+        "Byzantine Studies"@en-US ;
+    skos:prefLabel "Byzantine Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/0940> rdfs:label "Neugriechisch"@de-DE,
+        "Modern Greek"@en-US ;
+    skos:prefLabel "Modern Greek"@en-US .
+
+<https://onto.tib.eu/destf/cs/0950> rdfs:label "Papyrologie"@de-DE,
+        "Papyrology"@en-US ;
+    skos:prefLabel "Papyrology"@en-US .
+
+<https://onto.tib.eu/destf/cs/0960> rdfs:label "Didaktik der Altphilologie"@de-DE,
+        "Didactics Of Classical Philology"@en-US ;
+    skos:prefLabel "Didactics Of Classical Philology"@en-US .
+
+<https://onto.tib.eu/destf/cs/100> rdfs:label "Germanistik (Deutsch, germanische Sprachen ohne Anglistik)"@de-DE,
+        "German Studies (German, Germanic Languages Excl. English)"@en-US ;
+    skos:prefLabel "German Studies (German, Germanic Languages Excl. English)"@en-US .
+
+<https://onto.tib.eu/destf/cs/1000> rdfs:label "Germanistik (Deutsch, germanische Sprachen ohne Anglistik) allgemein"@de-DE,
+        "German Studies (German, Germanic Languages Excl. English General)"@en-US ;
+    skos:prefLabel "German Studies (German, Germanic Languages Excl. English General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/1020> rdfs:label "Skandinavistik"@de-DE,
+        "Scandinavian Studies"@en-US ;
+    skos:prefLabel "Scandinavian Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1030> rdfs:label "Niederlandistik"@de-DE,
+        "Dutch Studies"@en-US ;
+    skos:prefLabel "Dutch Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1040> rdfs:label "Deutsch als Fremdsprache oder als Zweitsprache"@de-DE,
+        "German As A Foreign Language Or As A Second Language"@en-US ;
+    skos:prefLabel "German As A Foreign Language Or As A Second Language"@en-US .
+
+<https://onto.tib.eu/destf/cs/1050> rdfs:label "Didaktik der deutschen Sprache"@de-DE,
+        "Didactics Of The German Language"@en-US ;
+    skos:prefLabel "Didactics Of The German Language"@en-US .
+
+<https://onto.tib.eu/destf/cs/1070> rdfs:label "Sonstige germanische Sprachen (ohne Anglistik)"@de-DE,
+        "Other Germanic Languages (except English Studies)"@en-US ;
+    skos:prefLabel "Other Germanic Languages (except English Studies)"@en-US .
+
+<https://onto.tib.eu/destf/cs/1080> rdfs:label "Deutsche Literaturwissenschaft"@de-DE,
+        "German Literary Studies"@en-US ;
+    skos:prefLabel "German Literary Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1090> rdfs:label "Deutsche Sprachwissenschaft"@de-DE,
+        "German Linguistics"@en-US ;
+    skos:prefLabel "German Linguistics"@en-US .
+
+<https://onto.tib.eu/destf/cs/110> rdfs:label "Anglistik, Amerikanistik"@de-DE,
+        "English Studies, American Studies"@en-US ;
+    skos:prefLabel "English Studies, American Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1100> rdfs:label "Anglistik"@de-DE,
+        "English Studies"@en-US ;
+    skos:prefLabel "English Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1110> rdfs:label "Amerikanistik"@de-DE,
+        "American Studies"@en-US ;
+    skos:prefLabel "American Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1120> rdfs:label "Didaktik des Englischen"@de-DE,
+        "Didactics Of English"@en-US ;
+    skos:prefLabel "Didactics Of English"@en-US .
+
+<https://onto.tib.eu/destf/cs/1125> rdfs:label "Wirtschaftsenglisch, Englische Fachsprachen"@de-DE,
+        "Business English And Specialised English"@en-US ;
+    skos:prefLabel "Business English And Specialised English"@en-US .
+
+<https://onto.tib.eu/destf/cs/120> rdfs:label "Romanistik"@de-DE,
+        "Romance Studies"@en-US ;
+    skos:prefLabel "Romance Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1200> rdfs:label "Romanistik allgemein"@de-DE,
+        "Romance Studies (general)"@en-US ;
+    skos:prefLabel "Romance Studies (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/1210> rdfs:label "Französische Sprach- und Literaturwissenschaft"@de-DE,
+        "French Language And Literature"@en-US ;
+    skos:prefLabel "French Language And Literature"@en-US .
+
+<https://onto.tib.eu/destf/cs/1215> rdfs:label "Didaktik des Französischen"@de-DE,
+        "Didactics Of French"@en-US ;
+    skos:prefLabel "Didactics Of French"@en-US .
+
+<https://onto.tib.eu/destf/cs/1220> rdfs:label "Italienische Sprach- und Literaturwissenschaft"@de-DE,
+        "Italian Linguistics And Literature"@en-US ;
+    skos:prefLabel "Italian Linguistics And Literature"@en-US .
+
+<https://onto.tib.eu/destf/cs/1225> rdfs:label "Didaktik des Italienischen"@de-DE,
+        "Didactics Of Italian"@en-US ;
+    skos:prefLabel "Didactics Of Italian"@en-US .
+
+<https://onto.tib.eu/destf/cs/1230> rdfs:label "Iberoromanische Sprach- und Literaturwissenschaft"@de-DE,
+        "Ibero-romance Linguistics And Literature"@en-US ;
+    skos:prefLabel "Ibero-romance Linguistics And Literature"@en-US .
+
+<https://onto.tib.eu/destf/cs/1235> rdfs:label "Didaktik des Spanischen"@de-DE,
+        "Didactics Of Spanish"@en-US ;
+    skos:prefLabel "Didactics Of Spanish"@en-US .
+
+<https://onto.tib.eu/destf/cs/1240> rdfs:label "Sonstige romanische Sprachen"@de-DE,
+        "Other Romance Languages"@en-US ;
+    skos:prefLabel "Other Romance Languages"@en-US .
+
+<https://onto.tib.eu/destf/cs/130> rdfs:label "Slawistik, Baltistik, Finno-Ugristik"@de-DE,
+        "Slavic Studies, Baltic Studies, Finno-Ugric Studies"@en-US ;
+    skos:prefLabel "Slavic Studies, Baltic Studies, Finno-Ugric Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1300> rdfs:label "Slawistik, Baltistik, Finno-Ugristik allgemein"@de-DE,
+        "Slavic Studies, Baltic Studies, Finno-Ugric Studies (General)"@en-US ;
+    skos:prefLabel "Slavic Studies, Baltic Studies, Finno-Ugric Studies (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/1310> rdfs:label "Slawistik allgemein"@de-DE,
+        "Slavic Studies (general)"@en-US ;
+    skos:prefLabel "Slavic Studies (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/1315> rdfs:label "Ostslawische Philologien"@de-DE,
+        "East Slavic Philologies"@en-US ;
+    skos:prefLabel "East Slavic Philologies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1320> rdfs:label "Russische Sprach- und Literaturwissenschaft"@de-DE,
+        "Russian Linguistics And Literature"@en-US ;
+    skos:prefLabel "Russian Linguistics And Literature"@en-US .
+
+<https://onto.tib.eu/destf/cs/1340> rdfs:label "Südslawische Philologien"@de-DE,
+        "South Slavic Philologies"@en-US ;
+    skos:prefLabel "South Slavic Philologies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1345> rdfs:label "Westslawische Philologien"@de-DE,
+        "West Slavic Philologies"@en-US ;
+    skos:prefLabel "West Slavic Philologies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1346> rdfs:label "Polnisch"@de-DE,
+        "Polish"@en-US ;
+    skos:prefLabel "Polish"@en-US .
+
+<https://onto.tib.eu/destf/cs/1347> rdfs:label "Sorbisch"@de-DE,
+        "Sorbian"@en-US ;
+    skos:prefLabel "Sorbian"@en-US .
+
+<https://onto.tib.eu/destf/cs/1348> rdfs:label "Tschechisch"@de-DE,
+        "Czech"@en-US ;
+    skos:prefLabel "Czech"@en-US .
+
+<https://onto.tib.eu/destf/cs/1350> rdfs:label "Baltistik"@de-DE,
+        "Baltic Studies"@en-US ;
+    skos:prefLabel "Baltic Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1370> rdfs:label "Finno-Ugristik"@de-DE,
+        "Finno-ugric Studies"@en-US ;
+    skos:prefLabel "Finno-ugric Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1380> rdfs:label "Balkanologie"@de-DE,
+        "Balkanology"@en-US ;
+    skos:prefLabel "Balkanology"@en-US .
+
+<https://onto.tib.eu/destf/cs/140> rdfs:label "Sonstige/Außereuropäische Sprach- und Kulturwissenschaften"@de-DE,
+        "Other/non-european Linguistics And Cultural Studies"@en-US ;
+    skos:prefLabel "Other/non-european Linguistics And Cultural Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1400> rdfs:label "Sonstige/Außereuropäische Sprach- und Kulturwissenschaften allgemein"@de-DE,
+        "Other/Non-European Linguistics And Cultural Studies (General)"@en-US ;
+    skos:prefLabel "Other/Non-European Linguistics And Cultural Studies (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/1410> rdfs:label "Ägyptologie"@de-DE,
+        "Egyptology"@en-US ;
+    skos:prefLabel "Egyptology"@en-US .
+
+<https://onto.tib.eu/destf/cs/1420> rdfs:label "Afrikanistik"@de-DE,
+        "African Studies"@en-US ;
+    skos:prefLabel "African Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1430> rdfs:label "Altorientalistik"@de-DE,
+        "Ancient Near Eastern Studies"@en-US ;
+    skos:prefLabel "Ancient Near Eastern Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1440> rdfs:label "Sprachen und Kulturen des christlichen Orients"@de-DE,
+        "Languages And Cultures Of The Christian Orient"@en-US ;
+    skos:prefLabel "Languages And Cultures Of The Christian Orient"@en-US .
+
+<https://onto.tib.eu/destf/cs/1445> rdfs:label "Sprachen und Kulturen des Nahen und Mittleren Ostens"@de-DE,
+        "Languages And Cultures Of The Near And Middle East"@en-US ;
+    skos:prefLabel "Languages And Cultures Of The Near And Middle East"@en-US .
+
+<https://onto.tib.eu/destf/cs/1450> rdfs:label "Semitistik, Arabistik"@de-DE,
+        "Semitic Studies, Arabic Studies"@en-US ;
+    skos:prefLabel "Semitic Studies, Arabic Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1460> rdfs:label "Judaistik/Hebräisch"@de-DE,
+        "Judaic Studies/hebrew"@en-US ;
+    skos:prefLabel "Judaic Studies/hebrew"@en-US .
+
+<https://onto.tib.eu/destf/cs/1465> rdfs:label "Kaukasistik"@de-DE,
+        "Caucasian Studies"@en-US ;
+    skos:prefLabel "Caucasian Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1470> rdfs:label "Islamwissenschaft"@de-DE,
+        "Islamic Studies"@en-US ;
+    skos:prefLabel "Islamic Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1480> rdfs:label "Iranistik"@de-DE,
+        "Iranian Studies"@en-US ;
+    skos:prefLabel "Iranian Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1490> rdfs:label "Indologie"@de-DE,
+        "Indology"@en-US ;
+    skos:prefLabel "Indology"@en-US .
+
+<https://onto.tib.eu/destf/cs/1495> rdfs:label "Sprachen und Kulturen Ostasiens allgemein"@de-DE,
+        "Languages And Cultures Of East Asia (general)"@en-US ;
+    skos:prefLabel "Languages And Cultures Of East Asia (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/15> rdfs:label "Zentrale Einrichtungen (ohne klinikspezifische Einrichtungen)"@de-DE,
+        "Central Facilities (excluding Hospital-specific Facilities)"@en-US ;
+    skos:prefLabel "Central Facilities (excluding Hospital-specific Facilities)"@en-US .
+
+<https://onto.tib.eu/destf/cs/1510> rdfs:label "Turkologie"@de-DE,
+        "Turkish Studies"@en-US ;
+    skos:prefLabel "Turkish Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1520> rdfs:label "Sprachen und Kulturen Zentralasiens"@de-DE,
+        "Languages And Cultures Of Central Asia"@en-US ;
+    skos:prefLabel "Languages And Cultures Of Central Asia"@en-US .
+
+<https://onto.tib.eu/destf/cs/1530> rdfs:label "Sinologie"@de-DE,
+        "Sinology"@en-US ;
+    skos:prefLabel "Sinology"@en-US .
+
+<https://onto.tib.eu/destf/cs/1540> rdfs:label "Japanologie"@de-DE,
+        "Japanology"@en-US ;
+    skos:prefLabel "Japanology"@en-US .
+
+<https://onto.tib.eu/destf/cs/1550> rdfs:label "Koreanistik"@de-DE,
+        "Korean Studies"@en-US ;
+    skos:prefLabel "Korean Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1560> rdfs:label "Sprachen und Kulturen Südostasiens und Ozeaniens"@de-DE,
+        "Languages And Cultures Of Southeast Asia And Oceania"@en-US ;
+    skos:prefLabel "Languages And Cultures Of Southeast Asia And Oceania"@en-US .
+
+<https://onto.tib.eu/destf/cs/1570> rdfs:label "Außereuropäische Sprachen und Kulturen Amerikas"@de-DE,
+        "Non-european Languages And Cultures Of The Americas"@en-US ;
+    skos:prefLabel "Non-european Languages And Cultures Of The Americas"@en-US .
+
+<https://onto.tib.eu/destf/cs/1575> rdfs:label "Außereuropäische Sprachen und Kulturen Australiens"@de-DE,
+        "Non-European Languages And Cultures Of Australia"@en-US ;
+    skos:prefLabel "Non-European Languages And Cultures Of Australia"@en-US .
+
+<https://onto.tib.eu/destf/cs/1576> rdfs:label "Orientalistik allgemein"@de-DE,
+        "Oriental Studies (general)"@en-US ;
+    skos:prefLabel "Oriental Studies (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/1580> rdfs:label "Ethnologie"@de-DE,
+        "Ethnology"@en-US ;
+    skos:prefLabel "Ethnology"@en-US .
+
+<https://onto.tib.eu/destf/cs/1590> rdfs:label "Volkskunde"@de-DE,
+        "Folklore"@en-US ;
+    skos:prefLabel "Folklore"@en-US .
+
+<https://onto.tib.eu/destf/cs/160> rdfs:label "Kulturwissenschaften i.e.S."@de-DE,
+        "Cultural Studies I.e.s."@en-US ;
+    skos:prefLabel "Cultural Studies I.e.s."@en-US .
+
+<https://onto.tib.eu/destf/cs/1610> rdfs:label "Sonstige Sprachwissenschaften"@de-DE,
+        "Other Linguistics"@en-US ;
+    skos:prefLabel "Other Linguistics"@en-US .
+
+<https://onto.tib.eu/destf/cs/1650> rdfs:label "Allgemeine Kulturwissenschaft"@de-DE,
+        "General Cultural Studies"@en-US ;
+    skos:prefLabel "General Cultural Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1660> rdfs:label "Europäische Ethnologie"@de-DE,
+        "European Ethnology"@en-US ;
+    skos:prefLabel "European Ethnology"@en-US .
+
+<https://onto.tib.eu/destf/cs/1700> rdfs:label "Psychologie allgemein"@de-DE,
+        "Psychology (general)"@en-US ;
+    skos:prefLabel "Psychology (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/1710> rdfs:label "Differentielle Psychologie, Persönlichkeitspsychologie und Diagnostik"@de-DE,
+        "Differential Psychology, Personality Psychology And Diagnostics"@en-US ;
+    skos:prefLabel "Differential Psychology, Personality Psychology And Diagnostics"@en-US .
+
+<https://onto.tib.eu/destf/cs/1715> rdfs:label "Arbeits-, Organisations- und Wirtschaftspsychologie"@de-DE,
+        "Industrial, Organizational And Business Psychology"@en-US ;
+    skos:prefLabel "Industrial, Organizational And Business Psychology"@en-US .
+
+<https://onto.tib.eu/destf/cs/1720> rdfs:label "Entwicklungspsychologie"@de-DE,
+        "Developmental Psychology"@en-US ;
+    skos:prefLabel "Developmental Psychology"@en-US .
+
+<https://onto.tib.eu/destf/cs/1725> rdfs:label "Pädagogische Psychologie"@de-DE,
+        "Educational Psychology"@en-US ;
+    skos:prefLabel "Educational Psychology"@en-US .
+
+<https://onto.tib.eu/destf/cs/1730> rdfs:label "Sozialpsychologie"@de-DE,
+        "Social Psychology"@en-US ;
+    skos:prefLabel "Social Psychology"@en-US .
+
+<https://onto.tib.eu/destf/cs/1740> rdfs:label "Klinische Psychologie, Diagnostik und Psychotherapie"@de-DE,
+        "Clinical Psychology, Diagnostics And Psychotherapy"@en-US ;
+    skos:prefLabel "Clinical Psychology, Diagnostics And Psychotherapy"@en-US .
+
+<https://onto.tib.eu/destf/cs/1750> rdfs:label "Allgemeine und kognitive Psychologie"@de-DE,
+        "General And Cognitive Psychology"@en-US ;
+    skos:prefLabel "General And Cognitive Psychology"@en-US .
+
+<https://onto.tib.eu/destf/cs/1760> rdfs:label "Biologische und Neuropsychologie"@de-DE,
+        "Biological And Neuropsychology"@en-US ;
+    skos:prefLabel "Biological And Neuropsychology"@en-US .
+
+<https://onto.tib.eu/destf/cs/1800> rdfs:label "Erziehungswissenschaft allgemein"@de-DE,
+        "Educational Science (general)"@en-US ;
+    skos:prefLabel "Educational Science (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/1801> rdfs:label "Didaktik"@de-DE,
+        "Didactics"@en-US ;
+    skos:prefLabel "Didactics"@en-US .
+
+<https://onto.tib.eu/destf/cs/1802> rdfs:label "Empirische Bildungsforschung"@de-DE,
+        "Empirical Educational Research"@en-US ;
+    skos:prefLabel "Empirical Educational Research"@en-US .
+
+<https://onto.tib.eu/destf/cs/1803> rdfs:label "Grundschul- und Primarstufenpädagogik"@de-DE,
+        "Elementary School And Primary Level Pedagogy"@en-US ;
+    skos:prefLabel "Elementary School And Primary Level Pedagogy"@en-US .
+
+<https://onto.tib.eu/destf/cs/1804> rdfs:label "Historische Bildungsforschung"@de-DE,
+        "Historical Educational Research"@en-US ;
+    skos:prefLabel "Historical Educational Research"@en-US .
+
+<https://onto.tib.eu/destf/cs/1805> rdfs:label "Berufs- und Wirtschaftspädagogik"@de-DE,
+        "Vocational And Business Education"@en-US ;
+    skos:prefLabel "Vocational And Business Education"@en-US .
+
+<https://onto.tib.eu/destf/cs/1806> rdfs:label "Sonderpädagogik"@de-DE,
+        "Special Education"@en-US ;
+    skos:prefLabel "Special Education"@en-US .
+
+<https://onto.tib.eu/destf/cs/1820> rdfs:label "Erwachsenenbildung"@de-DE,
+        "Adult Education"@en-US ;
+    skos:prefLabel "Adult Education"@en-US .
+
+<https://onto.tib.eu/destf/cs/1825> rdfs:label "Pädagogische Freizeitforschung und Sportpädagogik"@de-DE,
+        "Pedagogical Leisure Research And Sports Pedagogy"@en-US ;
+    skos:prefLabel "Pedagogical Leisure Research And Sports Pedagogy"@en-US .
+
+<https://onto.tib.eu/destf/cs/1826> rdfs:label "Pädagogik der frühen Kindheit"@de-DE,
+        "Pedagogy Of Early Childhood"@en-US ;
+    skos:prefLabel "Pedagogy Of Early Childhood"@en-US .
+
+<https://onto.tib.eu/destf/cs/1827> rdfs:label "Schulpädagogik"@de-DE,
+        "School Pedagogy"@en-US ;
+    skos:prefLabel "School Pedagogy"@en-US .
+
+<https://onto.tib.eu/destf/cs/1828> rdfs:label "Kultur- und Medienpädagogik"@de-DE,
+        "Culture And Media Education"@en-US ;
+    skos:prefLabel "Culture And Media Education"@en-US .
+
+<https://onto.tib.eu/destf/cs/1829> rdfs:label "Interkulturelle und International Vergleichende Erziehungswissenschaft"@de-DE,
+        "Intercultural And International Comparative Education"@en-US ;
+    skos:prefLabel "Intercultural And International Comparative Education"@en-US .
+
+<https://onto.tib.eu/destf/cs/195> rdfs:label "Islamische Studien"@de-DE,
+        "Islamic Studies"@en-US ;
+    skos:prefLabel "Islamic Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/1950> rdfs:label "Islamische Studien"@de-DE,
+        "Islamic Studies"@en-US ;
+    skos:prefLabel "Islamic Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/20> rdfs:label "Zentrale Einrichtungen der Hochschulkliniken (nur Humanmedizin)"@de-DE,
+        "Central Facilities Of The University Clinics (only Human Medicine)"@en-US ;
+    skos:prefLabel "Central Facilities Of The University Clinics (only Human Medicine)"@en-US .
+
+<https://onto.tib.eu/destf/cs/200> rdfs:label "Sport"@de-DE,
+        "Sports (General)"@en-US ;
+    skos:prefLabel "Sports (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2000> rdfs:label "Sportwissenschaften allgemein"@de-DE,
+        "Sports Science (general)"@en-US ;
+    skos:prefLabel "Sports Science (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2005> rdfs:label "Didaktiken einzelner Sportarten"@de-DE,
+        "Didactics Of Individual Sports"@en-US ;
+    skos:prefLabel "Didactics Of Individual Sports"@en-US .
+
+<https://onto.tib.eu/destf/cs/2010> rdfs:label "Sportmedizin"@de-DE,
+        "Sports Medicine"@en-US ;
+    skos:prefLabel "Sports Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/2020> rdfs:label "Sportpädagogik/Sportpsychologie"@de-DE,
+        "Sports Pedagogy/sports Psychology"@en-US ;
+    skos:prefLabel "Sports Pedagogy/sports Psychology"@en-US .
+
+<https://onto.tib.eu/destf/cs/220> rdfs:label "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein"@de-DE,
+        "Law, Economics And Social Sciences (General)"@en-US ;
+    skos:prefLabel "Law, Economics And Social Sciences (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2200> rdfs:label "Rechts-, Wirtschafts- und Sozialwissenschaften allgemein"@de-DE,
+        "Law, Economics And Social Sciences (General)"@en-US ;
+    skos:prefLabel "Law, Economics And Social Sciences (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2210> rdfs:label "Interdisziplinäre Studien (Schwerpunkt Rechts-, Wirtschafts- und Sozialwissenschaften)"@de-DE,
+        "Interdisciplinary Studies (Focus On Law, Economics And Social Sciences)"@en-US ;
+    skos:prefLabel "Interdisciplinary Studies (Focus On Law, Economics And Social Sciences)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2220> rdfs:label "Wirtschafts- und Sozialwissenschaften allgemein"@de-DE,
+        "Economics And Social Sciences (general)"@en-US ;
+    skos:prefLabel "Economics And Social Sciences (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2230> rdfs:label "Wirtschafts- und Sozialpolitik"@de-DE,
+        "Economic And Social Policy"@en-US ;
+    skos:prefLabel "Economic And Social Policy"@en-US .
+
+<https://onto.tib.eu/destf/cs/2240> rdfs:label "Kommunikationswissenschaft/Publizistik"@de-DE,
+        "Communication/Media Studies"@en-US ;
+    skos:prefLabel "Communication/Media Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/225> rdfs:label "Regionalwissenschaften (soweit nicht einzelnen Lehr- und Forschungsbereichen oder anderen Fächergruppen zuzuordnen)"@de-DE,
+        "Regional Sciences (unless Assigned To Individual Teaching And Research Areas Or Other Subject Groups)"@en-US ;
+    skos:prefLabel "Regional Sciences (unless Assigned To Individual Teaching And Research Areas Or Other Subject Groups)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2250> rdfs:label "Afrika"@de-DE,
+        "Africa"@en-US ;
+    skos:prefLabel "Africa"@en-US .
+
+<https://onto.tib.eu/destf/cs/2255> rdfs:label "Lateinamerika"@de-DE,
+        "Latin America"@en-US ;
+    skos:prefLabel "Latin America"@en-US .
+
+<https://onto.tib.eu/destf/cs/2260> rdfs:label "Nordamerika"@de-DE,
+        "North America"@en-US ;
+    skos:prefLabel "North America"@en-US .
+
+<https://onto.tib.eu/destf/cs/2265> rdfs:label "Naher und Mittlerer Osten"@de-DE,
+        "Near And Middle East"@en-US ;
+    skos:prefLabel "Near And Middle East"@en-US .
+
+<https://onto.tib.eu/destf/cs/2270> rdfs:label "Ostasien"@de-DE,
+        "East Asia"@en-US ;
+    skos:prefLabel "East Asia"@en-US .
+
+<https://onto.tib.eu/destf/cs/2275> rdfs:label "Südasien"@de-DE,
+        "South Asia"@en-US ;
+    skos:prefLabel "South Asia"@en-US .
+
+<https://onto.tib.eu/destf/cs/2280> rdfs:label "Südostasien und Ozeanien"@de-DE,
+        "Southeast Asia And Oceania"@en-US ;
+    skos:prefLabel "Southeast Asia And Oceania"@en-US .
+
+<https://onto.tib.eu/destf/cs/2285> rdfs:label "Ost- und Südosteuropa"@de-DE,
+        "Eastern And Southeastern Europe"@en-US ;
+    skos:prefLabel "Eastern And Southeastern Europe"@en-US .
+
+<https://onto.tib.eu/destf/cs/2290> rdfs:label "Nord- und Westeuropa"@de-DE,
+        "Northern And Western Europe"@en-US ;
+    skos:prefLabel "Northern And Western Europe"@en-US .
+
+<https://onto.tib.eu/destf/cs/230> rdfs:label "Politikwissenschaften"@de-DE,
+        "Political Science"@en-US ;
+    skos:prefLabel "Political Science"@en-US .
+
+<https://onto.tib.eu/destf/cs/2300> rdfs:label "Politikwissenschaften allgemein"@de-DE,
+        "Political Science (general)"@en-US ;
+    skos:prefLabel "Political Science (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2320> rdfs:label "Sozialwissenschaften allgemein"@de-DE,
+        "Social Sciences (general)"@en-US ;
+    skos:prefLabel "Social Sciences (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2330> rdfs:label "Soziologie"@de-DE,
+        "Sociology"@en-US ;
+    skos:prefLabel "Sociology"@en-US .
+
+<https://onto.tib.eu/destf/cs/2340> rdfs:label "Bevölkerungswissenschaft (Demographie)"@de-DE,
+        "Population Science (demography)"@en-US ;
+    skos:prefLabel "Population Science (demography)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2345> rdfs:label "Sozialkunde"@de-DE,
+        "Social Studies"@en-US ;
+    skos:prefLabel "Social Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/235> rdfs:label "Sozialwissenschaften"@de-DE,
+        "Social Sciences"@en-US ;
+    skos:prefLabel "Social Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/2350> rdfs:label "Internationale Politik, Internationale Beziehungen"@de-DE,
+        "International Politics, International Relations"@en-US ;
+    skos:prefLabel "International Politics, International Relations"@en-US .
+
+<https://onto.tib.eu/destf/cs/2360> rdfs:label "Politische Bildung"@de-DE,
+        "Political Education"@en-US ;
+    skos:prefLabel "Political Education"@en-US .
+
+<https://onto.tib.eu/destf/cs/240> rdfs:label "Sozialwesen"@de-DE,
+        "Social Affairs"@en-US ;
+    skos:prefLabel "Social Affairs"@en-US .
+
+<https://onto.tib.eu/destf/cs/2400> rdfs:label "Sozialwesen allgemein"@de-DE,
+        "Social Services (General)"@en-US ;
+    skos:prefLabel "Social Services (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2410> rdfs:label "Soziale Arbeit"@de-DE,
+        "Social Work"@en-US ;
+    skos:prefLabel "Social Work"@en-US .
+
+<https://onto.tib.eu/destf/cs/2420> rdfs:label "Sozialpädagogik"@de-DE,
+        "Social Pedagogy"@en-US ;
+    skos:prefLabel "Social Pedagogy"@en-US .
+
+<https://onto.tib.eu/destf/cs/250> rdfs:label "Rechtswissenschaften"@de-DE,
+        "Law (General)"@en-US ;
+    skos:prefLabel "Law (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2500> rdfs:label "Rechtswissenschaften allgemein"@de-DE,
+        "Jurisprudence (General)"@en-US ;
+    skos:prefLabel "Jurisprudence (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2510> rdfs:label "Rechtsgeschichte"@de-DE,
+        "History Of Law"@en-US ;
+    skos:prefLabel "History Of Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2515> rdfs:label "Rechtsinformatik"@de-DE,
+        "Legal Informatics"@en-US ;
+    skos:prefLabel "Legal Informatics"@en-US .
+
+<https://onto.tib.eu/destf/cs/2520> rdfs:label "Rechts- und Staatsphilosophie"@de-DE,
+        "Philosophy Of Law And Government"@en-US ;
+    skos:prefLabel "Philosophy Of Law And Government"@en-US .
+
+<https://onto.tib.eu/destf/cs/2530> rdfs:label "Rechtssoziologie"@de-DE,
+        "Sociology Of Law"@en-US ;
+    skos:prefLabel "Sociology Of Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2540> rdfs:label "Kirchenrecht"@de-DE,
+        "Canon/Ecclesiastical Law"@en-US ;
+    skos:prefLabel "Canon/Ecclesiastical Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2545> rdfs:label "Kriminologie"@de-DE,
+        "Criminology"@en-US ;
+    skos:prefLabel "Criminology"@en-US .
+
+<https://onto.tib.eu/destf/cs/2550> rdfs:label "Privatrecht (ohne Arbeitsrecht)"@de-DE,
+        "Civil Law (excl. Labour Law)"@en-US ;
+    skos:prefLabel "Civil Law (excl. Labour Law)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2560> rdfs:label "Öffentliches Recht"@de-DE,
+        "Public Law"@en-US ;
+    skos:prefLabel "Public Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2570> rdfs:label "Strafrecht"@de-DE,
+        "Criminal Law"@en-US ;
+    skos:prefLabel "Criminal Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2580> rdfs:label "Internationales Recht und Rechtsvergleichung"@de-DE,
+        "International Law And Comparative Law"@en-US ;
+    skos:prefLabel "International Law And Comparative Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2590> rdfs:label "Steuerrecht"@de-DE,
+        "Tax Law"@en-US ;
+    skos:prefLabel "Tax Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2610> rdfs:label "Rechtspflege"@de-DE,
+        "Administration Of Justice"@en-US ;
+    skos:prefLabel "Administration Of Justice"@en-US .
+
+<https://onto.tib.eu/destf/cs/2620> rdfs:label "Handelsrecht"@de-DE,
+        "Commercial Law"@en-US ;
+    skos:prefLabel "Commercial Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2630> rdfs:label "Arbeitsrecht"@de-DE,
+        "Employment Law"@en-US ;
+    skos:prefLabel "Employment Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2640> rdfs:label "Wirtschaftsrecht"@de-DE,
+        "Economic/Business Law"@en-US ;
+    skos:prefLabel "Economic/Business Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2650> rdfs:label "Prozessrecht"@de-DE,
+        "Procedural Law"@en-US ;
+    skos:prefLabel "Procedural Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2665> rdfs:label "Europarecht"@de-DE,
+        "European Law"@en-US ;
+    skos:prefLabel "European Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2670> rdfs:label "Bürgerliches Recht"@de-DE,
+        "Civil Law"@en-US ;
+    skos:prefLabel "Civil Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2680> rdfs:label "Sozialrecht"@de-DE,
+        "Social Welfare Law"@en-US ;
+    skos:prefLabel "Social Welfare Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/2690> rdfs:label "Versicherungsrecht"@de-DE,
+        "Insurance Law"@en-US ;
+    skos:prefLabel "Insurance Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/270> rdfs:label "Verwaltungswissenschaften"@de-DE,
+        "Administrative Sciences"@en-US ;
+    skos:prefLabel "Administrative Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/2700> rdfs:label "Verwaltungswissenschaft allgemein"@de-DE,
+        "Public Administration (General)"@en-US ;
+    skos:prefLabel "Public Administration (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2710> rdfs:label "Arbeits- und Berufsberatung"@de-DE,
+        "Employment And Career Counseling"@en-US ;
+    skos:prefLabel "Employment And Career Counseling"@en-US .
+
+<https://onto.tib.eu/destf/cs/2711> rdfs:label "Archivwesen"@de-DE,
+        "Archive Studies"@en-US ;
+    skos:prefLabel "Archive Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/2712> rdfs:label "Bibliothekswesen"@de-DE,
+        "Librarianship"@en-US ;
+    skos:prefLabel "Librarianship"@en-US .
+
+<https://onto.tib.eu/destf/cs/2720> rdfs:label "Arbeitsverwaltung"@de-DE,
+        "Employment Administration"@en-US ;
+    skos:prefLabel "Employment Administration"@en-US .
+
+<https://onto.tib.eu/destf/cs/2730> rdfs:label "Auswärtige Angelegenheiten"@de-DE,
+        "Foreign Affairs"@en-US ;
+    skos:prefLabel "Foreign Affairs"@en-US .
+
+<https://onto.tib.eu/destf/cs/2740> rdfs:label "Bankwesen"@de-DE,
+        "Banking"@en-US ;
+    skos:prefLabel "Banking"@en-US .
+
+<https://onto.tib.eu/destf/cs/2750> rdfs:label "Bundeswehrverwaltung"@de-DE,
+        "Federal Armed Forces Administration"@en-US ;
+    skos:prefLabel "Federal Armed Forces Administration"@en-US .
+
+<https://onto.tib.eu/destf/cs/2760> rdfs:label "Finanzverwaltung"@de-DE,
+        "Financial Management"@en-US ;
+    skos:prefLabel "Financial Management"@en-US .
+
+<https://onto.tib.eu/destf/cs/2770> rdfs:label "Allgemeine innere Verwaltung"@de-DE,
+        "General Internal Administration"@en-US ;
+    skos:prefLabel "General Internal Administration"@en-US .
+
+<https://onto.tib.eu/destf/cs/2780> rdfs:label "Justizvollzug"@de-DE,
+        "Correctional System"@en-US ;
+    skos:prefLabel "Correctional System"@en-US .
+
+<https://onto.tib.eu/destf/cs/2790> rdfs:label "Polizei/Verfassungsschutz"@de-DE,
+        "Police/constitutional Protection"@en-US ;
+    skos:prefLabel "Police/constitutional Protection"@en-US .
+
+<https://onto.tib.eu/destf/cs/2810> rdfs:label "Post- und Fernmeldewesen"@de-DE,
+        "Post And Telecommunications"@en-US ;
+    skos:prefLabel "Post And Telecommunications"@en-US .
+
+<https://onto.tib.eu/destf/cs/2815> rdfs:label "Tourismuswirtschaft"@de-DE,
+        "Tourism"@en-US ;
+    skos:prefLabel "Tourism"@en-US .
+
+<https://onto.tib.eu/destf/cs/2820> rdfs:label "Sozialverwaltung"@de-DE,
+        "Social Administration"@en-US ;
+    skos:prefLabel "Social Administration"@en-US .
+
+<https://onto.tib.eu/destf/cs/2830> rdfs:label "Verkehrswesen"@de-DE,
+        "Transport"@en-US ;
+    skos:prefLabel "Transport"@en-US .
+
+<https://onto.tib.eu/destf/cs/2835> rdfs:label "Versicherungswesen"@de-DE,
+        "Insurance"@en-US ;
+    skos:prefLabel "Insurance"@en-US .
+
+<https://onto.tib.eu/destf/cs/2840> rdfs:label "Zoll- und Steuerverwaltung"@de-DE,
+        "Customs And Tax Administration"@en-US ;
+    skos:prefLabel "Customs And Tax Administration"@en-US .
+
+<https://onto.tib.eu/destf/cs/290> rdfs:label "Wirtschaftswissenschaften"@de-DE,
+        "Economics And Business"@en-US ;
+    skos:prefLabel "Economics And Business"@en-US .
+
+<https://onto.tib.eu/destf/cs/2900> rdfs:label "Wirtschaftswissenschaften allgemein"@de-DE,
+        "Economics And Business (general)"@en-US ;
+    skos:prefLabel "Economics And Business (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2905> rdfs:label "Umweltwirtschaft/Umweltökonomie"@de-DE,
+        "Environmental Economy/environmental Economics"@en-US ;
+    skos:prefLabel "Environmental Economy/environmental Economics"@en-US .
+
+<https://onto.tib.eu/destf/cs/2910> rdfs:label "Wirtschaftspädagogik"@de-DE,
+        "Business Education"@en-US ;
+    skos:prefLabel "Business Education"@en-US .
+
+<https://onto.tib.eu/destf/cs/2915> rdfs:label "Wirtschaftsstatistik"@de-DE,
+        "Economic Statistics"@en-US ;
+    skos:prefLabel "Economic Statistics"@en-US .
+
+<https://onto.tib.eu/destf/cs/2920> rdfs:label "Wirtschaftsinformatik (f. Wirtschaftsingenieure)"@de-DE,
+        "Business Informatics (for Industrial Engineers)"@en-US ;
+    skos:prefLabel "Business Informatics (for Industrial Engineers)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2925> rdfs:label "Sportmanagement/Sportökonomie"@de-DE,
+        "Sports Management/sports Economics"@en-US ;
+    skos:prefLabel "Sports Management/sports Economics"@en-US .
+
+<https://onto.tib.eu/destf/cs/2930> rdfs:label "Volkswirtschaftslehre"@de-DE,
+        "Economics"@en-US ;
+    skos:prefLabel "Economics"@en-US .
+
+<https://onto.tib.eu/destf/cs/2935> rdfs:label "Wirtschaftsinformatik (f. Wirtschaftswiss.)"@de-DE,
+        "Business Informatics (for Economists)"@en-US ;
+    skos:prefLabel "Business Informatics (for Economists)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2936> rdfs:label "Wirtschaftsmathematik (f. Wirtschaftswiss.)"@de-DE,
+        "Business Mathematics (for Economists)"@en-US ;
+    skos:prefLabel "Business Mathematics (for Economists)"@en-US .
+
+<https://onto.tib.eu/destf/cs/2940> rdfs:label "Ökonometrie"@de-DE,
+        "Econometrics"@en-US ;
+    skos:prefLabel "Econometrics"@en-US .
+
+<https://onto.tib.eu/destf/cs/2950> rdfs:label "Mathematische Statistik/ Wahrscheinlichkeitsrechnung"@de-DE,
+        "Mathematical Statistics/ Probability Calculation"@en-US ;
+    skos:prefLabel "Mathematical Statistics/ Probability Calculation"@en-US .
+
+<https://onto.tib.eu/destf/cs/2960> rdfs:label "Betriebswirtschaftslehre"@de-DE,
+        "Business Administration"@en-US ;
+    skos:prefLabel "Business Administration"@en-US .
+
+<https://onto.tib.eu/destf/cs/2966> rdfs:label "Internationale Wirtschaft"@de-DE,
+        "International Economy"@en-US ;
+    skos:prefLabel "International Economy"@en-US .
+
+<https://onto.tib.eu/destf/cs/2971> rdfs:label "Verkehrswirtschaft"@de-DE,
+        "Transport Economics"@en-US ;
+    skos:prefLabel "Transport Economics"@en-US .
+
+<https://onto.tib.eu/destf/cs/2980> rdfs:label "Finanzwissenschaft"@de-DE,
+        "Finance"@en-US ;
+    skos:prefLabel "Finance"@en-US .
+
+<https://onto.tib.eu/destf/cs/2985> rdfs:label "Medienwirtschaft/Medienmanagement"@de-DE,
+        "Media Economy/media Management"@en-US ;
+    skos:prefLabel "Media Economy/media Management"@en-US .
+
+<https://onto.tib.eu/destf/cs/2990> rdfs:label "Wirtschaftsinformatik (f. Informatiker)"@de-DE,
+        "Business Informatics (for Computer Scientists)"@en-US ;
+    skos:prefLabel "Business Informatics (for Computer Scientists)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3010> rdfs:label "Arbeitslehre/-wissenschaft"@de-DE,
+        "Ergonomics / Occupational Science"@en-US ;
+    skos:prefLabel "Ergonomics / Occupational Science"@en-US .
+
+<https://onto.tib.eu/destf/cs/310> rdfs:label "Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt"@de-DE,
+        "Industrial Engineering (Economics Focus)"@en-US ;
+    skos:prefLabel "Industrial Engineering (Economics Focus)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3100> rdfs:label "Wirtschaftsingenieurwesen mit wirtschaftswissenschaftlichem Schwerpunkt"@de-DE,
+        "Industrial Engineering (Economics Focus)"@en-US ;
+    skos:prefLabel "Industrial Engineering (Economics Focus)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3110> rdfs:label "Facility Management"@de-DE,
+        "Facility Management"@en-US ;
+    skos:prefLabel "Facility Management"@en-US .
+
+<https://onto.tib.eu/destf/cs/315> rdfs:label "Psychologie"@de-DE,
+        "Psychology"@en-US ;
+    skos:prefLabel "Psychology"@en-US .
+
+<https://onto.tib.eu/destf/cs/320> rdfs:label "Erziehungswissenschaften"@de-DE,
+        "Educational Sciences"@en-US ;
+    skos:prefLabel "Educational Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/330> rdfs:label "Mathematik, Naturwissenschaften allgemein"@de-DE,
+        "Mathematics, Natural Sciences (General)"@en-US ;
+    skos:prefLabel "Mathematics, Natural Sciences (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3300> rdfs:label "Mathematik, Naturwissenschaften allgemein"@de-DE,
+        "Mathematics, Natural Sciences (General)"@en-US ;
+    skos:prefLabel "Mathematics, Natural Sciences (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3310> rdfs:label "Geschichte der Mathematik und Naturwissenschaften"@de-DE,
+        "History Of Mathematics And Natural Sciences"@en-US ;
+    skos:prefLabel "History Of Mathematics And Natural Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/3315> rdfs:label "Naturwissenschaftliche Fachdidaktiken, soweit nicht aufteilbar"@de-DE,
+        "Specialised Didactics Of Natural Sciences"@en-US ;
+    skos:prefLabel "Specialised Didactics Of Natural Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/3320> rdfs:label "Interdisziplinäre Studien (Schwerpunkt Naturwissenschaft)"@de-DE,
+        "Interdisciplinary Studies (focus On Natural Sciences)"@en-US ;
+    skos:prefLabel "Interdisciplinary Studies (focus On Natural Sciences)"@en-US .
+
+<https://onto.tib.eu/destf/cs/340> rdfs:label "Mathematik"@de-DE,
+        "Mathematics"@en-US ;
+    skos:prefLabel "Mathematics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3400> rdfs:label "Mathematik allgemein"@de-DE,
+        "Mathematics (general)"@en-US ;
+    skos:prefLabel "Mathematics (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3410> rdfs:label "Reine Mathematik"@de-DE,
+        "Pure Math"@en-US ;
+    skos:prefLabel "Pure Math"@en-US .
+
+<https://onto.tib.eu/destf/cs/3420> rdfs:label "Angewandte Mathematik"@de-DE,
+        "Applied Mathematics"@en-US ;
+    skos:prefLabel "Applied Mathematics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3430> rdfs:label "Wirtschaftsmathematik (f. Mathematiker)"@de-DE,
+        "Business Mathematics (for Mathematicians)"@en-US ;
+    skos:prefLabel "Business Mathematics (for Mathematicians)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3450> rdfs:label "Didaktik der Mathematik"@de-DE,
+        "Didactics Of Mathematics"@en-US ;
+    skos:prefLabel "Didactics Of Mathematics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3500> rdfs:label "Informatik allgemein"@de-DE,
+        "Computer Science (general)"@en-US ;
+    skos:prefLabel "Computer Science (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3510> rdfs:label "Theoretische Informatik"@de-DE,
+        "Theoretical Computer Science"@en-US ;
+    skos:prefLabel "Theoretical Computer Science"@en-US .
+
+<https://onto.tib.eu/destf/cs/3520> rdfs:label "Angewandte Informatik"@de-DE,
+        "Applied Computer Science"@en-US ;
+    skos:prefLabel "Applied Computer Science"@en-US .
+
+<https://onto.tib.eu/destf/cs/3530> rdfs:label "Ingenieurinformatik/Technische Informatik"@de-DE,
+        "Engineering Informatics/technical Informatics"@en-US ;
+    skos:prefLabel "Engineering Informatics/technical Informatics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3540> rdfs:label "Bioinformatik"@de-DE,
+        "Bioinformatics"@en-US ;
+    skos:prefLabel "Bioinformatics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3550> rdfs:label "Computer- und Kommunikationstechniken"@de-DE,
+        "Computer And Communication Technologies"@en-US ;
+    skos:prefLabel "Computer And Communication Technologies"@en-US .
+
+<https://onto.tib.eu/destf/cs/3560> rdfs:label "Künstliche Intelligenz"@de-DE,
+        "Artificial Intelligence"@en-US ;
+    skos:prefLabel "Artificial Intelligence"@en-US .
+
+<https://onto.tib.eu/destf/cs/3570> rdfs:label "Softwaretechnologie"@de-DE,
+        "Software Technology"@en-US ;
+    skos:prefLabel "Software Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/360> rdfs:label "Physik, Astronomie"@de-DE,
+        "Physics, Astronomy"@en-US ;
+    skos:prefLabel "Physics, Astronomy"@en-US .
+
+<https://onto.tib.eu/destf/cs/3600> rdfs:label "Physik, Astronomie allgemein"@de-DE,
+        "Physics, Astronomy (General)"@en-US ;
+    skos:prefLabel "Physics, Astronomy (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3610> rdfs:label "Physik"@de-DE,
+        "Physics"@en-US ;
+    skos:prefLabel "Physics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3620> rdfs:label "Theoretische Physik"@de-DE,
+        "Theoretical Physics"@en-US ;
+    skos:prefLabel "Theoretical Physics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3630> rdfs:label "Experimentelle Physik"@de-DE,
+        "Experimental Physics"@en-US ;
+    skos:prefLabel "Experimental Physics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3635> rdfs:label "Festkörperphysik"@de-DE,
+        "Solid State Physics"@en-US ;
+    skos:prefLabel "Solid State Physics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3636> rdfs:label "Kernphysik"@de-DE,
+        "Nuclear Physics"@en-US ;
+    skos:prefLabel "Nuclear Physics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3637> rdfs:label "Optik"@de-DE,
+        "Optics"@en-US ;
+    skos:prefLabel "Optics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3638> rdfs:label "Materialphysik"@de-DE,
+        "Material Physics"@en-US ;
+    skos:prefLabel "Material Physics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3640> rdfs:label "Technische Physik"@de-DE,
+        "Technical Physics"@en-US ;
+    skos:prefLabel "Technical Physics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3650> rdfs:label "Didaktik der Physik"@de-DE,
+        "Didactics Of Physics"@en-US ;
+    skos:prefLabel "Didactics Of Physics"@en-US .
+
+<https://onto.tib.eu/destf/cs/3690> rdfs:label "Astronomie, Astrophysik"@de-DE,
+        "Astronomy, Astrophysics"@en-US ;
+    skos:prefLabel "Astronomy, Astrophysics"@en-US .
+
+<https://onto.tib.eu/destf/cs/370> rdfs:label "Chemie"@de-DE,
+        "Chemistry"@en-US ;
+    skos:prefLabel "Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3700> rdfs:label "Chemie allgemein"@de-DE,
+        "Chemistry (general)"@en-US ;
+    skos:prefLabel "Chemistry (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3710> rdfs:label "Anorganische Chemie"@de-DE,
+        "Inorganic Chemistry"@en-US ;
+    skos:prefLabel "Inorganic Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3720> rdfs:label "Organische Chemie"@de-DE,
+        "Organic Chemistry"@en-US ;
+    skos:prefLabel "Organic Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3730> rdfs:label "Physikalische Chemie"@de-DE,
+        "Physical Chemistry"@en-US ;
+    skos:prefLabel "Physical Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3740> rdfs:label "Technische Chemie"@de-DE,
+        "Technical Chemistry"@en-US ;
+    skos:prefLabel "Technical Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3750> rdfs:label "Analytische Chemie"@de-DE,
+        "Analytical Chemistry"@en-US ;
+    skos:prefLabel "Analytical Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3760> rdfs:label "Biochemie (f. Chemiker)"@de-DE,
+        "Biochemistry (for Chemists)"@en-US ;
+    skos:prefLabel "Biochemistry (for Chemists)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3770> rdfs:label "Makromolekulare Chemie"@de-DE,
+        "Macromolecular Chemistry"@en-US ;
+    skos:prefLabel "Macromolecular Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3780> rdfs:label "Nuklearchemie"@de-DE,
+        "Nuclear Chemistry"@en-US ;
+    skos:prefLabel "Nuclear Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3790> rdfs:label "Theoretische Chemie"@de-DE,
+        "Theoretical Chemistry"@en-US ;
+    skos:prefLabel "Theoretical Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3800> rdfs:label "Didaktik der Chemie"@de-DE,
+        "Didactics Of Chemistry"@en-US ;
+    skos:prefLabel "Didactics Of Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3810> rdfs:label "Lebensmittelchemie"@de-DE,
+        "Food Chemistry"@en-US ;
+    skos:prefLabel "Food Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3820> rdfs:label "Materialchemie"@de-DE,
+        "Materials Chemistry"@en-US ;
+    skos:prefLabel "Materials Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3830> rdfs:label "Elektrochemie"@de-DE,
+        "Electrochemistry"@en-US ;
+    skos:prefLabel "Electrochemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3840> rdfs:label "Oberflächen- und Nanochemie"@de-DE,
+        "Surface And Nanochemistry"@en-US ;
+    skos:prefLabel "Surface And Nanochemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3850> rdfs:label "Umwelt- und Atmosphärenchemie"@de-DE,
+        "Environmental And Atmospheric Chemistry"@en-US ;
+    skos:prefLabel "Environmental And Atmospheric Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/390> rdfs:label "Pharmazie"@de-DE,
+        "Pharmacy"@en-US ;
+    skos:prefLabel "Pharmacy"@en-US .
+
+<https://onto.tib.eu/destf/cs/3900> rdfs:label "Pharmazie allgemein"@de-DE,
+        "Pharmacy (general)"@en-US ;
+    skos:prefLabel "Pharmacy (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3910> rdfs:label "Pharmazeutische Biologie/Pharmakognosie"@de-DE,
+        "Pharmaceutical Biology/pharmacognosy"@en-US ;
+    skos:prefLabel "Pharmaceutical Biology/pharmacognosy"@en-US .
+
+<https://onto.tib.eu/destf/cs/3920> rdfs:label "Pharmazeutische Chemie"@de-DE,
+        "Pharmaceutical Chemistry"@en-US ;
+    skos:prefLabel "Pharmaceutical Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/3930> rdfs:label "Pharmazeutische Technologie"@de-DE,
+        "Pharmaceutical Technology"@en-US ;
+    skos:prefLabel "Pharmaceutical Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/3940> rdfs:label "Pharmakologie und Toxikologie (Pharmazie)"@de-DE,
+        "Pharmacology And Toxicology (pharmacy)"@en-US ;
+    skos:prefLabel "Pharmacology And Toxicology (pharmacy)"@en-US .
+
+<https://onto.tib.eu/destf/cs/3950> rdfs:label "Klinische Pharmazie"@de-DE,
+        "Clinical Pharmacy"@en-US ;
+    skos:prefLabel "Clinical Pharmacy"@en-US .
+
+<https://onto.tib.eu/destf/cs/400> rdfs:label "Biologie"@de-DE,
+        "Biology"@en-US ;
+    skos:prefLabel "Biology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4000> rdfs:label "Biologie allgemein"@de-DE,
+        "Biology (general)"@en-US ;
+    skos:prefLabel "Biology (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4010> rdfs:label "Genetik"@de-DE,
+        "Genetics"@en-US ;
+    skos:prefLabel "Genetics"@en-US .
+
+<https://onto.tib.eu/destf/cs/4020> rdfs:label "Mikrobiologie"@de-DE,
+        "Microbiology"@en-US ;
+    skos:prefLabel "Microbiology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4030> rdfs:label "Biophysik"@de-DE,
+        "Biophysics"@en-US ;
+    skos:prefLabel "Biophysics"@en-US .
+
+<https://onto.tib.eu/destf/cs/4035> rdfs:label "Biotechnologie (f. Biologen)"@de-DE,
+        "Biotechnology (for Biologists)"@en-US ;
+    skos:prefLabel "Biotechnology (for Biologists)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4040> rdfs:label "Botanik"@de-DE,
+        "Botany"@en-US ;
+    skos:prefLabel "Botany"@en-US .
+
+<https://onto.tib.eu/destf/cs/4050> rdfs:label "Zoologie"@de-DE,
+        "Zoology"@en-US ;
+    skos:prefLabel "Zoology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4060> rdfs:label "Anthropologie (Humanbiologie)"@de-DE,
+        "Anthropology (human Biology)"@en-US ;
+    skos:prefLabel "Anthropology (human Biology)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4065> rdfs:label "Biochemie (f. Biologen)"@de-DE,
+        "Biochemistry (for Biologists)"@en-US ;
+    skos:prefLabel "Biochemistry (for Biologists)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4070> rdfs:label "Didaktik der Biologie"@de-DE,
+        "Didactics Of Biology"@en-US ;
+    skos:prefLabel "Didactics Of Biology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4080> rdfs:label "Neurobiologie"@de-DE,
+        "Neurobiology"@en-US ;
+    skos:prefLabel "Neurobiology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4090> rdfs:label "Ökologie"@de-DE,
+        "Ecology"@en-US ;
+    skos:prefLabel "Ecology"@en-US .
+
+<https://onto.tib.eu/destf/cs/410> rdfs:label "Geowissenschaften (ohne Geographie)"@de-DE,
+        "Earth Sciences (excluding Geography)"@en-US ;
+    skos:prefLabel "Earth Sciences (excluding Geography)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4100> rdfs:label "Geowissenschaften allgemein"@de-DE,
+        "Geosciences (general)"@en-US ;
+    skos:prefLabel "Geosciences (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4110> rdfs:label "Geologie"@de-DE,
+        "Geology"@en-US ;
+    skos:prefLabel "Geology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4120> rdfs:label "Paläontologie"@de-DE,
+        "Paleontology"@en-US ;
+    skos:prefLabel "Paleontology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4130> rdfs:label "Mineralogie"@de-DE,
+        "Mineralogy"@en-US ;
+    skos:prefLabel "Mineralogy"@en-US .
+
+<https://onto.tib.eu/destf/cs/4135> rdfs:label "Ozeanographie"@de-DE,
+        "Oceanography"@en-US ;
+    skos:prefLabel "Oceanography"@en-US .
+
+<https://onto.tib.eu/destf/cs/4140> rdfs:label "Petrologie, -graphie"@de-DE,
+        "Petrology, -Graphy"@en-US ;
+    skos:prefLabel "Petrology, -Graphy"@en-US .
+
+<https://onto.tib.eu/destf/cs/4150> rdfs:label "Geophysik"@de-DE,
+        "Geophysics"@en-US ;
+    skos:prefLabel "Geophysics"@en-US .
+
+<https://onto.tib.eu/destf/cs/4160> rdfs:label "Meteorologie"@de-DE,
+        "Meteorology"@en-US ;
+    skos:prefLabel "Meteorology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4170> rdfs:label "Kristallographie"@de-DE,
+        "Crystallography"@en-US ;
+    skos:prefLabel "Crystallography"@en-US .
+
+<https://onto.tib.eu/destf/cs/4180> rdfs:label "Geochemie"@de-DE,
+        "Geochemistry"@en-US ;
+    skos:prefLabel "Geochemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/4190> rdfs:label "Geoökologie"@de-DE,
+        "Geoecology"@en-US ;
+    skos:prefLabel "Geoecology"@en-US .
+
+<https://onto.tib.eu/destf/cs/420> rdfs:label "Geographie"@de-DE,
+        "Geography"@en-US ;
+    skos:prefLabel "Geography"@en-US .
+
+<https://onto.tib.eu/destf/cs/4200> rdfs:label "Geographie allgemein"@de-DE,
+        "Geography (general)"@en-US ;
+    skos:prefLabel "Geography (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4205> rdfs:label "Geoinformatik/Geoinformationssysteme"@de-DE,
+        "Geoinformatics/geoinformation Systems"@en-US ;
+    skos:prefLabel "Geoinformatics/geoinformation Systems"@en-US .
+
+<https://onto.tib.eu/destf/cs/4210> rdfs:label "Physische Geographie"@de-DE,
+        "Physical Geography"@en-US ;
+    skos:prefLabel "Physical Geography"@en-US .
+
+<https://onto.tib.eu/destf/cs/4215> rdfs:label "Wirtschafts- und Sozialgeographie"@de-DE,
+        "Economic And Social Geography"@en-US ;
+    skos:prefLabel "Economic And Social Geography"@en-US .
+
+<https://onto.tib.eu/destf/cs/4220> rdfs:label "Anthropogeographie"@de-DE,
+        "Anthropogeography"@en-US ;
+    skos:prefLabel "Anthropogeography"@en-US .
+
+<https://onto.tib.eu/destf/cs/4230> rdfs:label "Geographische Länder- und Landschaftskunde"@de-DE,
+        "Geographic Area Studies And Regional Geography"@en-US ;
+    skos:prefLabel "Geographic Area Studies And Regional Geography"@en-US .
+
+<https://onto.tib.eu/destf/cs/4240> rdfs:label "Biogeographie"@de-DE,
+        "Biogeography"@en-US ;
+    skos:prefLabel "Biogeography"@en-US .
+
+<https://onto.tib.eu/destf/cs/4250> rdfs:label "Didaktik der Geographie"@de-DE,
+        "Didactics Of Geography"@en-US ;
+    skos:prefLabel "Didactics Of Geography"@en-US .
+
+<https://onto.tib.eu/destf/cs/440> rdfs:label "Humanmedizin allgemein"@de-DE,
+        "Human Medicine (general)"@en-US ;
+    skos:prefLabel "Human Medicine (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4400> rdfs:label "Humanmedizin allgemein"@de-DE,
+        "Human Medicine (general)"@en-US ;
+    skos:prefLabel "Human Medicine (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/445> rdfs:label "Gesundheitswissenschaften allgemein"@de-DE,
+        "Health Sciences (general)"@en-US ;
+    skos:prefLabel "Health Sciences (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4450> rdfs:label "Gesundheitswissenschaften allgemein"@de-DE,
+        "Health Sciences (general)"@en-US ;
+    skos:prefLabel "Health Sciences (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4451> rdfs:label "Gesundheitspädagogik"@de-DE,
+        "Health Education"@en-US ;
+    skos:prefLabel "Health Education"@en-US .
+
+<https://onto.tib.eu/destf/cs/4453> rdfs:label "Gesundheitswissenschaft/-management"@de-DE,
+        "Health Science/management"@en-US ;
+    skos:prefLabel "Health Science/management"@en-US .
+
+<https://onto.tib.eu/destf/cs/4455> rdfs:label "Nichtärztliche Heilberufe/Therapien"@de-DE,
+        "Non-medical Health Care Professions / Therapies"@en-US ;
+    skos:prefLabel "Non-medical Health Care Professions / Therapies"@en-US .
+
+<https://onto.tib.eu/destf/cs/4457> rdfs:label "Pflegewissenschaft/-management"@de-DE,
+        "Nursing Science/management"@en-US ;
+    skos:prefLabel "Nursing Science/management"@en-US .
+
+<https://onto.tib.eu/destf/cs/4459> rdfs:label "Gesundheitsökonomie"@de-DE,
+        "Health Economics"@en-US ;
+    skos:prefLabel "Health Economics"@en-US .
+
+<https://onto.tib.eu/destf/cs/450> rdfs:label "Vorklinische Humanmedizin (einschl. Zahnmedizin)"@de-DE,
+        "Pre-clinical Human Medicine (including Dentistry)"@en-US ;
+    skos:prefLabel "Pre-clinical Human Medicine (including Dentistry)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4500> rdfs:label "Vorklinische Humanmedizin allgemein"@de-DE,
+        "Preclinical Human Medicine (general)"@en-US ;
+    skos:prefLabel "Preclinical Human Medicine (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4510> rdfs:label "Medizinische Physik"@de-DE,
+        "Medical Physics"@en-US ;
+    skos:prefLabel "Medical Physics"@en-US .
+
+<https://onto.tib.eu/destf/cs/4520> rdfs:label "Medizinische Chemie"@de-DE,
+        "Medicinal Chemistry"@en-US ;
+    skos:prefLabel "Medicinal Chemistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/4525> rdfs:label "Medizinische Informatik (nur für Mediziner)"@de-DE,
+        "Medical Informatics (only For Physicians)"@en-US ;
+    skos:prefLabel "Medical Informatics (only For Physicians)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4530> rdfs:label "Medizinische Biologie"@de-DE,
+        "Medical Biology"@en-US ;
+    skos:prefLabel "Medical Biology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4540> rdfs:label "Physiologie"@de-DE,
+        "Physiology"@en-US ;
+    skos:prefLabel "Physiology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4550> rdfs:label "Physiologische Chemie (Biochemie)"@de-DE,
+        "Physiological Chemistry (biochemistry)"@en-US ;
+    skos:prefLabel "Physiological Chemistry (biochemistry)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4560> rdfs:label "Anatomie"@de-DE,
+        "Anatomy"@en-US ;
+    skos:prefLabel "Anatomy"@en-US .
+
+<https://onto.tib.eu/destf/cs/4580> rdfs:label "Medizinische Psychologie"@de-DE,
+        "Medical Psychology"@en-US ;
+    skos:prefLabel "Medical Psychology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4585> rdfs:label "Medizinische Soziologie"@de-DE,
+        "Medical Sociology"@en-US ;
+    skos:prefLabel "Medical Sociology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4590> rdfs:label "Medizinische Terminologie"@de-DE,
+        "Medical Terminology"@en-US ;
+    skos:prefLabel "Medical Terminology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4595> rdfs:label "Radiologie/Strahlentherapie/Nuklearmedizin"@de-DE,
+        "Radiology/radiation Therapy/nuclear Medicine"@en-US ;
+    skos:prefLabel "Radiology/radiation Therapy/nuclear Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/4610> rdfs:label "Vorklin. Zahnheilkunde"@de-DE,
+        "Preclinical Dentistry"@en-US ;
+    skos:prefLabel "Preclinical Dentistry"@en-US .
+
+<https://onto.tib.eu/destf/cs/470> rdfs:label "Klinisch-Theoretische Humanmedizin (einschl. Zahnmedizin)"@de-DE,
+        "Clinical-theoretical Human Medicine (including Dentistry)"@en-US ;
+    skos:prefLabel "Clinical-theoretical Human Medicine (including Dentistry)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4700> rdfs:label "Klin.-Theor. Humanmedizin allgemein"@de-DE,
+        "Clinical Theoretical Human Medicine (general)"@en-US ;
+    skos:prefLabel "Clinical Theoretical Human Medicine (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4705> rdfs:label "Arbeitsmedizin (klin.-theor.)"@de-DE,
+        "Industrial/Occupational Medicine (Clinical-Theoretical)"@en-US ;
+    skos:prefLabel "Industrial/Occupational Medicine (Clinical-Theoretical)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4710> rdfs:label "Pathologie, Neuropathologie"@de-DE,
+        "Pathology, Neuropathology"@en-US ;
+    skos:prefLabel "Pathology, Neuropathology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4715> rdfs:label "Pharmakologie und Toxikologie (medizinisch)"@de-DE,
+        "Pharmacology And Toxicology (medical)"@en-US ;
+    skos:prefLabel "Pharmacology And Toxicology (medical)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4716> rdfs:label "Präventiv- und Vorsorgemedizin"@de-DE,
+        "Preventive And Precautionary Medicine"@en-US ;
+    skos:prefLabel "Preventive And Precautionary Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/4720> rdfs:label "Biomathematik (f. Mediziner)"@de-DE,
+        "Biomathematics (for Physicians)"@en-US ;
+    skos:prefLabel "Biomathematics (for Physicians)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4725> rdfs:label "Biomedizinische Technik"@de-DE,
+        "Biomedical Technology"@en-US ;
+    skos:prefLabel "Biomedical Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4730> rdfs:label "Klinische Chemie und Hämatologie"@de-DE,
+        "Clinical Chemistry And Haematology"@en-US ;
+    skos:prefLabel "Clinical Chemistry And Haematology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4732> rdfs:label "Klinische Krebsforschung und molekulare Tumorforschung"@de-DE,
+        "Clinical Cancer Research And Molecular Tumor Research"@en-US ;
+    skos:prefLabel "Clinical Cancer Research And Molecular Tumor Research"@en-US .
+
+<https://onto.tib.eu/destf/cs/4735> rdfs:label "Medizinische Balneologie und Klimatologie"@de-DE,
+        "Medical Balneology And Climatology"@en-US ;
+    skos:prefLabel "Medical Balneology And Climatology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4736> rdfs:label "Medizinische Biophysik und Elektronenmikroskopie"@de-DE,
+        "Medical Biophysics And Electron Microscopy"@en-US ;
+    skos:prefLabel "Medical Biophysics And Electron Microscopy"@en-US .
+
+<https://onto.tib.eu/destf/cs/4737> rdfs:label "Medizinische Statistik und Dokumentation"@de-DE,
+        "Medical Statistics And Documentation"@en-US ;
+    skos:prefLabel "Medical Statistics And Documentation"@en-US .
+
+<https://onto.tib.eu/destf/cs/4738> rdfs:label "Parasitologie"@de-DE,
+        "Parasitology"@en-US ;
+    skos:prefLabel "Parasitology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4740> rdfs:label "Radiologie (diagnostisch, ohne Betten)"@de-DE,
+        "Radiology (Diagnostic, Without Beds)"@en-US ;
+    skos:prefLabel "Radiology (Diagnostic, Without Beds)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4745> rdfs:label "Epidemiologie"@de-DE,
+        "Epidemiology"@en-US ;
+    skos:prefLabel "Epidemiology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4750> rdfs:label "Humangenetik"@de-DE,
+        "Human Genetics"@en-US ;
+    skos:prefLabel "Human Genetics"@en-US .
+
+<https://onto.tib.eu/destf/cs/4760> rdfs:label "Geschichte der Medizin"@de-DE,
+        "History Of Medicine"@en-US ;
+    skos:prefLabel "History Of Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/4770> rdfs:label "Rechtsmedizin"@de-DE,
+        "Forensic Medicine"@en-US ;
+    skos:prefLabel "Forensic Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/4775> rdfs:label "Sexualmedizin"@de-DE,
+        "Sex Medicine"@en-US ;
+    skos:prefLabel "Sex Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/4776> rdfs:label "Sozialmedizin (klinisch-theoretisch)"@de-DE,
+        "Social Medicine (Clinical-Theoretical)"@en-US ;
+    skos:prefLabel "Social Medicine (Clinical-Theoretical)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4780> rdfs:label "Hygiene und Mikrobiologie"@de-DE,
+        "Hygiene And Microbiology"@en-US ;
+    skos:prefLabel "Hygiene And Microbiology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4790> rdfs:label "Virologie"@de-DE,
+        "Virology"@en-US ;
+    skos:prefLabel "Virology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4810> rdfs:label "Immunologie"@de-DE,
+        "Immunology"@en-US ;
+    skos:prefLabel "Immunology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4820> rdfs:label "Experimentelle Medizin/Medizinforschung (ohne klinische Medizin)"@de-DE,
+        "Experimental Medicine/medical Research (excluding Clinical Medicine)"@en-US ;
+    skos:prefLabel "Experimental Medicine/medical Research (excluding Clinical Medicine)"@en-US .
+
+<https://onto.tib.eu/destf/cs/490> rdfs:label "Klinisch-Praktische Humanmedizin (ohne Zahnmedizin)"@de-DE,
+        "Clinical-practical Human Medicine (without Dentistry)"@en-US ;
+    skos:prefLabel "Clinical-practical Human Medicine (without Dentistry)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4900> rdfs:label "Klin.-Prakt. Humanmedizin allgemein"@de-DE,
+        "Clinical Practice Human Medicine (general)"@en-US ;
+    skos:prefLabel "Clinical Practice Human Medicine (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4910> rdfs:label "Allgemeinmedizin"@de-DE,
+        "General Medicine"@en-US ;
+    skos:prefLabel "General Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/4920> rdfs:label "Spezielle Pathologie"@de-DE,
+        "Special Pathology"@en-US ;
+    skos:prefLabel "Special Pathology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4930> rdfs:label "Spezielle Pharmakologie"@de-DE,
+        "Special Pharmacology"@en-US ;
+    skos:prefLabel "Special Pharmacology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4935> rdfs:label "Sportmedizin (klinisch-praktisch)"@de-DE,
+        "Sports Medicine (clinical-practical)"@en-US ;
+    skos:prefLabel "Sports Medicine (clinical-practical)"@en-US .
+
+<https://onto.tib.eu/destf/cs/4936> rdfs:label "Tumorzentrum und Transfusionsmedizin"@de-DE,
+        "Tumor Center And Transfusion Medicine"@en-US ;
+    skos:prefLabel "Tumor Center And Transfusion Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/4940> rdfs:label "Innere Medizin"@de-DE,
+        "Internal Medicine"@en-US ;
+    skos:prefLabel "Internal Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/4950> rdfs:label "Kinderheilkunde"@de-DE,
+        "Paediatrics"@en-US ;
+    skos:prefLabel "Paediatrics"@en-US .
+
+<https://onto.tib.eu/destf/cs/4960> rdfs:label "Dermato-Venerologie"@de-DE,
+        "Dermatovenereology"@en-US ;
+    skos:prefLabel "Dermatovenereology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4970> rdfs:label "Urologie"@de-DE,
+        "Urology"@en-US ;
+    skos:prefLabel "Urology"@en-US .
+
+<https://onto.tib.eu/destf/cs/4980> rdfs:label "Chirurgie"@de-DE,
+        "Surgery"@en-US ;
+    skos:prefLabel "Surgery"@en-US .
+
+<https://onto.tib.eu/destf/cs/4990> rdfs:label "Gynäkologie"@de-DE,
+        "Gynecology"@en-US ;
+    skos:prefLabel "Gynecology"@en-US .
+
+<https://onto.tib.eu/destf/cs/5010> rdfs:label "Orthopädie"@de-DE,
+        "Orthopedics"@en-US ;
+    skos:prefLabel "Orthopedics"@en-US .
+
+<https://onto.tib.eu/destf/cs/5015> rdfs:label "Physikalische Medizin"@de-DE,
+        "Physical Medicine"@en-US ;
+    skos:prefLabel "Physical Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/5020> rdfs:label "Augenheilkunde"@de-DE,
+        "Ophthalmology"@en-US ;
+    skos:prefLabel "Ophthalmology"@en-US .
+
+<https://onto.tib.eu/destf/cs/5030> rdfs:label "Hals-, Nasen-, Ohrenheilkunde"@de-DE,
+        "Otorhinolaryngology"@en-US ;
+    skos:prefLabel "Otorhinolaryngology"@en-US .
+
+<https://onto.tib.eu/destf/cs/5040> rdfs:label "Neurologie"@de-DE,
+        "Neurology"@en-US ;
+    skos:prefLabel "Neurology"@en-US .
+
+<https://onto.tib.eu/destf/cs/5050> rdfs:label "Psychiatrie"@de-DE,
+        "Psychiatry"@en-US ;
+    skos:prefLabel "Psychiatry"@en-US .
+
+<https://onto.tib.eu/destf/cs/5060> rdfs:label "Psychosomatische Medizin und Psychotherapie"@de-DE,
+        "Psychosomatic Medicine And Psychotherapy"@en-US ;
+    skos:prefLabel "Psychosomatic Medicine And Psychotherapy"@en-US .
+
+<https://onto.tib.eu/destf/cs/5070> rdfs:label "Anästhesiologie"@de-DE,
+        "Anesthesiology"@en-US ;
+    skos:prefLabel "Anesthesiology"@en-US .
+
+<https://onto.tib.eu/destf/cs/5080> rdfs:label "Rehabilitation"@de-DE,
+        "Rehabilitation"@en-US ;
+    skos:prefLabel "Rehabilitation"@en-US .
+
+<https://onto.tib.eu/destf/cs/5090> rdfs:label "Arbeitsmedizin (klin.-prakt.)"@de-DE,
+        "Occupational Medicine (clinical Practice)"@en-US ;
+    skos:prefLabel "Occupational Medicine (clinical Practice)"@en-US .
+
+<https://onto.tib.eu/destf/cs/5110> rdfs:label "Sozialmedizin (klinisch-praktisch)"@de-DE,
+        "Social Medicine (Clinical-Practical)"@en-US ;
+    skos:prefLabel "Social Medicine (Clinical-Practical)"@en-US .
+
+<https://onto.tib.eu/destf/cs/5120> rdfs:label "Geriatrie/Gerontologie"@de-DE,
+        "Geriatrics/gerontology"@en-US ;
+    skos:prefLabel "Geriatrics/gerontology"@en-US .
+
+<https://onto.tib.eu/destf/cs/5130> rdfs:label "Neurochirurgie"@de-DE,
+        "Neurosurgery"@en-US ;
+    skos:prefLabel "Neurosurgery"@en-US .
+
+<https://onto.tib.eu/destf/cs/5140> rdfs:label "Rheumatologie"@de-DE,
+        "Rheumatology"@en-US ;
+    skos:prefLabel "Rheumatology"@en-US .
+
+<https://onto.tib.eu/destf/cs/5150> rdfs:label "Radiologie/Strahlentherapie/Nuklearmedizin (mit Betten)"@de-DE,
+        "Radiology/radiation Therapy/nuclear Medicine (with Beds)"@en-US ;
+    skos:prefLabel "Radiology/radiation Therapy/nuclear Medicine (with Beds)"@en-US .
+
+<https://onto.tib.eu/destf/cs/5160> rdfs:label "Kinder- und Jugendpsychiatrie"@de-DE,
+        "Child And Adolescent Psychiatry"@en-US ;
+    skos:prefLabel "Child And Adolescent Psychiatry"@en-US .
+
+<https://onto.tib.eu/destf/cs/520> rdfs:label "Zahnmedizin (klinisch-praktisch)"@de-DE,
+        "Dentistry (clinical-practical)"@en-US ;
+    skos:prefLabel "Dentistry (clinical-practical)"@en-US .
+
+<https://onto.tib.eu/destf/cs/5200> rdfs:label "Zahnmedizin allgemein"@de-DE,
+        "Dentistry (general)"@en-US ;
+    skos:prefLabel "Dentistry (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/5210> rdfs:label "Zahnerhaltung und Paradontologie"@de-DE,
+        "Tooth Preservation And Periodontology"@en-US ;
+    skos:prefLabel "Tooth Preservation And Periodontology"@en-US .
+
+<https://onto.tib.eu/destf/cs/5220> rdfs:label "Zahnärztliche Prothetik"@de-DE,
+        "Dental Prosthetics"@en-US ;
+    skos:prefLabel "Dental Prosthetics"@en-US .
+
+<https://onto.tib.eu/destf/cs/5230> rdfs:label "Zahn-, Mund- und Kieferchirurgie"@de-DE,
+        "Dental, Oral And Maxillofacial Surgery"@en-US ;
+    skos:prefLabel "Dental, Oral And Maxillofacial Surgery"@en-US .
+
+<https://onto.tib.eu/destf/cs/5240> rdfs:label "Kieferorthopädie"@de-DE,
+        "Orthodontics"@en-US ;
+    skos:prefLabel "Orthodontics"@en-US .
+
+<https://onto.tib.eu/destf/cs/540> rdfs:label "Veterinärmedizin allgemein"@de-DE,
+        "Veterinary Medicine (general)"@en-US ;
+    skos:prefLabel "Veterinary Medicine (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/5400> rdfs:label "Veterinärmedizin allgemein"@de-DE,
+        "Veterinary Medicine (general)"@en-US ;
+    skos:prefLabel "Veterinary Medicine (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/550> rdfs:label "Vorklinische Veterinärmedizin"@de-DE,
+        "Preclinical Veterinary Medicine"@en-US ;
+    skos:prefLabel "Preclinical Veterinary Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/5500> rdfs:label "Vorklinische Veterinärmedizin allgemein"@de-DE,
+        "Preclinical Veterinary Medicine (general)"@en-US ;
+    skos:prefLabel "Preclinical Veterinary Medicine (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/5510> rdfs:label "Anatomie, Embryologie und Histologie"@de-DE,
+        "Anatomy, Embryology And Histology"@en-US ;
+    skos:prefLabel "Anatomy, Embryology And Histology"@en-US .
+
+<https://onto.tib.eu/destf/cs/5520> rdfs:label "Physiologie, Biochemie und Ernährungsphysiologie"@de-DE,
+        "Physiology, Biochemistry And Nutritional Physiology"@en-US ;
+    skos:prefLabel "Physiology, Biochemistry And Nutritional Physiology"@en-US .
+
+<https://onto.tib.eu/destf/cs/5530> rdfs:label "Tierschutz, Medizinische Terminologie, Geschichte der Veterinärmedizin"@de-DE,
+        "Animal Welfare, Medical Terminology, History Of Veterinary Medicine"@en-US ;
+    skos:prefLabel "Animal Welfare, Medical Terminology, History Of Veterinary Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/5535> rdfs:label "Veterinärmedizinische Zoologie und Hydrobiologie"@de-DE,
+        "Veterinary Zoology And Hydrobiology"@en-US ;
+    skos:prefLabel "Veterinary Zoology And Hydrobiology"@en-US .
+
+<https://onto.tib.eu/destf/cs/560> rdfs:label "Klinisch-Theoretische Veterinärmedizin"@de-DE,
+        "Clinical-theoretical Veterinary Medicine"@en-US ;
+    skos:prefLabel "Clinical-theoretical Veterinary Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/5600> rdfs:label "Klin.-Theor. Veterinärmedizin allgemein"@de-DE,
+        "Clinical Theoretical Veterinary Medicine (general)"@en-US ;
+    skos:prefLabel "Clinical Theoretical Veterinary Medicine (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/5610> rdfs:label "Tierzucht, vet.-med. Genetik und Zuchthygiene"@de-DE,
+        "Animal Breeding, Vet.-Med. Genetics And Breeding Hygiene"@en-US ;
+    skos:prefLabel "Animal Breeding, Vet.-Med. Genetics And Breeding Hygiene"@en-US .
+
+<https://onto.tib.eu/destf/cs/5620> rdfs:label "Tierernährung, allg. Landwirtschaftslehre, Verhaltenskunde"@de-DE,
+        "Animal Nutrition, General Agricultural Theory, Behavioral Science"@en-US ;
+    skos:prefLabel "Animal Nutrition, General Agricultural Theory, Behavioral Science"@en-US .
+
+<https://onto.tib.eu/destf/cs/5630> rdfs:label "Veterinärmedizinische Pathologie"@de-DE,
+        "Veterinary Pathology"@en-US ;
+    skos:prefLabel "Veterinary Pathology"@en-US .
+
+<https://onto.tib.eu/destf/cs/5640> rdfs:label "Mikrobiologie, Virologie, Tierhygiene und Tierseuchenbekämpfung"@de-DE,
+        "Microbiology, Virology, Animal Hygiene And Animal Disease Control"@en-US ;
+    skos:prefLabel "Microbiology, Virology, Animal Hygiene And Animal Disease Control"@en-US .
+
+<https://onto.tib.eu/destf/cs/5650> rdfs:label "Parasitologie, Tropenveterinärmedizin"@de-DE,
+        "Parasitology, Tropical Veterinary Medicine"@en-US ;
+    skos:prefLabel "Parasitology, Tropical Veterinary Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/5660> rdfs:label "Pharmakologie, Toxikologie und Arzneiverordnungslehre"@de-DE,
+        "Parmacology, Toxicology And Medical Prescription Theory"@en-US ;
+    skos:prefLabel "Parmacology, Toxicology And Medical Prescription Theory"@en-US .
+
+<https://onto.tib.eu/destf/cs/5670> rdfs:label "Fleisch-, Lebensmittel- und Milchhygiene"@de-DE,
+        "Meat, Food And Dairy Hygiene"@en-US ;
+    skos:prefLabel "Meat, Food And Dairy Hygiene"@en-US .
+
+<https://onto.tib.eu/destf/cs/5680> rdfs:label "Versuchstierkunde und Fischkunde einschl. Krankheiten"@de-DE,
+        "Laboratory Animals And Ichthyology Incl. Diseases"@en-US ;
+    skos:prefLabel "Laboratory Animals And Ichthyology Incl. Diseases"@en-US .
+
+<https://onto.tib.eu/destf/cs/580> rdfs:label "Klinisch-Praktische Veterinärmedizin"@de-DE,
+        "Clinical-practical Veterinary Medicine"@en-US ;
+    skos:prefLabel "Clinical-practical Veterinary Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/5800> rdfs:label "Klin.-Prakt. Veterinärmedizin allgemein"@de-DE,
+        "Clinical Practice Veterinary Medicine (general)"@en-US ;
+    skos:prefLabel "Clinical Practice Veterinary Medicine (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/5810> rdfs:label "Tierklinik allgemein"@de-DE,
+        "Veterinary Clinic (general)"@en-US ;
+    skos:prefLabel "Veterinary Clinic (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/5820> rdfs:label "Veterinärmedizinische Chirurgie"@de-DE,
+        "Veterinary Surgery"@en-US ;
+    skos:prefLabel "Veterinary Surgery"@en-US .
+
+<https://onto.tib.eu/destf/cs/5830> rdfs:label "Geburtshilfe und Gynäkologie"@de-DE,
+        "Obstetrics And Gynecology"@en-US ;
+    skos:prefLabel "Obstetrics And Gynecology"@en-US .
+
+<https://onto.tib.eu/destf/cs/5840> rdfs:label "Andrologie und Haustierbesamung"@de-DE,
+        "Andrology And Domestic Animal Insemination"@en-US ;
+    skos:prefLabel "Andrology And Domestic Animal Insemination"@en-US .
+
+<https://onto.tib.eu/destf/cs/5850> rdfs:label "Gerichtliche Veterinärmedizin"@de-DE,
+        "Forensic Veterinary Medicine"@en-US ;
+    skos:prefLabel "Forensic Veterinary Medicine"@en-US .
+
+<https://onto.tib.eu/destf/cs/5860> rdfs:label "Innere Veterinärmedizin einschl. Labordiagnostik"@de-DE,
+        "Internal Veterinary Medicine Including Laboratory Diagnostics"@en-US ;
+    skos:prefLabel "Internal Veterinary Medicine Including Laboratory Diagnostics"@en-US .
+
+<https://onto.tib.eu/destf/cs/5870> rdfs:label "Krankheiten der Pferde"@de-DE,
+        "Equine Diseases"@en-US ;
+    skos:prefLabel "Equine Diseases"@en-US .
+
+<https://onto.tib.eu/destf/cs/5880> rdfs:label "Krankheiten der Rinder"@de-DE,
+        "Bovine Diseases"@en-US ;
+    skos:prefLabel "Bovine Diseases"@en-US .
+
+<https://onto.tib.eu/destf/cs/5890> rdfs:label "Krankheiten der kleinen Klauentiere"@de-DE,
+        "Diseases Of Small Ruminants"@en-US ;
+    skos:prefLabel "Diseases Of Small Ruminants"@en-US .
+
+<https://onto.tib.eu/destf/cs/5910> rdfs:label "Krankheiten der kleinen Haustiere"@de-DE,
+        "Diseases Of Small Domestic Animals"@en-US ;
+    skos:prefLabel "Diseases Of Small Domestic Animals"@en-US .
+
+<https://onto.tib.eu/destf/cs/5920> rdfs:label "Krankheiten des Geflügels"@de-DE,
+        "Poultry Diseases"@en-US ;
+    skos:prefLabel "Poultry Diseases"@en-US .
+
+<https://onto.tib.eu/destf/cs/610> rdfs:label "Agrar-, Forst- und Ernährungswissenschaften allgemein"@de-DE,
+        "Agricultural, Forestry And Nutritional Sciences In General"@en-US ;
+    skos:prefLabel "Agricultural, Forestry And Nutritional Sciences In General"@en-US .
+
+<https://onto.tib.eu/destf/cs/6100> rdfs:label "Agrar-, Forst- und Ernährungswissenschaften allgemein"@de-DE,
+        "Agricultural, Forestry And Nutritional Sciences In General"@en-US ;
+    skos:prefLabel "Agricultural, Forestry And Nutritional Sciences In General"@en-US .
+
+<https://onto.tib.eu/destf/cs/6105> rdfs:label "Angewandte Biotechnologie (Agrar-, F.- u. E.-wiss.)"@de-DE,
+        "Applied Biotechnology (in Agriculture, Forestry And Nutritional Science)"@en-US ;
+    skos:prefLabel "Applied Biotechnology (in Agriculture, Forestry And Nutritional Science)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6106> rdfs:label "Angewandte Maschinenbautechnik (Agrar-, F.- u. E.-wiss.)"@de-DE,
+        "Applied Mechanical Engineering (in Agriculture, Forestry And Nutritional Science)"@en-US ;
+    skos:prefLabel "Applied Mechanical Engineering (in Agriculture, Forestry And Nutritional Science)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6107> rdfs:label "Angewandte Naturwissenschaften (Agrar-, F.- u. E.-wiss.)"@de-DE,
+        "Applied Natural Sciences (in Agriculture, Forestry And Nutritional Science)"@en-US ;
+    skos:prefLabel "Applied Natural Sciences (in Agriculture, Forestry And Nutritional Science)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6108> rdfs:label "Angewandte Verfahrenstechnik (Agrar-, F.- u. E.-wiss.)"@de-DE,
+        "Applied Process Engineering (in Agriculture, Forestry And Nutritional Science)"@en-US ;
+    skos:prefLabel "Applied Process Engineering (in Agriculture, Forestry And Nutritional Science)"@en-US .
+
+<https://onto.tib.eu/destf/cs/615> rdfs:label "Landespflege, Umweltgestaltung"@de-DE,
+        "Land Management, Environmental Design"@en-US ;
+    skos:prefLabel "Land Management, Environmental Design"@en-US .
+
+<https://onto.tib.eu/destf/cs/620> rdfs:label "Agrarwissenschaften, Lebensmittel- und Getränketechnologie"@de-DE,
+        "Agricultural Sciences, Food And Beverage Technology"@en-US ;
+    skos:prefLabel "Agricultural Sciences, Food And Beverage Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6200> rdfs:label "Agrarwissenschaften allgemein"@de-DE,
+        "Agricultural Sciences (general)"@en-US ;
+    skos:prefLabel "Agricultural Sciences (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6205> rdfs:label "Agrarbiologie"@de-DE,
+        "Agricultural Biology"@en-US ;
+    skos:prefLabel "Agricultural Biology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6210> rdfs:label "Agrartechnik"@de-DE,
+        "Agricultural Technology"@en-US ;
+    skos:prefLabel "Agricultural Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6220> rdfs:label "Pflanzenproduktion"@de-DE,
+        "Crop Production"@en-US ;
+    skos:prefLabel "Crop Production"@en-US .
+
+<https://onto.tib.eu/destf/cs/6230> rdfs:label "Tierproduktion"@de-DE,
+        "Animal Production"@en-US ;
+    skos:prefLabel "Animal Production"@en-US .
+
+<https://onto.tib.eu/destf/cs/6235> rdfs:label "Weinbau- und Kellerwirtschaft"@de-DE,
+        "Enology And Cellar Management"@en-US ;
+    skos:prefLabel "Enology And Cellar Management"@en-US .
+
+<https://onto.tib.eu/destf/cs/6240> rdfs:label "Wirtschafts- und Sozialwissenschaften des Landbaus"@de-DE,
+        "Agricultural Economics And Social Sciences"@en-US ;
+    skos:prefLabel "Agricultural Economics And Social Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/6250> rdfs:label "Lebensmitteltechnologie/Getränketechnologie"@de-DE,
+        "Food Technology/beverage Technology"@en-US ;
+    skos:prefLabel "Food Technology/beverage Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6255> rdfs:label "Milch- und Molkereiwirtschaft"@de-DE,
+        "Dairy And Dairy Farming"@en-US ;
+    skos:prefLabel "Dairy And Dairy Farming"@en-US .
+
+<https://onto.tib.eu/destf/cs/6260> rdfs:label "Brauwesen/Getränketechnik"@de-DE,
+        "Brewing/beverage Technology"@en-US ;
+    skos:prefLabel "Brewing/beverage Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6300> rdfs:label "Gartenbau"@de-DE,
+        "Horticulture"@en-US ;
+    skos:prefLabel "Horticulture"@en-US .
+
+<https://onto.tib.eu/destf/cs/6310> rdfs:label "Landespflege allgemein"@de-DE,
+        "Landscape Management (General)"@en-US ;
+    skos:prefLabel "Landscape Management (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6315> rdfs:label "Landschaftsarchitektur (ohne Gartenbau)"@de-DE,
+        "Landscape Architecture (excluding Horticulture)"@en-US ;
+    skos:prefLabel "Landscape Architecture (excluding Horticulture)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6320> rdfs:label "Landschaftsökologie"@de-DE,
+        "Landscape Ecology"@en-US ;
+    skos:prefLabel "Landscape Ecology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6330> rdfs:label "Landschaftsplanung und Landschaftsentwicklung"@de-DE,
+        "Landscape Planning And Landscape Development"@en-US ;
+    skos:prefLabel "Landscape Planning And Landscape Development"@en-US .
+
+<https://onto.tib.eu/destf/cs/6340> rdfs:label "Meliorationswesen"@de-DE,
+        "Land Improvement (Melioration)"@en-US ;
+    skos:prefLabel "Land Improvement (Melioration)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6350> rdfs:label "Naturschutz"@de-DE,
+        "Nature Conservation"@en-US ;
+    skos:prefLabel "Nature Conservation"@en-US .
+
+<https://onto.tib.eu/destf/cs/640> rdfs:label "Forstwissenschaft, Holzwirtschaft"@de-DE,
+        "Forestry, Timber Industry"@en-US ;
+    skos:prefLabel "Forestry, Timber Industry"@en-US .
+
+<https://onto.tib.eu/destf/cs/6400> rdfs:label "Forstwissenschaft, Holzwirtschaft allgemein"@de-DE,
+        "Forest Science, Timber Industry In General"@en-US ;
+    skos:prefLabel "Forest Science, Timber Industry In General"@en-US .
+
+<https://onto.tib.eu/destf/cs/6410> rdfs:label "Forstliche Grundlagenwissenschaften"@de-DE,
+        "Basic Forest Sciences"@en-US ;
+    skos:prefLabel "Basic Forest Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/6415> rdfs:label "Holzwirtschaft"@de-DE,
+        "Timber Industry"@en-US ;
+    skos:prefLabel "Timber Industry"@en-US .
+
+<https://onto.tib.eu/destf/cs/6420> rdfs:label "Forstliche Fachwissenschaften"@de-DE,
+        "Forest Sciences"@en-US ;
+    skos:prefLabel "Forest Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/6430> rdfs:label "Holzwissenschaften"@de-DE,
+        "Wood Science"@en-US ;
+    skos:prefLabel "Wood Science"@en-US .
+
+<https://onto.tib.eu/destf/cs/650> rdfs:label "Ernährungs- und Haushaltswissenschaften"@de-DE,
+        "Nutritional And Household Sciences"@en-US ;
+    skos:prefLabel "Nutritional And Household Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/6500> rdfs:label "Ernährungs- und Haushaltswissenschaften allgemein"@de-DE,
+        "Nutritional And Household Sciences (general)"@en-US ;
+    skos:prefLabel "Nutritional And Household Sciences (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6510> rdfs:label "Haushaltswissenschaften"@de-DE,
+        "Domestic Science"@en-US ;
+    skos:prefLabel "Domestic Science"@en-US .
+
+<https://onto.tib.eu/destf/cs/6520> rdfs:label "Ernährungswissenschaften"@de-DE,
+        "Nutritional Sciences"@en-US ;
+    skos:prefLabel "Nutritional Sciences"@en-US .
+
+<https://onto.tib.eu/destf/cs/670> rdfs:label "Ingenieurwissenschaften allgemein"@de-DE,
+        "Engineering (general)"@en-US ;
+    skos:prefLabel "Engineering (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6700> rdfs:label "Ingenieurwissenschaften allgemein"@de-DE,
+        "Engineering (general)"@en-US ;
+    skos:prefLabel "Engineering (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6710> rdfs:label "Polytechnik/Arbeitslehre"@de-DE,
+        "Crafts Education / Ergonomics"@en-US ;
+    skos:prefLabel "Crafts Education / Ergonomics"@en-US .
+
+<https://onto.tib.eu/destf/cs/6720> rdfs:label "Techn. Gesundheitswesen"@de-DE,
+        "Public Health Engineering"@en-US ;
+    skos:prefLabel "Public Health Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/6740> rdfs:label "Interdisciplinary Studies (Engineering Focus, excl. Mechatronics)"@de-DE,
+        "Interdisciplinary Studies (Engineering Focus, Excl. Mechatronics)"@en-US ;
+    skos:prefLabel "Interdisciplinary Studies (Engineering Focus, Excl. Mechatronics)"@en-US .
+
+<https://onto.tib.eu/destf/cs/675> rdfs:label "Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt"@de-DE,
+        "Industrial Engineering (Engineering Focus)"@en-US ;
+    skos:prefLabel "Industrial Engineering (Engineering Focus)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6750> rdfs:label "Mechatronik"@de-DE,
+        "Mechatronics"@en-US ;
+    skos:prefLabel "Mechatronics"@en-US .
+
+<https://onto.tib.eu/destf/cs/6755> rdfs:label "Wirtschaftsingenieurwesen mit ingenieurwissenschaftlichem Schwerpunkt"@de-DE,
+        "Industrial Engineering (Engineering Focus)"@en-US ;
+    skos:prefLabel "Industrial Engineering (Engineering Focus)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6760> rdfs:label "Automatisierungstechnik"@de-DE,
+        "Automation Technology"@en-US ;
+    skos:prefLabel "Automation Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6780> rdfs:label "Medientechnik"@de-DE,
+        "Media Technology"@en-US ;
+    skos:prefLabel "Media Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6790> rdfs:label "Regenerative Energien"@de-DE,
+        "Renewable Energies"@en-US ;
+    skos:prefLabel "Renewable Energies"@en-US .
+
+<https://onto.tib.eu/destf/cs/680> rdfs:label "Bergbau, Hüttenwesen"@de-DE,
+        "Mining, Metallurgy"@en-US ;
+    skos:prefLabel "Mining, Metallurgy"@en-US .
+
+<https://onto.tib.eu/destf/cs/6800> rdfs:label "Bergbau, Hüttenwesen allgemein"@de-DE,
+        "Mining, Metallurgy (General)"@en-US ;
+    skos:prefLabel "Mining, Metallurgy (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6810> rdfs:label "Bergbau und mineralische Rohstoffwirtschaft"@de-DE,
+        "Mining And Mineral Raw Material Management"@en-US ;
+    skos:prefLabel "Mining And Mineral Raw Material Management"@en-US .
+
+<https://onto.tib.eu/destf/cs/6820> rdfs:label "Bergtechnik"@de-DE,
+        "Mining Technique"@en-US ;
+    skos:prefLabel "Mining Technique"@en-US .
+
+<https://onto.tib.eu/destf/cs/6830> rdfs:label "Bergbauliche Betriebswirtschaft"@de-DE,
+        "Mining Business Administration"@en-US ;
+    skos:prefLabel "Mining Business Administration"@en-US .
+
+<https://onto.tib.eu/destf/cs/6840> rdfs:label "Bergwirtschaft, Bergrecht"@de-DE,
+        "Mining Economy, Mining Law"@en-US ;
+    skos:prefLabel "Mining Economy, Mining Law"@en-US .
+
+<https://onto.tib.eu/destf/cs/6845> rdfs:label "Hütten- und Gießereiwesen"@de-DE,
+        "Metallurgy And Foundry Studies"@en-US ;
+    skos:prefLabel "Metallurgy And Foundry Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/6850> rdfs:label "Markscheidewesen, Bergschadenkunde, Geophysik im Bergbau"@de-DE,
+        "Mine Surveying, Mining Damage, Geophysics In Mining"@en-US ;
+    skos:prefLabel "Mine Surveying, Mining Damage, Geophysics In Mining"@en-US .
+
+<https://onto.tib.eu/destf/cs/6855> rdfs:label "Metallurgie"@de-DE,
+        "Metallurgy"@en-US ;
+    skos:prefLabel "Metallurgy"@en-US .
+
+<https://onto.tib.eu/destf/cs/6860> rdfs:label "Aufbereitung und Veredelung"@de-DE,
+        "Preparation And Refinement"@en-US ;
+    skos:prefLabel "Preparation And Refinement"@en-US .
+
+<https://onto.tib.eu/destf/cs/6870> rdfs:label "Archäometrie (Ingenieurarchäologie)"@de-DE,
+        "Archaeometry (Archaeological Engineering)"@en-US ;
+    skos:prefLabel "Archaeometry (Archaeological Engineering)"@en-US .
+
+<https://onto.tib.eu/destf/cs/690> rdfs:label "Maschinenbau/Verfahrenstechnik"@de-DE,
+        "Mechanical Engineering / Process Engineering"@en-US ;
+    skos:prefLabel "Mechanical Engineering / Process Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/6900> rdfs:label "Maschinenbau allgemein"@de-DE,
+        "Mechanical Engineering (general)"@en-US ;
+    skos:prefLabel "Mechanical Engineering (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6905> rdfs:label "Biotechnologie (techn. Verfahren)"@de-DE,
+        "Biotechnology (technical Process)"@en-US ;
+    skos:prefLabel "Biotechnology (technical Process)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6906> rdfs:label "Chemieingenieurwesen/-Chemietechnik"@de-DE,
+        "Industrial Chemistry / Chemical Engineering"@en-US ;
+    skos:prefLabel "Industrial Chemistry / Chemical Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/6907> rdfs:label "Print- und Medientechnik"@de-DE,
+        "Print And Media Technology"@en-US ;
+    skos:prefLabel "Print And Media Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6910> rdfs:label "Grundlagen des Maschinenwesens"@de-DE,
+        "Principles Of Mechanical Engineering"@en-US ;
+    skos:prefLabel "Principles Of Mechanical Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/6920> rdfs:label "Produkte des Maschinenbaus"@de-DE,
+        "Mechanical Engineering Products"@en-US ;
+    skos:prefLabel "Mechanical Engineering Products"@en-US .
+
+<https://onto.tib.eu/destf/cs/6930> rdfs:label "Energietechnik (ohne Elektrotechnik)"@de-DE,
+        "Energy Technology (without Electrical Engineering)"@en-US ;
+    skos:prefLabel "Energy Technology (without Electrical Engineering)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6935> rdfs:label "Logistik"@de-DE,
+        "Logistics"@en-US ;
+    skos:prefLabel "Logistics"@en-US .
+
+<https://onto.tib.eu/destf/cs/6940> rdfs:label "Produktions- und Fertigungstechnologie"@de-DE,
+        "Production And Manufacturing Engineering"@en-US ;
+    skos:prefLabel "Production And Manufacturing Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/6945> rdfs:label "Sicherheitstechnik"@de-DE,
+        "Security Technology"@en-US ;
+    skos:prefLabel "Security Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6950> rdfs:label "Transport- und Verteiltechnik"@de-DE,
+        "Transport And Distribution Engineering"@en-US ;
+    skos:prefLabel "Transport And Distribution Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/6960> rdfs:label "Verfahrenstechnik"@de-DE,
+        "Process Engineering"@en-US ;
+    skos:prefLabel "Process Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/6965> rdfs:label "Versorgungs-/Entsorgungstechnik"@de-DE,
+        "Supply/disposal Technology"@en-US ;
+    skos:prefLabel "Supply/disposal Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6970> rdfs:label "Steuerungs-, Mess- und Regelungstechnik"@de-DE,
+        "Control, Measurement And Regulation Technology"@en-US ;
+    skos:prefLabel "Control, Measurement And Regulation Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6975> rdfs:label "Technische/angewandte Optik"@de-DE,
+        "Technical/applied Optics"@en-US ;
+    skos:prefLabel "Technical/applied Optics"@en-US .
+
+<https://onto.tib.eu/destf/cs/6976> rdfs:label "Textiltechnik"@de-DE,
+        "Textile Technology"@en-US ;
+    skos:prefLabel "Textile Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/6980> rdfs:label "Sondergebiete des Maschinenwesens"@de-DE,
+        "Special Areas Of Mechanical Engineering"@en-US ;
+    skos:prefLabel "Special Areas Of Mechanical Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/6985> rdfs:label "Umwelttechnik (einschl. Recycling)"@de-DE,
+        "Environmental Technology (incl. Recycling)"@en-US ;
+    skos:prefLabel "Environmental Technology (incl. Recycling)"@en-US .
+
+<https://onto.tib.eu/destf/cs/6990> rdfs:label "Werkstofftechnik"@de-DE,
+        "Materials Engineering"@en-US ;
+    skos:prefLabel "Materials Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/7010> rdfs:label "Medizintechnik"@de-DE,
+        "Medical Technology"@en-US ;
+    skos:prefLabel "Medical Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/7020> rdfs:label "Physikalische Technik"@de-DE,
+        "Physical Engineering"@en-US ;
+    skos:prefLabel "Physical Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/7030> rdfs:label "Kunststofftechnik"@de-DE,
+        "Plastics Engineering"@en-US ;
+    skos:prefLabel "Plastics Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/7040> rdfs:label "Holztechnik"@de-DE,
+        "Wood Technology"@en-US ;
+    skos:prefLabel "Wood Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/7045> rdfs:label "Kerntechnik, Kernverfahrenstechnik"@de-DE,
+        "Nuclear Engineering, Nuclear Process Engineering"@en-US ;
+    skos:prefLabel "Nuclear Engineering, Nuclear Process Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/710> rdfs:label "Elektrotechnik und Informationstechnik"@de-DE,
+        "Electrical And Computer Engineering"@en-US ;
+    skos:prefLabel "Electrical And Computer Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/7100> rdfs:label "Elektrotechnik allgemein"@de-DE,
+        "Electrical Engineering (general)"@en-US ;
+    skos:prefLabel "Electrical Engineering (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7110> rdfs:label "Allgemeine Elektrotechnik"@de-DE,
+        "General Electrical Engineering"@en-US ;
+    skos:prefLabel "General Electrical Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/7120> rdfs:label "Elektrische Energietechnik"@de-DE,
+        "Electrical Power Engineering"@en-US ;
+    skos:prefLabel "Electrical Power Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/7125> rdfs:label "Feinwerktechnik (elektrisch)"@de-DE,
+        "Precision Engineering (electrical)"@en-US ;
+    skos:prefLabel "Precision Engineering (electrical)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7130> rdfs:label "Kommunikations- und Informationstechnik"@de-DE,
+        "Communication And Information Technology"@en-US ;
+    skos:prefLabel "Communication And Information Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/7140> rdfs:label "Mikrosystemtechnik"@de-DE,
+        "Microsystems Technology"@en-US ;
+    skos:prefLabel "Microsystems Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/7150> rdfs:label "Optoelektronik"@de-DE,
+        "Optoelectronics"@en-US ;
+    skos:prefLabel "Optoelectronics"@en-US .
+
+<https://onto.tib.eu/destf/cs/7155> rdfs:label "Steuerungs-, Mess- und Regelungstechnik (elektrisch)"@de-DE,
+        "Control, Measurement And Regulation Technology (Electrical)"@en-US ;
+    skos:prefLabel "Control, Measurement And Regulation Technology (Electrical)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7160> rdfs:label "Mikro- und Nanoelektronik"@de-DE,
+        "Micro- And Nanoelectronics"@en-US ;
+    skos:prefLabel "Micro- And Nanoelectronics"@en-US .
+
+<https://onto.tib.eu/destf/cs/7170> rdfs:label "Sensorik und Messtechnik"@de-DE,
+        "Sensors And Measurement Technology"@en-US ;
+    skos:prefLabel "Sensors And Measurement Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/7190> rdfs:label "Feinwerktechnik (mechanisch)"@de-DE,
+        "Precision Engineering (mechanical)"@en-US ;
+    skos:prefLabel "Precision Engineering (mechanical)"@en-US .
+
+<https://onto.tib.eu/destf/cs/720> rdfs:label "Verkehrstechnik, Nautik"@de-DE,
+        "Transport Engineering, Nautical Science"@en-US ;
+    skos:prefLabel "Transport Engineering, Nautical Science"@en-US .
+
+<https://onto.tib.eu/destf/cs/7200> rdfs:label "Verkehrstechnik, Nautik allgemein"@de-DE,
+        "Transport Engineering, Nautical Science (General)"@en-US ;
+    skos:prefLabel "Transport Engineering, Nautical Science (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7210> rdfs:label "Schiffsbetriebstechnik"@de-DE,
+        "Ship Operation Technology"@en-US ;
+    skos:prefLabel "Ship Operation Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/7215> rdfs:label "Verkehrsingenieurwesen"@de-DE,
+        "Transport Engineering"@en-US ;
+    skos:prefLabel "Transport Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/7220> rdfs:label "Schiffbau, Meerestechnik"@de-DE,
+        "Shipbuilding, Marine Engineering"@en-US ;
+    skos:prefLabel "Shipbuilding, Marine Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/7230> rdfs:label "Nautik, Seefahrt"@de-DE,
+        "Nautical Science, Maritime Navigation"@en-US ;
+    skos:prefLabel "Nautical Science, Maritime Navigation"@en-US .
+
+<https://onto.tib.eu/destf/cs/7240> rdfs:label "Fahrzeug- und Flugzeugbau"@de-DE,
+        "Vehicle And Aircraft Construction"@en-US ;
+    skos:prefLabel "Vehicle And Aircraft Construction"@en-US .
+
+<https://onto.tib.eu/destf/cs/7245> rdfs:label "Fahrzeugtechnik"@de-DE,
+        "Vehicle Technology"@en-US ;
+    skos:prefLabel "Vehicle Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/7246> rdfs:label "Luft- und Raumfahrttechnik"@de-DE,
+        "Aerospace Engineering"@en-US ;
+    skos:prefLabel "Aerospace Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/730> rdfs:label "Architektur"@de-DE,
+        "Architecture"@en-US ;
+    skos:prefLabel "Architecture"@en-US .
+
+<https://onto.tib.eu/destf/cs/7300> rdfs:label "Architektur allgemein"@de-DE,
+        "Architecture (general)"@en-US ;
+    skos:prefLabel "Architecture (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7310> rdfs:label "Grundlagen und Hilfswissenschaften der Architektur"@de-DE,
+        "Principles And Auxiliary Sciences Of Architecture"@en-US ;
+    skos:prefLabel "Principles And Auxiliary Sciences Of Architecture"@en-US .
+
+<https://onto.tib.eu/destf/cs/7320> rdfs:label "Gestaltung und Darstellung"@de-DE,
+        "Design And Presentation"@en-US ;
+    skos:prefLabel "Design And Presentation"@en-US .
+
+<https://onto.tib.eu/destf/cs/7330> rdfs:label "Bautechnik und Baubetrieb"@de-DE,
+        "Civil Engineering And Construction"@en-US ;
+    skos:prefLabel "Civil Engineering And Construction"@en-US .
+
+<https://onto.tib.eu/destf/cs/7335> rdfs:label "Denkmalpflege (Architekt.)"@de-DE,
+        "Monument Conservation (Architecture)"@en-US ;
+    skos:prefLabel "Monument Conservation (Architecture)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7340> rdfs:label "Building Design / Facilities Planning"@en-US ;
+    skos:prefLabel "Building Design / Facilities Planning"@en-US .
+
+<https://onto.tib.eu/destf/cs/7350> rdfs:label "Building History"@en-US ;
+    skos:prefLabel "Building History"@en-US .
+
+<https://onto.tib.eu/destf/cs/7390> rdfs:label "Innenarchitektur"@de-DE,
+        "Interior Design"@en-US ;
+    skos:prefLabel "Interior Design"@en-US .
+
+<https://onto.tib.eu/destf/cs/7395> rdfs:label "Städtebau und Siedlungswesen"@de-DE,
+        "Urban Planning And Housing Development"@en-US ;
+    skos:prefLabel "Urban Planning And Housing Development"@en-US .
+
+<https://onto.tib.eu/destf/cs/740> rdfs:label "Raumplanung"@de-DE,
+        "Spatial Planning"@en-US ;
+    skos:prefLabel "Spatial Planning"@en-US .
+
+<https://onto.tib.eu/destf/cs/7400> rdfs:label "Raumplanung allgemein"@de-DE,
+        "Room Planning (general)"@en-US ;
+    skos:prefLabel "Room Planning (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7410> rdfs:label "Grundlagen der Raumplanung"@de-DE,
+        "Basics Of Spatial Planning"@en-US ;
+    skos:prefLabel "Basics Of Spatial Planning"@en-US .
+
+<https://onto.tib.eu/destf/cs/7420> rdfs:label "Stadtplanung (Ortsplanung)"@de-DE,
+        "Urban Planning (Town Planning)"@en-US ;
+    skos:prefLabel "Urban Planning (Town Planning)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7430> rdfs:label "Regional- und Landesplanung"@de-DE,
+        "Regional And National Planning"@en-US ;
+    skos:prefLabel "Regional And National Planning"@en-US .
+
+<https://onto.tib.eu/destf/cs/7440> rdfs:label "Raumordnung"@de-DE,
+        "Spatial Planning (General)"@en-US ;
+    skos:prefLabel "Spatial Planning (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7450> rdfs:label "Infrastrukturplanung"@de-DE,
+        "Infrastructure Planning"@en-US ;
+    skos:prefLabel "Infrastructure Planning"@en-US .
+
+<https://onto.tib.eu/destf/cs/7460> rdfs:label "Umweltschutz"@de-DE,
+        "Environmental Protection"@en-US ;
+    skos:prefLabel "Environmental Protection"@en-US .
+
+<https://onto.tib.eu/destf/cs/750> rdfs:label "Bauingenieurwesen"@de-DE,
+        "Civil Engineering"@en-US ;
+    skos:prefLabel "Civil Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/7500> rdfs:label "Bauingenieurwesen allgemein"@de-DE,
+        "Civil Engineering (general)"@en-US ;
+    skos:prefLabel "Civil Engineering (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7510> rdfs:label "Konstruktiver Ingenieurbau"@de-DE,
+        "Structural Engineering"@en-US ;
+    skos:prefLabel "Structural Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/7520> rdfs:label "Wasserbau, -wesen"@de-DE,
+        "Hydraulic Engineering, Hydroscience"@en-US ;
+    skos:prefLabel "Hydraulic Engineering, Hydroscience"@en-US .
+
+<https://onto.tib.eu/destf/cs/7530> rdfs:label "Verkehrsbau, -wesen"@de-DE,
+        "Transport Engineering, Transport"@en-US ;
+    skos:prefLabel "Transport Engineering, Transport"@en-US .
+
+<https://onto.tib.eu/destf/cs/7540> rdfs:label "Baubetriebswesen/Baumanagement"@de-DE,
+        "Construction Engineering/Management"@en-US ;
+    skos:prefLabel "Construction Engineering/Management"@en-US .
+
+<https://onto.tib.eu/destf/cs/7550> rdfs:label "Sonstige Bereiche des Bauingenieurwesens"@de-DE,
+        "Other Areas Of Civil Engineering"@en-US ;
+    skos:prefLabel "Other Areas Of Civil Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/7570> rdfs:label "Baustofftechnik"@de-DE,
+        "Building Materials Technology"@en-US ;
+    skos:prefLabel "Building Materials Technology"@en-US .
+
+<https://onto.tib.eu/destf/cs/760> rdfs:label "Vermessungswesen"@de-DE,
+        "Surveying"@en-US ;
+    skos:prefLabel "Surveying"@en-US .
+
+<https://onto.tib.eu/destf/cs/7600> rdfs:label "Vermessungswesen allgemein"@de-DE,
+        "Surveying (general)"@en-US ;
+    skos:prefLabel "Surveying (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7610> rdfs:label "Kartographie"@de-DE,
+        "Cartography"@en-US ;
+    skos:prefLabel "Cartography"@en-US .
+
+<https://onto.tib.eu/destf/cs/7620> rdfs:label "Photogrammetrie"@de-DE,
+        "Photogrammetry"@en-US ;
+    skos:prefLabel "Photogrammetry"@en-US .
+
+<https://onto.tib.eu/destf/cs/765> rdfs:label "Informatik"@de-DE,
+        "Computer Science"@en-US ;
+    skos:prefLabel "Computer Science"@en-US .
+
+<https://onto.tib.eu/destf/cs/7660> rdfs:label "Holzbau"@de-DE,
+        "Timber Construction"@en-US ;
+    skos:prefLabel "Timber Construction"@en-US .
+
+<https://onto.tib.eu/destf/cs/770> rdfs:label "Materialwissenschaft und Werkstofftechnik"@de-DE,
+        "Materials Science And Engineering"@en-US ;
+    skos:prefLabel "Materials Science And Engineering"@en-US .
+
+<https://onto.tib.eu/destf/cs/7700> rdfs:label "Materialwissenschaft"@de-DE,
+        "Materials Science"@en-US ;
+    skos:prefLabel "Materials Science"@en-US .
+
+<https://onto.tib.eu/destf/cs/780> rdfs:label "Kunst, Kunstwissenschaft allgemein"@de-DE,
+        "Art, Art Theory (General)"@en-US ;
+    skos:prefLabel "Art, Art Theory (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7800> rdfs:label "Kunst, Kunstwissenschaft allgemein"@de-DE,
+        "Art, Art Theory (General)"@en-US ;
+    skos:prefLabel "Art, Art Theory (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7810> rdfs:label "Kunstgeschichte"@de-DE,
+        "Art History"@en-US ;
+    skos:prefLabel "Art History"@en-US .
+
+<https://onto.tib.eu/destf/cs/7820> rdfs:label "Kunsterziehung"@de-DE,
+        "Art Education"@en-US ;
+    skos:prefLabel "Art Education"@en-US .
+
+<https://onto.tib.eu/destf/cs/7830> rdfs:label "Restaurierungskunde"@de-DE,
+        "Restoration"@en-US ;
+    skos:prefLabel "Restoration"@en-US .
+
+<https://onto.tib.eu/destf/cs/7840> rdfs:label "Kunsttherapie"@de-DE,
+        "Art Therapy"@en-US ;
+    skos:prefLabel "Art Therapy"@en-US .
+
+<https://onto.tib.eu/destf/cs/790> rdfs:label "Bildende Kunst"@de-DE,
+        "Visual Arts"@en-US ;
+    skos:prefLabel "Visual Arts"@en-US .
+
+<https://onto.tib.eu/destf/cs/7900> rdfs:label "Bildende Kunst allgemein"@de-DE,
+        "Fine Arts (general)"@en-US ;
+    skos:prefLabel "Fine Arts (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/7920> rdfs:label "Malerei"@de-DE,
+        "Painting"@en-US ;
+    skos:prefLabel "Painting"@en-US .
+
+<https://onto.tib.eu/destf/cs/7930> rdfs:label "Plastik, Bildhauerei"@de-DE,
+        "Sculpture"@en-US ;
+    skos:prefLabel "Sculpture"@en-US .
+
+<https://onto.tib.eu/destf/cs/7940> rdfs:label "Graphik"@de-DE,
+        "Graphic Arts"@en-US ;
+    skos:prefLabel "Graphic Arts"@en-US .
+
+<https://onto.tib.eu/destf/cs/7950> rdfs:label "Aktionen, Performance, Environment, Fotografie"@de-DE,
+        "Actions, Performance, Environment, Photography"@en-US ;
+    skos:prefLabel "Actions, Performance, Environment, Photography"@en-US .
+
+<https://onto.tib.eu/destf/cs/7960> rdfs:label "Neue Medien"@de-DE,
+        "New Media"@en-US ;
+    skos:prefLabel "New Media"@en-US .
+
+<https://onto.tib.eu/destf/cs/800> rdfs:label "Gestaltung"@de-DE,
+        "Design (General)"@en-US ;
+    skos:prefLabel "Design (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/8000> rdfs:label "Gestaltung allgemein"@de-DE,
+        "Design (general)"@en-US ;
+    skos:prefLabel "Design (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/8010> rdfs:label "Industriedesign/Produktgestaltung"@de-DE,
+        "Industrial Design/product Design"@en-US ;
+    skos:prefLabel "Industrial Design/product Design"@en-US .
+
+<https://onto.tib.eu/destf/cs/8020> rdfs:label "Modedesign"@de-DE,
+        "Fashion Design"@en-US ;
+    skos:prefLabel "Fashion Design"@en-US .
+
+<https://onto.tib.eu/destf/cs/8030> rdfs:label "Visuelle Kommunikation"@de-DE,
+        "Visual Communication"@en-US ;
+    skos:prefLabel "Visual Communication"@en-US .
+
+<https://onto.tib.eu/destf/cs/8035> rdfs:label "Werkerziehung (Gestaltung)"@de-DE,
+        "Handicraft Training (design)"@en-US ;
+    skos:prefLabel "Handicraft Training (design)"@en-US .
+
+<https://onto.tib.eu/destf/cs/8040> rdfs:label "Textildesign"@de-DE,
+        "Textile Design"@en-US ;
+    skos:prefLabel "Textile Design"@en-US .
+
+<https://onto.tib.eu/destf/cs/8050> rdfs:label "Angewandte Kunst"@de-DE,
+        "Applied Arts"@en-US ;
+    skos:prefLabel "Applied Arts"@en-US .
+
+<https://onto.tib.eu/destf/cs/8060> rdfs:label "Bühnenbild, Kostüm"@de-DE,
+        "Stage Design, Costumes"@en-US ;
+    skos:prefLabel "Stage Design, Costumes"@en-US .
+
+<https://onto.tib.eu/destf/cs/8070> rdfs:label "Designtheorie, -geschichte"@de-DE,
+        "Design Theory, Design History"@en-US ;
+    skos:prefLabel "Design Theory, Design History"@en-US .
+
+<https://onto.tib.eu/destf/cs/8075> rdfs:label "Edelstein- und Schmuckdesign"@de-DE,
+        "Gem And Jewelry Design"@en-US ;
+    skos:prefLabel "Gem And Jewelry Design"@en-US .
+
+<https://onto.tib.eu/destf/cs/8076> rdfs:label "Graphikdesign/Kommunikationsgestaltung"@de-DE,
+        "Graphic Design/communication Design"@en-US ;
+    skos:prefLabel "Graphic Design/communication Design"@en-US .
+
+<https://onto.tib.eu/destf/cs/820> rdfs:label "Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft"@de-DE,
+        "Performing Arts, Film And Television, Theater Studies"@en-US ;
+    skos:prefLabel "Performing Arts, Film And Television, Theater Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/8200> rdfs:label "Darstellende Kunst, Film und Fernsehen, Theaterwissenschaft allgemein"@de-DE,
+        "Performing Arts, Film And Television, Theater Studies In General"@en-US ;
+    skos:prefLabel "Performing Arts, Film And Television, Theater Studies In General"@en-US .
+
+<https://onto.tib.eu/destf/cs/8210> rdfs:label "Darstellende Kunst"@de-DE,
+        "Performing Arts"@en-US ;
+    skos:prefLabel "Performing Arts"@en-US .
+
+<https://onto.tib.eu/destf/cs/8220> rdfs:label "Schauspiel"@de-DE,
+        "Acting"@en-US ;
+    skos:prefLabel "Acting"@en-US .
+
+<https://onto.tib.eu/destf/cs/8225> rdfs:label "Tanzwissenschaft"@de-DE,
+        "Dance Studies"@en-US ;
+    skos:prefLabel "Dance Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/8230> rdfs:label "Regie"@de-DE,
+        "Directing"@en-US ;
+    skos:prefLabel "Directing"@en-US .
+
+<https://onto.tib.eu/destf/cs/8240> rdfs:label "Theaterwissenschaft"@de-DE,
+        "Theater Studies"@en-US ;
+    skos:prefLabel "Theater Studies"@en-US .
+
+<https://onto.tib.eu/destf/cs/8250> rdfs:label "Film und Fernsehen"@de-DE,
+        "Movie And Tv"@en-US ;
+    skos:prefLabel "Movie And Tv"@en-US .
+
+<https://onto.tib.eu/destf/cs/8270> rdfs:label "Musiktheater"@de-DE,
+        "Musical Theater"@en-US ;
+    skos:prefLabel "Musical Theater"@en-US .
+
+<https://onto.tib.eu/destf/cs/8275> rdfs:label "Produktionswirtschaft im Bereich Darstellende Kunst, Theater, Film und Fernsehen"@de-DE,
+        "Production Management In The Field Of Performing Arts, Theatre, Film And Television"@en-US ;
+    skos:prefLabel "Production Management In The Field Of Performing Arts, Theatre, Film And Television"@en-US .
+
+<https://onto.tib.eu/destf/cs/830> rdfs:label "Musik, Musikwissenschaft"@de-DE,
+        "Music, Musicology"@en-US ;
+    skos:prefLabel "Music, Musicology"@en-US .
+
+<https://onto.tib.eu/destf/cs/8300> rdfs:label "Musik, Musikwissenschaft allgemein"@de-DE,
+        "Music, Musicology (General)"@en-US ;
+    skos:prefLabel "Music, Musicology (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/8310> rdfs:label "Instrumentalmusik"@de-DE,
+        "Instrumental Music"@en-US ;
+    skos:prefLabel "Instrumental Music"@en-US .
+
+<https://onto.tib.eu/destf/cs/8315> rdfs:label "Jazz und Popularmusik"@de-DE,
+        "Jazz And Popular Music"@en-US ;
+    skos:prefLabel "Jazz And Popular Music"@en-US .
+
+<https://onto.tib.eu/destf/cs/8320> rdfs:label "Gesang"@de-DE,
+        "Singing"@en-US ;
+    skos:prefLabel "Singing"@en-US .
+
+<https://onto.tib.eu/destf/cs/8325> rdfs:label "Kirchenmusik"@de-DE,
+        "Church Music"@en-US ;
+    skos:prefLabel "Church Music"@en-US .
+
+<https://onto.tib.eu/destf/cs/8330> rdfs:label "Komposition"@de-DE,
+        "Composition"@en-US ;
+    skos:prefLabel "Composition"@en-US .
+
+<https://onto.tib.eu/destf/cs/8340> rdfs:label "Dirigieren"@de-DE,
+        "Conducting"@en-US ;
+    skos:prefLabel "Conducting"@en-US .
+
+<https://onto.tib.eu/destf/cs/8350> rdfs:label "Musikwissenschaft, -geschichte"@de-DE,
+        "Musicology, History Of Music"@en-US ;
+    skos:prefLabel "Musicology, History Of Music"@en-US .
+
+<https://onto.tib.eu/destf/cs/8360> rdfs:label "Musikerziehung"@de-DE,
+        "Music Education"@en-US ;
+    skos:prefLabel "Music Education"@en-US .
+
+<https://onto.tib.eu/destf/cs/8363> rdfs:label "Orchestermusik"@de-DE,
+        "Orchestral Music"@en-US ;
+    skos:prefLabel "Orchestral Music"@en-US .
+
+<https://onto.tib.eu/destf/cs/8364> rdfs:label "Rhythmik"@de-DE,
+        "Rhythm"@en-US ;
+    skos:prefLabel "Rhythm"@en-US .
+
+<https://onto.tib.eu/destf/cs/8365> rdfs:label "Sonstige Musikpraxis"@de-DE,
+        "Other Music Practice"@en-US ;
+    skos:prefLabel "Other Music Practice"@en-US .
+
+<https://onto.tib.eu/destf/cs/8600> rdfs:label "Hörsaal/Lehrraum"@de-DE,
+        "Lecture Hall/teaching Room"@en-US ;
+    skos:prefLabel "Lecture Hall/teaching Room"@en-US .
+
+<https://onto.tib.eu/destf/cs/870> rdfs:label "Hochschule insgesamt"@de-DE,
+        "University Overall"@en-US ;
+    skos:prefLabel "University Overall"@en-US .
+
+<https://onto.tib.eu/destf/cs/8700> rdfs:label "Hochschule allgemein"@de-DE,
+        "University (general)"@en-US ;
+    skos:prefLabel "University (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/8710> rdfs:label "Nicht zugeteilte Stellen/Räume/Mittel"@de-DE,
+        "Unallocated Posts/rooms/funds"@en-US ;
+    skos:prefLabel "Unallocated Posts/rooms/funds"@en-US .
+
+<https://onto.tib.eu/destf/cs/8720> rdfs:label "Nicht nutzbare Räume"@de-DE,
+        "Unusable Rooms"@en-US ;
+    skos:prefLabel "Unusable Rooms"@en-US .
+
+<https://onto.tib.eu/destf/cs/8730> rdfs:label "Hochschulkommission"@de-DE,
+        "Higher Education Commission"@en-US ;
+    skos:prefLabel "Higher Education Commission"@en-US .
+
+<https://onto.tib.eu/destf/cs/880> rdfs:label "Zentrale Hochschulverwaltung"@de-DE,
+        "Central University Administration"@en-US,
+        "Central University Administration (General)"@en-US ;
+    skos:prefLabel "Central University Administration (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/8800> rdfs:label "Allgemeine Hochschulverwaltung"@de-DE,
+        "General University Administration"@en-US ;
+    skos:prefLabel "General University Administration"@en-US .
+
+<https://onto.tib.eu/destf/cs/8805> rdfs:label "Akademische Selbstverwaltung"@de-DE,
+        "Academic Self-administration"@en-US ;
+    skos:prefLabel "Academic Self-administration"@en-US .
+
+<https://onto.tib.eu/destf/cs/8806> rdfs:label "Personalvertretung einschl. Vertretungen für Datenschutz, Behinderte, Frauen etc."@de-DE,
+        "Staff Representation Including Representatives For Data Protection, Disabled People, Women, Etc."@en-US ;
+    skos:prefLabel "Staff Representation Including Representatives For Data Protection, Disabled People, Women, Etc."@en-US .
+
+<https://onto.tib.eu/destf/cs/8810> rdfs:label "Fakultäts-/Fachbereichsverwaltung"@de-DE,
+        "Faculty/department Administration"@en-US ;
+    skos:prefLabel "Faculty/department Administration"@en-US .
+
+<https://onto.tib.eu/destf/cs/8820> rdfs:label "Studentische Selbstverwaltung"@de-DE,
+        "Student Self Government"@en-US ;
+    skos:prefLabel "Student Self Government"@en-US .
+
+<https://onto.tib.eu/destf/cs/8830> rdfs:label "Zentrale Studienberatung"@de-DE,
+        "Central Student Advisory Service"@en-US ;
+    skos:prefLabel "Central Student Advisory Service"@en-US .
+
+<https://onto.tib.eu/destf/cs/890> rdfs:label "Zentral verwaltete Hörsäle und Lehrräume"@de-DE,
+        "Centrally Managed Lecture Halls And Classrooms"@en-US ;
+    skos:prefLabel "Centrally Managed Lecture Halls And Classrooms"@en-US .
+
+<https://onto.tib.eu/destf/cs/8900> rdfs:label "Zentrale Dienste der Kliniken allgemein"@de-DE,
+        "Central Services Of The Clinics (general)"@en-US ;
+    skos:prefLabel "Central Services Of The Clinics (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/8905> rdfs:label "Ambulanz, Konsiliardienst, soweit nicht fachlich zuzuordnen"@de-DE,
+        "Ambulance, Consultation Service, If Not Assigned To A Specific Specialty"@en-US ;
+    skos:prefLabel "Ambulance, Consultation Service, If Not Assigned To A Specific Specialty"@en-US .
+
+<https://onto.tib.eu/destf/cs/8910> rdfs:label "Klinikverwaltung (einschl. Rechenzentrum)"@de-DE,
+        "Clinic Administration (including Data Center)"@en-US ;
+    skos:prefLabel "Clinic Administration (including Data Center)"@en-US .
+
+<https://onto.tib.eu/destf/cs/8915> rdfs:label "Pflegedienst, soweit nicht fachlich zuzuordnen"@de-DE,
+        "Nursing Service, Unless Professionally Assigned"@en-US ;
+    skos:prefLabel "Nursing Service, Unless Professionally Assigned"@en-US .
+
+<https://onto.tib.eu/destf/cs/8920> rdfs:label "Zentrale Blutbank"@de-DE,
+        "Central Blood Bank"@en-US ;
+    skos:prefLabel "Central Blood Bank"@en-US .
+
+<https://onto.tib.eu/destf/cs/8930> rdfs:label "Apotheke"@de-DE,
+        "Pharmacy"@en-US ;
+    skos:prefLabel "Pharmacy"@en-US .
+
+<https://onto.tib.eu/destf/cs/8940> rdfs:label "Reinigung, Wäsche, Sterilisation"@de-DE,
+        "Cleaning, Laundry, Sterilization"@en-US ;
+    skos:prefLabel "Cleaning, Laundry, Sterilization"@en-US .
+
+<https://onto.tib.eu/destf/cs/8950> rdfs:label "Zentrallabor"@de-DE,
+        "Central Laboratory"@en-US ;
+    skos:prefLabel "Central Laboratory"@en-US .
+
+<https://onto.tib.eu/destf/cs/900> rdfs:label "Zentralbibliothek"@de-DE,
+        "Central Library"@en-US ;
+    skos:prefLabel "Central Library"@en-US .
+
+<https://onto.tib.eu/destf/cs/9000> rdfs:label "Bibliothek"@de-DE,
+        "Library"@en-US ;
+    skos:prefLabel "Library"@en-US .
+
+<https://onto.tib.eu/destf/cs/9050> rdfs:label "Archiv"@de-DE,
+        "Archive"@en-US ;
+    skos:prefLabel "Archive"@en-US .
+
+<https://onto.tib.eu/destf/cs/910> rdfs:label "Hochschulrechenzentrum"@de-DE,
+        "University Computer Center"@en-US ;
+    skos:prefLabel "University Computer Center"@en-US .
+
+<https://onto.tib.eu/destf/cs/9100> rdfs:label "Rechenzentrum"@de-DE,
+        "Data Center"@en-US ;
+    skos:prefLabel "Data Center"@en-US .
+
+<https://onto.tib.eu/destf/cs/920> rdfs:label "Zentrale wissenschaftliche Einrichtungen"@de-DE,
+        "Central Scientific Institutions"@en-US ;
+    skos:prefLabel "Central Scientific Institutions"@en-US .
+
+<https://onto.tib.eu/destf/cs/9200> rdfs:label "Zentrale wissenschaftliche Einrichtungen allgemein"@de-DE,
+        "Central Scientific Institutions (general)"@en-US ;
+    skos:prefLabel "Central Scientific Institutions (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/9210> rdfs:label "Sprachenzentrum"@de-DE,
+        "Language Center"@en-US ;
+    skos:prefLabel "Language Center"@en-US .
+
+<https://onto.tib.eu/destf/cs/9220> rdfs:label "Sprachlabor"@de-DE,
+        "Language Lab"@en-US ;
+    skos:prefLabel "Language Lab"@en-US .
+
+<https://onto.tib.eu/destf/cs/9230> rdfs:label "Akademisches Auslandsamt"@de-DE,
+        "International Office"@en-US ;
+    skos:prefLabel "International Office"@en-US .
+
+<https://onto.tib.eu/destf/cs/9240> rdfs:label "Tierversuchsanlage"@de-DE,
+        "Animal Testing Facility"@en-US ;
+    skos:prefLabel "Animal Testing Facility"@en-US .
+
+<https://onto.tib.eu/destf/cs/9250> rdfs:label "Strahlenlabor"@de-DE,
+        "Radiation Laboratory"@en-US ;
+    skos:prefLabel "Radiation Laboratory"@en-US .
+
+<https://onto.tib.eu/destf/cs/9260> rdfs:label "Wissenschaftliche/Künstlerische Werkstätten"@de-DE,
+        "Scientific/artistic Workshops"@en-US ;
+    skos:prefLabel "Scientific/artistic Workshops"@en-US .
+
+<https://onto.tib.eu/destf/cs/9280> rdfs:label "Forschungs-/Technologie-/Transferstellen"@de-DE,
+        "Research/technology/transfer Offices"@en-US ;
+    skos:prefLabel "Research/technology/transfer Offices"@en-US .
+
+<https://onto.tib.eu/destf/cs/9290> rdfs:label "Weiterbildungszentrum"@de-DE,
+        "Adult Education Centre"@en-US ;
+    skos:prefLabel "Adult Education Centre"@en-US .
+
+<https://onto.tib.eu/destf/cs/930> rdfs:label "Zentrale Betriebs- und Versorgungseinrichtungen"@de-DE,
+        "Central Operating And Supply Facilities"@en-US ;
+    skos:prefLabel "Central Operating And Supply Facilities"@en-US .
+
+<https://onto.tib.eu/destf/cs/9300> rdfs:label "Zentrale Betriebs- und Versorgungseinrichtungen allgemein"@de-DE,
+        "Central Operating And Supply Facilities (general)"@en-US ;
+    skos:prefLabel "Central Operating And Supply Facilities (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/9305> rdfs:label "Arbeitssicherheit, Feuerwehr"@de-DE,
+        "Occupational Safety, Fire Brigade"@en-US ;
+    skos:prefLabel "Occupational Safety, Fire Brigade"@en-US .
+
+<https://onto.tib.eu/destf/cs/9310> rdfs:label "Hausverwaltung"@de-DE,
+        "Property Management"@en-US ;
+    skos:prefLabel "Property Management"@en-US .
+
+<https://onto.tib.eu/destf/cs/9320> rdfs:label "Foto-, Reprostelle"@de-DE,
+        "Photo And Repro Workshop"@en-US ;
+    skos:prefLabel "Photo And Repro Workshop"@en-US .
+
+<https://onto.tib.eu/destf/cs/9330> rdfs:label "Zentrale Betriebswerkstätten"@de-DE,
+        "Central Academic Facilities"@en-US ;
+    skos:prefLabel "Central Academic Facilities"@en-US .
+
+<https://onto.tib.eu/destf/cs/9340> rdfs:label "Materialversorgungslager der Hochschule"@de-DE,
+        "Material Supply Warehouse Of The University"@en-US ;
+    skos:prefLabel "Material Supply Warehouse Of The University"@en-US .
+
+<https://onto.tib.eu/destf/cs/9350> rdfs:label "Fahrbereitschaft"@de-DE,
+        "Chauffeur-driven Carpool"@en-US,
+        "Readiness To Drive"@en-US ;
+    skos:prefLabel "Readiness To Drive"@en-US .
+
+<https://onto.tib.eu/destf/cs/9360> rdfs:label "Versorgungseinrichtungen"@de-DE,
+        "Utility Facilities"@en-US ;
+    skos:prefLabel "Utility Facilities"@en-US .
+
+<https://onto.tib.eu/destf/cs/940> rdfs:label "Soziale Einrichtungen"@de-DE,
+        "Social Facilities"@en-US ;
+    skos:prefLabel "Social Facilities"@en-US .
+
+<https://onto.tib.eu/destf/cs/9400> rdfs:label "Soziale Einrichtungen allgemein"@de-DE,
+        "Social Institutions (general)"@en-US ;
+    skos:prefLabel "Social Institutions (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/9410> rdfs:label "Wohnung/Gästehaus"@de-DE,
+        "Apartment/guest House"@en-US ;
+    skos:prefLabel "Apartment/guest House"@en-US .
+
+<https://onto.tib.eu/destf/cs/9420> rdfs:label "Wohnheim"@de-DE,
+        "Dorm"@en-US ;
+    skos:prefLabel "Dorm"@en-US .
+
+<https://onto.tib.eu/destf/cs/9430> rdfs:label "Sonstige soziale Einrichtungen"@de-DE,
+        "Other Social Facilities"@en-US ;
+    skos:prefLabel "Other Social Facilities"@en-US .
+
+<https://onto.tib.eu/destf/cs/950> rdfs:label "Übrige Ausbildungseinrichtungen"@de-DE,
+        "Other Training Facilities"@en-US ;
+    skos:prefLabel "Other Training Facilities"@en-US .
+
+<https://onto.tib.eu/destf/cs/9500> rdfs:label "Übrige Ausbildungseinrichtungen allgemein"@de-DE,
+        "Other Training Facilities (General)"@en-US ;
+    skos:prefLabel "Other Training Facilities (General)"@en-US .
+
+<https://onto.tib.eu/destf/cs/9510> rdfs:label "Studienkolleg"@de-DE,
+        "Preparatory College"@en-US ;
+    skos:prefLabel "Preparatory College"@en-US .
+
+<https://onto.tib.eu/destf/cs/9520> rdfs:label "Schulen für nichtakademische Ausbildungsgänge"@de-DE,
+        "Schools For Non-academic Training Programmes"@en-US ;
+    skos:prefLabel "Schools For Non-academic Training Programmes"@en-US .
+
+<https://onto.tib.eu/destf/cs/9530> rdfs:label "Sonstige Bildungseinrichtungen"@de-DE,
+        "Other Educational Institutions"@en-US ;
+    skos:prefLabel "Other Educational Institutions"@en-US .
+
+<https://onto.tib.eu/destf/cs/9540> rdfs:label "Sportstätten"@de-DE,
+        "Sports Facilities"@en-US ;
+    skos:prefLabel "Sports Facilities"@en-US .
+
+<https://onto.tib.eu/destf/cs/960> rdfs:label "Mit der Hochschule verbundene sowie hochschulfremde Einrichtungen"@de-DE,
+        "Institutions Affiliated With The University And Non-university Institutions"@en-US ;
+    skos:prefLabel "Institutions Affiliated With The University And Non-university Institutions"@en-US .
+
+<https://onto.tib.eu/destf/cs/9600> rdfs:label "Mit der Hochschule verbundene Einrichtungen allgemein"@de-DE,
+        "Institutions Associated With The University (general)"@en-US ;
+    skos:prefLabel "Institutions Associated With The University (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/9610> rdfs:label "Studentenwerk"@de-DE,
+        "Student Union"@en-US ;
+    skos:prefLabel "Student Union"@en-US .
+
+<https://onto.tib.eu/destf/cs/9620> rdfs:label "Staatliche Prüfungsämter"@de-DE,
+        "State Examination Offices"@en-US ;
+    skos:prefLabel "State Examination Offices"@en-US .
+
+<https://onto.tib.eu/destf/cs/9630> rdfs:label "Max-Planck-Institute"@de-DE,
+        "Max Planck Institutes"@en-US ;
+    skos:prefLabel "Max Planck Institutes"@en-US .
+
+<https://onto.tib.eu/destf/cs/9640> rdfs:label "Materialprüfungsanstalten"@de-DE,
+        "Material Testing Institutes"@en-US ;
+    skos:prefLabel "Material Testing Institutes"@en-US .
+
+<https://onto.tib.eu/destf/cs/9650> rdfs:label "Einrichtungen des öffentlichen Gesundheitswesens"@de-DE,
+        "Public Health Care Facilities"@en-US ;
+    skos:prefLabel "Public Health Care Facilities"@en-US .
+
+<https://onto.tib.eu/destf/cs/9660> rdfs:label "Hochschulbauamt"@de-DE,
+        "Office Of Higher Education Construction"@en-US ;
+    skos:prefLabel "Office Of Higher Education Construction"@en-US .
+
+<https://onto.tib.eu/destf/cs/9665> rdfs:label "Kirchliche Prüfungsämter"@de-DE,
+        "Ecclesiastical Examination Offices"@en-US ;
+    skos:prefLabel "Ecclesiastical Examination Offices"@en-US .
+
+<https://onto.tib.eu/destf/cs/9670> rdfs:label "Landesanstalten"@de-DE,
+        "State Institutions"@en-US ;
+    skos:prefLabel "State Institutions"@en-US .
+
+<https://onto.tib.eu/destf/cs/9675> rdfs:label "Fraunhofer-Institute"@de-DE,
+        "Fraunhofer Institutes"@en-US ;
+    skos:prefLabel "Fraunhofer Institutes"@en-US .
+
+<https://onto.tib.eu/destf/cs/9680> rdfs:label "Sonstige hochschulfremde Institutionen"@de-DE,
+        "Other Non-university Institutions"@en-US ;
+    skos:prefLabel "Other Non-university Institutions"@en-US .
+
+<https://onto.tib.eu/destf/cs/970> rdfs:label "Kliniken insgesamt, Zentrale Dienste"@de-DE,
+        "Hospitals As A Whole, Central Services"@en-US ;
+    skos:prefLabel "Hospitals As A Whole, Central Services"@en-US .
+
+<https://onto.tib.eu/destf/cs/9710> rdfs:label "Zentral verwaltete Hörsäle und Lehrräume"@de-DE,
+        "Centrally Managed Lecture Halls And Classrooms"@en-US ;
+    skos:prefLabel "Centrally Managed Lecture Halls And Classrooms"@en-US .
+
+<https://onto.tib.eu/destf/cs/9720> rdfs:label "Zentrale wissenschaftliche Einrichtungen (einschl. Bibliothek)"@de-DE,
+        "Central Academic Facilities (including The Library)"@en-US ;
+    skos:prefLabel "Central Academic Facilities (including The Library)"@en-US .
+
+<https://onto.tib.eu/destf/cs/9730> rdfs:label "Energie, Wasser, Transport"@de-DE,
+        "Energy, Water, Transportation"@en-US ;
+    skos:prefLabel "Energy, Water, Transportation"@en-US .
+
+<https://onto.tib.eu/destf/cs/9740> rdfs:label "Werkstätten"@de-DE,
+        "Workshops"@en-US ;
+    skos:prefLabel "Workshops"@en-US .
+
+<https://onto.tib.eu/destf/cs/980> rdfs:label "Soziale Einrichtungen der Kliniken"@de-DE,
+        "Social Facilities Of The Clinics"@en-US ;
+    skos:prefLabel "Social Facilities Of The Clinics"@en-US .
+
+<https://onto.tib.eu/destf/cs/9800> rdfs:label "Soziale Einrichtungen der Kliniken allgemein"@de-DE,
+        "Social Facilities Of The Clinics (general)"@en-US ;
+    skos:prefLabel "Social Facilities Of The Clinics (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/9805> rdfs:label "Sozialdienst, Patientenbetreuung"@de-DE,
+        "Social Service, Patient Care"@en-US ;
+    skos:prefLabel "Social Service, Patient Care"@en-US .
+
+<https://onto.tib.eu/destf/cs/9810> rdfs:label "Krankenhausseelsorge"@de-DE,
+        "Hospital Chaplaincy"@en-US ;
+    skos:prefLabel "Hospital Chaplaincy"@en-US .
+
+<https://onto.tib.eu/destf/cs/9815> rdfs:label "Patientenbücherei"@de-DE,
+        "Patient Library"@en-US ;
+    skos:prefLabel "Patient Library"@en-US .
+
+<https://onto.tib.eu/destf/cs/9820> rdfs:label "Dienstwohnungen"@de-DE,
+        "Service Apartments"@en-US ;
+    skos:prefLabel "Service Apartments"@en-US .
+
+<https://onto.tib.eu/destf/cs/9825> rdfs:label "Wohnheime"@de-DE,
+        "Dormitories"@en-US ;
+    skos:prefLabel "Dormitories"@en-US .
+
+<https://onto.tib.eu/destf/cs/9830> rdfs:label "Kindergarten"@de-DE,
+        "Kindergarten"@en-US ;
+    skos:prefLabel "Kindergarten"@en-US .
+
+<https://onto.tib.eu/destf/cs/986> rdfs:label "Übrige Ausbildungseinrichtungen der Kliniken"@de-DE,
+        "Other Training Facilities Of The Clinics"@en-US ;
+    skos:prefLabel "Other Training Facilities Of The Clinics"@en-US .
+
+<https://onto.tib.eu/destf/cs/9860> rdfs:label "Schulen für nichtakademische Ausbildungsgänge (z.B. Krankenpflegeschulen, Schulen für Logopäden, med.-techn. Assistenten)"@de-DE,
+        "Schools For Non-Academic Training Courses (E.G. Nursing Schools, Schools For Speech Therapists, Medical-Technical Assistants)"@en-US ;
+    skos:prefLabel "Schools For Non-Academic Training Courses (E.G. Nursing Schools, Schools For Speech Therapists, Medical-Technical Assistants)"@en-US .
+
+<https://onto.tib.eu/destf/cs/990> rdfs:label "Mit den Kliniken verbundene sowie klinikfremde Einrichtungen"@de-DE,
+        "Facilities Associated With And External To The Clinics"@en-US ;
+    skos:prefLabel "Facilities Associated With And External To The Clinics"@en-US .
+
+<https://onto.tib.eu/destf/cs/9900> rdfs:label "Mit den Kliniken verbundene Einrichtungen allgemein"@de-DE,
+        "Facilities Associated With The Clinics (general)"@en-US ;
+    skos:prefLabel "Facilities Associated With The Clinics (general)"@en-US .
+
+<https://onto.tib.eu/destf/cs/9910> rdfs:label "Öffentliches Gesundheitswesen (z.B. Blutalkoholuntersuchungsstelle, Medizinaluntersuchungsamt)"@de-DE,
+        "Public Health System (e.g. Blood Alcohol Testing Centre, Medical Examination Office)"@en-US ;
+    skos:prefLabel "Public Health System (e.g. Blood Alcohol Testing Centre, Medical Examination Office)"@en-US .
+
+<https://onto.tib.eu/destf/cs/9920> rdfs:label "Blutbank anderer Träger"@de-DE,
+        "Blood Bank Of Other Carriers"@en-US ;
+    skos:prefLabel "Blood Bank Of Other Carriers"@en-US .
+
+<https://onto.tib.eu/destf/cs/9930> rdfs:label "Geschäft, Gaststätte, Bank, Friseur"@de-DE,
+        "Shop, Restaurant, Bank, Hairdresser"@en-US ;
+    skos:prefLabel "Shop, Restaurant, Bank, Hairdresser"@en-US .
+
